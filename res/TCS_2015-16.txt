@@ -1,0 +1,5998 @@
+Corporate Sustainability Report
+
+2015 | 2016
+
+Table of Contents
+
+About the Report
+
+4
+
+CEO’s Message
+
+5
+
+Organization Proﬁle
+
+10
+
+Stakeholder Engagement and Materiality Deﬁnition
+
+16
+
+Our Sustainability Strategy and Corporate Governance
+
+24
+
+Our Marketplace
+
+30
+
+Our Workforce
+
+39
+
+Our Community
+
+52
+
+Our Environment
+
+62
+
+GRI G4 Content Index
+
+81
+
+External Assurance
+
+86
+
+Contact
+
+92
+
+About the Report
+TCS publishes Sustainability Reports annually. The last report published was for the ﬁnancial year
+2014-15.This is TCS' Tenth Sustainability Report, for ﬁnancial year 2015-16 (April to March). It has
+been prepared in conformance with the G4 Sustainability Reporting Guidelines published by the
+Global Reporting Initiative (GRI) which focuses on the principles of materiality and stakeholder
+inclusiveness and is in accordance with the 'Core' option. The report addresses the key
+sustainability topics gleaned through interactions with the diﬀerent stakeholder groups. These
+topics cover the full range of material economic, social and environmental impacts of the
+organization. The report boundaries and exclusions are provided below:
+
+Data
+
+Basis
+
+Exclusions
+
+Financial
+
+TCS' Consolidated,
+Global Operations
+
+None
+
+Human
+Resources
+
+TCS Ltd.'s global
+operations, including
+wholly owned
+subsidiaries
+
+Subsidiaries not wholly
+owned by TCS
+(accounting for 1.9% of
+consolidated headcount).¹
+
+Delivery centers in
+India and UK,
+Hungary, Singapore,
+China, Philippines,
+Brazil, Chile, Uruguay
+and Mexico.
+
+Remaining delivery
+centers outside India
+(accounting for
+approx. 4% of
+headcount)²
+
+Environmental
+
+Data measurement techniques and the bases of calculations and estimates are furnished in the
+relevant areas of the report. The Company does not believe there is any substantial divergence
+from the GRI Indicator Protocols.
+There have been no signiﬁcant changes from the last reporting period in the scope, boundary,
+or methodology for data analysis applied in the report. There has been no restatement of
+information provided in earlier reports. The data is sourced from Ultimatix, the Company's core
+enterprise platform which runs all internal processes in HR, Finance and Project Management
+and is also the portal for employees to provide their opinions and feedback. All the data is
+audited by relevant third party auditors as part of ISO and ﬁnancial audits.
+This report has been externally assured by KPMG. The scope and basis of the assurance have
+been described in the assurance letter issued by KPMG. No other relationship exists between
+TCS and KPMG.
+
+G4-17, G4-18, G4-22,
+G4-23, G4-28, G4-29,G4-30,
+G4-32, G4-33
+4
+
+1 List of subsidiaries available on Page 171 of the Annual Report http://www.tcs.com/investors/Documents/Annual%20Reports/TCS_Annual_Report_2015-2016.pdf
+2 List of delivery centers is available at: http://www.tcs.com/worldwide/india/locations/oﬃce-locations/Pages/default.aspx
+
+CEO's Message
+Dear Stakeholders,
+I am happy to connect with you on the occasion of the publication of TCS' Corporate
+Sustainability Report. This is our 10th edition of the Report since 2007.
+I am pleased to reaﬃrm our support to the Ten Principles of the United Nations Global
+Compact in the areas of Human Rights, Labour, Environment and Anti-Corruption.
+On the business front, we concluded FY16 with a strong overall performance for the
+ﬁnancial year with total revenues of Rs. 1.086 trillion, up 14.8%.
+Digital technology has had a profound impact which has presented tremendous opportunities for
+the future. This, at the same time, is forcing every business to reimagine and rethink their products,
+services and business models. We have been making signiﬁcant investments in digital
+technologies in terms of training & talent development through our immersive Digital Learning
+Platform; building innovation labs and customer collaboration labs and investing in platforms and
+automation products which are being appreciated by customers. Machine learning and Neural
+Automation will have a strong impact on business processes. Our research eﬀorts over the last four
+years in this area culminated in the launch of IgnioTM earlier this year, which is receiving great
+interest from our customers.
+We continue to focus on innovation both from the point of view of future business models
+as well as speciﬁc industry and technology solutions that will make a huge impact on
+our customers.
+This year, we had our highest all-time employee addition with a gross addition of 90,182
+employees – giving us a diverse base of over 350,000 professionals from 129 nationalities. In order
+to equip all our employees with right skills in the digital world we launched our Digital Learning
+Platform. In the past 12 months over 120,000 TCSers have developed skills in new technologies
+using the TCS Digital Learning Platform.
+We consolidated our position among the top global IT brands and were recognised as the fastest
+growing IT Services brand globally over the last ﬁve years, scoring highly on measures like
+familiarity, loyalty, staﬀ satisfaction and corporate reputation. TCS was ranked among the Forbes
+most innovative companies for the eighth consecutive year. We were also ranked as a UK
+Superbrand for the second year in a row. Among other major accolades, TCS ranked #1 in Europe
+for Customer Satisfaction by Whitelane Research for the third year in a row. We were also
+recognised as a Top Employer globally across 24 countries by the Top Employers Institute - one in
+only eight organisations worldwide to have achieved this status.
+Beyond business, we continue to enhance our footprint in the communities where we operate. In
+North America, our STEM technology platforms have brought together over 250 organizations in
+support of mentoring over 750,000 girls, young women and students from underrepresented
+minorities. In UK, we created 1,000 internships for young British university graduates to spend a
+year, training and working at TCS centres across India. In a diﬀerent type of intervention to enable
+education of girl students in India, TCS built new sanitation facilities in 1,472 schools. TCS
+partnered with All India Institute of Medical Sciences (AIIMS) to transform the Out Patient
+Department (OPD) process using technology interventions to improve access to healthcare and
+help treat patients eﬀectively and eﬃciently.
+
+G4-1
+
+5
+
+...CEO's Message
+To underline our serious commitment to advancement in Computer Science we made a signiﬁcant
+contribution for setting up infrastructure at the Carnegie Mellon University. We are also setting up
+a Research Centre at IIIT Hyderabad and now have a dedicated team to sharpen our collaboration
+with leading technology institutions to promote market driven innovation.
+In the ﬁrst anniversary of Purpose4Life, I am very proud to say that we saw an overwhelming
+participation from TCSers globally, contributing over 600,000 hours of volunteering to make a
+positive impact in their communities. Fit4Life continues to grow with active participation of over
+80,000 employees.
+Safety of our employees remains an important focus for us. Our Safety First initiative launched last
+year continues to promote a safety culture among our associates. This year, several branch led
+programs impacted more than 250,000 employees across the globe. Through these programs we
+take more signiﬁcant steps for building a stronger safety culture within TCS.
+We continue to work on our environmental sustainability targets and continually reduce our
+environmental impact. With a strong focus on energy eﬃciency, green infrastructure and green IT,
+we strive towards reducing our speciﬁc energy and carbon footprint. This year, we have
+strengthened our commitment to promoting environmental suitability as we expand our Energy
+Management Programme. We have deployed extensive smart metering which is a leading edge,
+scalable, cloud based IoT platform in 107 sites within our India operations. This has resulted in
+absolute energy savings of ~12.5 million kwh. We continue to drive water eﬃciency at our
+premises through wastewater treatment and closed loop recycling to reduce our demand on fresh
+water, working towards our long term target of water neutrality. Through eﬀective waste
+management aligned to the 3R principle, we aspire to achieve zero waste discharge at all our
+campuses.
+With all our investments we are well positioned to capture growth opportunities in the market and
+make a huge impact on customers and society.
+
+Regards,
+N. Chandrasekaran
+CEO & MD, TCS
+
+6
+
+Organization
+Profile
+
+Organization Profile
+Tata Consultancy Services is an IT services, business solutions, and Business Process Services (BPS)
+organization that delivers real results to global businesses, with a high level of certainty. TCS oﬀers a
+consulting-led, complete and integrated portfolio of IT and IT-enabled services delivered through its unique
+Global Network Delivery Model (GNDM™), recognized as an industry benchmark of excellence in distributed
+software development.
+Founded in 1968 as part of the Tata group, TCS is headquartered in Mumbai, India and is a public limited
+company³, listed on the National Stock Exchange (NSE) and Bombay Stock Exchange (BSE) in India. In FY 2016,
+we reported consolidated revenues of USD 16.5 billion.
+
+MISSION AND VALUES
+It is our mission to continue to help customers
+achieve their business objectives with our services.
+TCS' core set of values underpin all activities in the
+company and these include leadership with trust,
+integrity, excellence, respect for the individual, and
+learning/sharing.
+
+BUSINESS OVERVIEW
+TCS is an IT services, consulting and business solutions
+organization that delivers measurable results to global
+businesses, ensuring a level of certainty no other ﬁrm
+can match. We oﬀer a consulting-led, integrated
+portfolio of IT, BPS, IT infrastructure, engineering, and
+assurance services. In addition, we have launched
+several new service oﬀerings around mobility, social
+computing, Big Data and the cloud. This is delivered
+through its unique Global Network Delivery Model™,
+recognized as the benchmark of excellence in
+software development.
+We have built strong domain capabilities in a range of
+industry verticals, positioning ourselves as a strategic
+partner capable of reliably delivering innovative
+technology-led solutions to business problems. The
+key industry verticals we service are: Banking,
+Financial Services, and Insurance (BFSI); Retail and
+Consumer Packaged Goods; Telecom; Media and
+Entertainment; High Tech; Manufacturing; Life
+Sciences and Healthcare (LSHC); Energy Resources and
+Utilities (ERU); Travel, Transportation, and Hospitality
+(TTH); and government sectors. Exhibit 1 illustrates
+our revenue break-up by industry.
+
+G4-3, G4-4, G4-7, G4-13
+
+10
+
+3 Please refer to our FY2016 Annual Report for details of the shareholding pattern (page 121), changes in the capital structure during
+FY2016 (page 158) and the complete list of subsidiaries (pages 232-234). Our Annual Report can be accessed on:
+http://www.tcs.com/investors/Documents/Annual%20Reports/TCS_Annual_Report_2015-2016.pdf
+
+Corporate Sustainability Report 2015 | 2016
+
+3.6%
+
+2.5%
+
+3.9%
+BFSI
+
+4.1%
+
+Retail and Distribution
+Manufacturing
+
+5.7%
+
+Telecom
+Life Sciences and Healthcare
+
+40.6%
+
+7.1%
+
+Hi Tech
+
+8.4%
+
+Energy and Utilities
+Travel and Hospitality
+
+10.1%
+
+14.1%
+
+Media & Entertainment
+Others
+
+Exhibit 1: Revenue Break-Up by Industry Vertical
+
+Global Footprint
+TCS has been steadily expanding its geographic footprint. In addition to the traditional markets for its
+services – North America, United Kingdom, and Continental Europe, we have been expanding our presence
+in emerging markets like Asia-Paciﬁc (APAC), India, Latin America (LATAM), and Middle East and Africa (MEA).
+As of March 31, 2016, TCS has 229 oﬃces across 55 countries. Exhibit 2 displays the break-up
+of our oﬃces by geography. In FY16, we expanded our global footprint with 25 new oﬃces in
+6 countries.
+
+95 26 13 29 33 26
+India
+
+North
+America
+
+LATAM
+
+UK &
+Ireland
+
+Europe
+
+APAC
+
+7
+MEA
+
+Exhibit 2: TCS Offices across the Globe
+TCS' GNDM™ is characterized by a global, interconnected workforce, integrated processes
+and a robust, multi-tiered collaboration and communication infrastructure, with a global delivery footprint,
+which covers over 145 solution centers across 19 countries.
+
+G4-6, G4-8, G4-9, G4-13
+
+11
+
+Corporate Sustainability Report 2015 | 2016
+
+6 3
+UK
+
+7
+
+Europe
+
+N. America
+
+2 111India 8
+
+8
+
+Latin
+America
+
+MEA
+
+APAC
+
+Exhibit 3: Our GNDMTM Centers around the World
+GNDM™ leverages our diverse technical, language, and domain-speciﬁc capabilities to deliver custom, quality
+solutions faster and in compliance with local regulatory requirements and
+cultural preferences.
+Exhibit 4 illustrates the revenue breakup by geography for FY 2016.
+
+1.9%
+
+2.3%
+
+6.2%
+
+9.5%
+
+North America
+UK
+
+11.0%
+
+53.3%
+
+15.8%
+
+Continental Europe
+Asia Pacific
+India
+Latin America
+MEA
+
+Exhibit 4: Revenue Breakup by Geography
+
+G4-8
+
+12
+
+TCS by Numbers
+Our strategy for longer term growth has been to continually expand addressable market by investing in
+newer geographies, newer industry verticals and newer service lines and strengthen and deepen existing
+client relationships through a customer centric approach, superior execution that gives clients an experience
+of certainty, a full services capability and a scalable global network delivery model (GNDMTM).
+
+$16.5
+Bn
+
+26.5%
+
+$3.7
+Bn
+
+$1,142.4
+Mn
+
+$12.5
+Bn
+
+Net
+sales
+
+Operating
+margin
+
+Net
+income
+
+Taxes
+
+Retained
+earnings
+
+$13.77
+Bn
+
+$75.25
+Bn
+
+353,843
+
+129
+
+33.8%
+
+Market
+capitalization
+
+Number of
+employees
+(on March 31,
+2016)
+
+Number of
+nationalities
+in the
+workforce
+
+Percentage
+of women
+in the
+workforce
+
+Total
+assets
+
+(on March 31,
+2016)
+
+90,182
+
+15.5%
+
+829
+
+37
+
+650,226
+
+New hires
+in FY 2016
+
+Attrition in
+IT services*
+
+Clients
+contributing
+more than
+$1 Mn/year
+
+Clients
+contributing
+more than
+$100 Mn/year
+
+Number of
+shareholders
+
+6,12,908
+
+`381.42
+crores
+
+45%
+
+43.6%
+
+50%
+
+Volunteering
+eﬀort in CSR
+(person hours)*
+
+Investment in
+CSR initiatives*
+
+Reduction in
+per capita
+electricity
+consumed**
+
+Reduction in
+per capita
+carbon footprint
+
+Reduction in
+per capita
+business air
+travel emissions**
+
+15%
+
+79.5%
+
+Reduction in
+per capita
+fresh water
+consumption**
+
+Reduction in
+per capita
+paper
+consumption**
+
+(Scope 1 + Scope 2) **
+
+* Excluding subsidiaries
+** Reduction given is over baseline year
+2007-08 coverage as per Annexure A
+
+G4-9, G4-DMA ECONOMIC,
+G4-EC1
+13
+
+Awards and Recognition
+Key awards and accolades Received in 2015-16
+
+Corporate
+
+n
+
+World's most powerful brand in IT Services Brand Finance
+
+n
+
+Ranked 57 among Top 100 US Brands by
+Brand Finance
+
+n
+
+Dun & Bradstreet Corporate Award
+
+n
+
+Ranked Number 1 – IDC Financial Insights FinTech Rankings
+Top 100
+
+n
+
+Recognized as 'Superbrand' by Superbrands (UK) list for
+business-to-business brands
+
+n
+
+TCS UK and Ireland recognized as 'Company of the Year' by
+the Top Employer Institute
+
+n
+
+Ranked Number 1 in Dataquest's Top 20 list of Indian
+IT companies
+
+n
+
+Winner of Make in India Awards for Excellence in the
+IT services category
+
+n
+
+Winner of Best Practice in Developing Future Leaders Award
+at the Best Leadership Development Practices of Asia Awards
+
+Leadership
+N Chandrasekaran:
+n
+
+Recognition from
+Partners
+
+14
+
+Ranked 'Best CEO', Technology/ IT Services & Software Sector Institutional Investor's 2015 All-Asia Executive Team rankings
+
+n
+
+Winner of Qimpro Platinum Standard Award 2015 (Business)
+
+n
+
+One of Business Today's Best CEOs (IT & ITES)
+
+n
+
+Appointed as a part-time non-official director on the central
+board of the RBI
+
+n
+
+SAP Pinnacle award
+
+n
+
+Oracle Excellence Award for Specialized Partner of the Year –
+Asia Paciﬁc, North America
+
+n
+
+#1 ranking for customer satisfaction – Whitelane Research
+
+n
+
+Red Hat's System Integrator Partner of the Year
+for North America
+
+n
+
+Hitachi Data System's Global System Integrator
+Partner of the Year
+
+n
+
+Fastest Growing SI Partner of the Year for 2015- Expericon
+
+n
+
+Business Transformation Award – Pegasystems Partner
+Excellence Awards
+
+n
+
+Winner, IBM Mobile App Throwdown Contest 2015 for
+Business Partners
+
+n
+
+GSI Partner of the Year Award at Dell World 2015
+
+Corporate Sustainability Report 2015 | 2016
+
+Talent Management
+
+n
+
+Recognized as a Global Top Employer by the Top
+Employers Institute
+
+n
+
+Golden Peacock National Training Award
+
+n
+
+Won multiple awards as part of the Global HR Excellence
+Awards and Recruiting and Staﬃng Best in Class (RASBIC)
+awards - World HRD Congress
+
+n
+
+Number One Best Employer Brand and BPO Organization
+of the Year by the World HRD Congress - Global HR
+Excellence Awards
+
+n
+
+'Best Places to Work For' and Number One in the BPS
+sector - Business Today – People Strong Survey
+
+n
+
+Ranked #64 in the World's Most Innovative Companies list
+- Forbes
+
+n
+
+Recognized for the 'Best In House IP Team of the year IT & Technology' at Global IPR Conclave
+
+n
+
+Dow Jones Sustainability Index - World and Emerging
+Markets 2015: Bronze Status
+
+n
+
+2015 Silver Stevie Award for Corporate Social
+Responsibility
+
+Capability and Innovation
+
+n
+
+Hong Kong Corporate Citizenship Award 2015
+
+n
+
+Mentor Leadership through Technology Award at the
+Inaugural MWM Summit 2015
+
+n
+
+Canadian HR Reporter Best Corporate Social
+Responsibility Program Award 2015
+
+n
+
+TCS UK & Ireland wins 'Social Responsibility project of the
+Year' - Employee Engagement Awards
+
+n
+
+India Sustainability Leadership Award 2015 by World CSR
+Day organization in the area of Sustainable Carbon
+Management category
+
+n
+
+CII National Award for Excellence in Energy Management
+2015 for Deccan Park, Hyderabad
+
+n
+
+CII (Western Region) Best Practices Case Study Award
+2015 (Waste Management) in conference on
+Sustainability & Inclusive Development
+
+n
+
+Carbon Disclosure Leadership Index (CDLI), India 2015
+(fourth year in a row) with a perfect score of 100
+
+Community and Environment
+
+15
+
+Stakeholder Engagement and Materiality Definition
+
+Our Stakeholders
+TCS engages with a broad spectrum of stakeholders, internal and external, to understand their concerns and
+priorities and use these to guide policy formulation and decision-making. Business considerations largely
+govern the decision on which stakeholders to engage with and in what manner and periodicity. Key
+stakeholders have been identiﬁed through a stakeholder prioritization exercise undertaken in consultation
+with our Company's management. Customers, employees, shareholders, investors, engineering colleges,
+staﬃng agencies and other vendors are among the identiﬁed key stakeholders. A stakeholder interaction
+exercise with both internal and external stakeholders was undertaken as part of the report development. TCS
+is a member of a number of industry bodies like NASSCOM and CII and works closely with these bodies in
+shaping policy.
+Exhibit 5 describes TCS' stakeholder interaction framework. Some other stakeholders that we closely engage
+with, such as industry analysts, equity analysts, and the media, have not been mentioned here because they
+are proxies for other named stakeholders – customers, shareholders, and the larger society respectively. TCS
+continues to engage with these stakeholder groups on an ongoing basis through a variety of channels.
+
+Stakeholder
+
+Interfacing Group
+
+Customers
+
+Sales/Pre-Sales
+Marketing
+Delivery teams
+Senior management
+
+Employees
+
+Shareholders
+
+G4-16, G4-18, G4-24, G4-25,
+G4-26, G4-27
+16
+
+HR
+Senior Management
+
+Investor Relations
+Company Secretary
+Senior Management
+
+Engagement Types by Frequency
+Ÿ
+
+As needed: Project-related calls and meetings, PMRs,
+relationship meetings, visits, responses to RFI/RFPs,
+sponsored events, mailers, newsletters, brochures
+
+Ÿ
+
+Continuous: TCS website, customer portal
+
+Ÿ
+
+Half-yearly: Customer satisfaction surveys⁴
+
+Ÿ
+
+Annual: Customer Summit, Innovation Day
+
+Ÿ
+
+As needed: Town halls, roadshows, project/operations
+reviews, videoconferences, audio conference calls, PEEP,
+PROPEL (employee forum), one-on-one counseling
+
+Ÿ
+
+Monthly: @TCS (in-house magazine)
+
+Ÿ
+
+Continuous: TCS website, Ultimatix Notice Board, CEO
+Connect, CTO Blog, Corporate Corner, JustAsk, IdeaMAX,
+dipstick surveys, grievance redressal system
+
+Ÿ
+
+Annual: PULSE (employee feedback survey),
+long service awards, sales meet, Blitz (business
+planning meet)
+
+Ÿ
+
+As needed: Press releases and press conferences, email
+advisories, facility visits, in-person meetings, investor
+conferences, non-deal roadshows, conference calls
+
+Ÿ
+
+Quarterly: Financial statements in Indian GAAP and
+IFRS, earnings call, exchange notifications, press
+conference
+
+Ÿ
+
+Continuous: Investors Page on TCS website
+
+Ÿ
+
+Annual: Annual General Meeting, Annual Report
+
+4 The survey is done at an account-level and measures TCS' performance on various parameters across multiple dimensions.
+
+Stakeholder
+
+Interfacing Group
+
+Academic Institutions
+
+HR
+Senior Management
+CTO
+
+Head Hunters,
+Staffing Firms,
+Other Suppliers
+
+HR
+Business Units
+Procurement
+
+Partners and
+Collaborators
+
+Alliance Management
+CTO
+
+Industry bodies
+
+Governments
+
+Ÿ
+Ÿ
+
+NGOs and Local
+Communities
+Society at large
+
+Corporate Affairs
+Finance
+Senior Management
+Government Business
+Unit
+Corporate Affairs
+HSE/Finance Teams
+CSR Team
+Senior Management
+CSR Team
+Volunteers
+Corporate
+Communications
+Team
+Senior Management
+
+Engagement Types by Frequency
+Ÿ
+
+As needed: Academic Interface Program, Co-Innovation
+Network (COIN™) meetings
+
+Ÿ
+
+Continuous: TCS website, Academic portal
+
+Ÿ
+
+Annual: Sangam (high-level academic conference),
+campus recruitment
+
+Ÿ
+
+One-time: RFIs/RFPs, empanelment process
+
+Ÿ
+
+As needed: Transactional meetings,
+periodic reviews, surveys
+
+Ÿ
+
+As needed: Meetings/calls, COIN meetings, visits,
+partner events
+
+Ÿ
+
+Monthly: Conference calls
+
+Ÿ
+
+Quarterly: Business reviews
+
+Ÿ
+
+Annual: Partner events
+
+Ÿ
+
+As needed: Conferences and seminars, working
+committee meetings, surveys, meetings
+
+Ÿ
+
+Annual: Conferences, summits
+
+Ÿ
+
+As needed: Governance RFIs/RFPs, presentations,
+project meetings, reviews, calls and meetings, surveys,
+consultative sessions
+
+Ÿ
+
+Continuous: TCS website
+
+Ÿ
+
+As needed: Field visits, due diligence, calls and
+meetings, conferences and seminars, surveys, press
+releases, press conferences, media interviews and
+quotes, sponsored events
+Continuous: TCS website
+
+Ÿ
+
+Exhibit 5: TCS' Framework for Interaction with Stakeholders
+Stakeholders
+
+Material Topics
+
+Customers
+
+Business knowledge, Delivery capability, Quality, Data privacy and security,
+Ethical behavior, Fair business practices
+
+Employees
+
+Safe and comfortable workplace, Engaging assignments, Learning
+opportunities, Career development, Compensation structure
+
+Shareholders
+
+Continued revenue growth, Profitability, Cashflows, Corporate Governance,
+Transparency and Disclosure, Dividend payouts
+
+Academic Institutions
+
+Job creation, Curriculum enhancement, Internship opportunities, Faculty
+development
+
+Vendors, Partners and
+Collaborators
+
+Ethical behavior, Fair business practices, Governance, Sustainability of
+Demand, Credit-worthiness
+
+Governments / NGOs / Local
+Communities
+
+Good governance, Ethics and Compliance, Support for developmental
+programs, Job opportunities, Responsible Citizenry
+
+Society at large
+
+Environmental impact
+
+Exhibit 6: Material Topics identified for key Stakeholders
+
+G4-18, G4-24, G4-25,
+G4-26, G4-27
+17
+
+Corporate Sustainability Report 2015 | 2016
+
+Apolitical Stance
+While TCS works closely with consultative bodies of various industry associations in advising governments on
+policy formulation or advocating changes to policy, the company does not spend on lobbying and maintains
+an entirely apolitical stance in line with the Tata Code of Conduct. The company does not support any speciﬁc
+political party or candidate for political oﬃce.
+Material Topics
+The deliberations at the Sustainability Council serve as the foundation for setting the sustainability context
+for our Company leading to the determination of material issues. Relevant stakeholder representatives
+debated these issues to arrive at the prioritized list reﬂecting signiﬁcant economic, environmental and social
+impacts, which allow an assessment of our performance for the reporting period.
+As part of the process of prioritizing the Company's material issues, issues speciﬁcally relevant to TCS were
+listed based on our current material issues, and an external peer review, as well as taking into consideration
+sector speciﬁc issues. These were discussed with both internal and external stakeholders with the objective
+of prioritizing the material topics. The internal stakeholders included senior management members and
+employees whereas the external stakeholders included suppliers, contractors, NGOs, and academic
+institutions.
+Each stakeholder group was asked to rank the listed material issues against speciﬁc business parameters to
+arrive at the average score for each issue and a stakeholder speciﬁc score. A weighted average was
+considered based on the relevance and criticality of each material issue to the respective stakeholder group.
+This was further used to arrive at an aggregated score for each material issue from all the stakeholders.
+The topics material to TCS have been prioritized through this process and after deliberation by management,
+and are listed in Exhibit 7.
+Area
+
+Material Topics
+
+Why this is material
+
+Corporate
+Governance
+
+Strong leadership and effective corporate governance practices have been the
+company's hallmark inherited from the Tata culture and ethos. The company's
+philosophy on corporate governance underlines business strategies and ensures
+fiscal accountability, ethical corporate behavior, and fairness to all stakeholders,
+including regulators, employees, customers, vendors, investors, and the society
+at large.
+
+Ethical Behavior
+and Business
+Practices
+
+TCS emphasizes both the pursuit of technical excellence and the highest
+standards of professionalism on the part of the company and its employees.
+The Tata Code of Conduct confirms our dedication to integrity, fairness, and
+social responsibility.
+
+Delivery
+Capability
+
+Our unique Global Network Delivery Model (GNDM™) allows customers to
+choose the sourcing strategy best suited to their business needs. We take a
+“follow-the-sun” approach, meaning that no matter where our clients' business is
+located, we help keep it running 24/7, while providing a seamless experience
+across all operations.
+
+Business
+Continuity
+
+The company has sustained its commitment to the highest levels of quality, bestin-class service management, robust information security practices, and mature
+business continuity processes that have helped achieve significant milestones
+during the year.
+
+Profit
+
+G4-18, G4-19, G4-20, G4-21
+
+18
+
+Corporate Sustainability Report 2015 | 2016
+
+Area
+
+Material Topics
+
+Why this is material
+
+Working and
+Labor
+Conditions
+
+The company is focused on providing its 353,843 employees from 129
+nationalities across 55 countries a meaningful and compelling environment.
+An environment which gives today's diverse, multi-generational, and mobile
+workforce the confidence to realize their potential and provide world-class
+solutions to customers. This positive and inspiring environment fosters
+innovation, stimulates a performance culture, and motivates employees to
+develop themselves personally and professionally.
+
+People Learning
+Opportunities
+and Career
+Development
+
+Successful delivery of digital initiatives is contingent on gaining new capabilities
+in multiple digital technologies that are evolving at a rapid pace. TCS has
+created a world-class Digital Learning Platform – an integrated ecosystem that
+combines virtual, physical, and experiential learning with high-quality content
+that is available anywhere, anyplace, anytime, and on any device.
+
+Occupational
+Health and
+Safety
+
+For a people-centric organization like ours, occupational safety, health,
+and wellbeing of employees is critical to business. Our commitment towards
+providing a healthy and safe work environment to our employees, contractors,
+and anyone who comes to our offices forms the bedrock of our safety processes.
+We have extended our people focus beyond the workplace to personal safety
+through the SafetyFirst initiative, to create a culture of safety among
+our employees.
+
+Climate
+Change Risks
+and
+Opportunities
+
+Climate change is a complex global issue interrelated to multiple environmental
+aspects. This makes it relevant to businesses either directly or indirectly. TCS
+recognizes this link between climate change and business strategy, making this
+issue material to us. Driven by the Tata Group Climate Change Policy and TCS'
+Environmental Policy, GHG accounting and mitigation are key elements of the
+environmental sustainability roadmap (2020).
+
+Electronic
+Waste (eWaste)
+Planet
+
+As an IT company, TCS is a bulk consumer of electrical and electronic items, which
+results in e-waste generation at the end of life of these items. A focused policy
+and streamlined processes ensure that this generated e-waste is disposed of
+responsibly through government authorized recyclers. Recyclers are periodically
+audited to ensure disposal of these assets is under our 'duty for care'.
+
+Green IT/Data
+Centers/Office
+Buildings
+
+Office infrastructure (buildings and IT assets) is central to any IT company's
+operations. TCS' strategy to build 'green' infrastructure and energy efficient
+IT infrastructure (including data centers) is a key enabler of its environmental
+sustainability roadmap. The company has leveraged opportunities to drive
+eco-efficiency in pursuit of its environmental sustainability goals.
+
+Energy
+Consumption
+and Efficient
+Management
+
+The pillars of energy management at TCS are energy efficient office buildings,
+Green IT, data center power management, operational energy efficiency, and
+renewable energy. Energy is a critical resource for TCS and is a key contributor to
+its carbon footprint. Efficient management of energy is important to minimize our
+carbon footprint and to drive operational cost efficiency.
+
+Exhibit 7: Topics Material to TCS
+
+G4-18, G4-19, G4-20, G4-21
+
+19
+
+Corporate Sustainability Report 2015 | 2016
+
+Aspects
+
+Boundary
+of Impact5
+
+Governance structure and
+composition
+
+Internal
+
+Highest governance body's
+role in setting purpose,
+values and strategy
+
+Internal
+
+Performance evaluation of
+highest governance body
+
+Internal
+
+Risk management by
+highest governance body
+
+Internal
+
+Anti-corruption
+
+Internal
+
+Compliance
+
+Internal
+
+Anti-competitive behavior
+
+Internal
+
+Delivery Capability
+
+No GRI aspect identiﬁed
+
+Internal
+
+Additional
+
+Business Continuity
+
+No GRI aspect identiﬁed
+
+Internal
+
+Additional
+
+Employment
+
+Internal
+
+G4 LA3, LA13
+
+Labor Management
+Relations
+
+Internal
+
+G4 LA4
+
+Diversity & Equal
+Opportunity
+
+Internal
+
+G4 LA12, 13
+
+Learning Opportunities
+and Career
+Training and Education
+Development
+
+Internal
+
+G4 LA11
+
+Occupational Health
+and Safety
+
+Health and Safety
+
+Internal
+
+G4 LA5-8
+
+Climate Change Risks
+and Opportunities
+
+GHG Emissions
+
+Internal
+
+G4 EN16-21
+
+Electronic Waste
+(e-Waste)
+
+Eﬄuents and Waste
+
+Internal
+
+G4 EN23
+
+Green IT/Data
+Centers/Oﬃce
+Buildings
+
+Energy
+
+Internal
+
+G4 EN3-7, EN 8-10,
+EN16-21, EN22, EN 26
+
+Energy
+
+Internal
+
+Emissions
+
+Internal
+
+Compliance
+
+Internal
+
+Material Topics
+
+Corporate
+Governance
+
+Ethical Behavior and
+Business Practices
+
+Working and Labor
+Conditions
+
+Energy Consumption
+and Efficient
+Management
+
+Exhibit 8: Boundary of Impact for Material Aspects
+
+G4-18, G4-19, G4-20, G4-21
+5 Boundary of Impact: Internal includes all TCS oﬃces and campuses
+
+20
+
+Indicators Covered
+
+G4-34, G4-36
+
+G4-56, G4-57
+
+G4 EN3-7
+
+Corporate
+Governance
+
+Our Sustainability Strategy and Corporate Governance
+TCS embodies the Tata group's philosophy of building sustainable businesses that are firmly rooted in the
+community and demonstrate care for the environment. Towards this, TCS has adopted the 'triple bottom-line'
+approach and recognizes that People, Planet, and Profit as the central pillars of corporate sustainability.
+Profits
+
+Sustainable
+Marketplace
+
+Business
+Focus
+
+Governance
+
+Environment
+Internal stakeholders
+Focus
+of sustainability
+
+Environment
+Sustainability
+Internal & External
+
+Planet
+
+People
+Focus
+
+Key elements of sustainability
+
+Sustainable
+Communities
+Internal & External
+
+Triple Bottom Line
+
+People
+
+Exhibit 9: Our Approach to Sustainability
+People: Sustainable Internal and External Communities – Our 353,843 employees are the backbone of
+TCS, who actively participate in sustainability initiatives. Externally, we conduct a diverse range of CSR
+initiatives in the areas of education and skill building, health, environment, and affirmative action through
+volunteering, sponsorships, and pro bono leveraging the company's IT capabilities. In addition, initiatives
+focused at promoting supply chain and procurement sustainability ensure that vendors and suppliers are
+aligned to our sustainability objectives.
+Planet: Environmental Sustainability – From designing sustainable infrastructure and running efficient
+operations, to engaging with supply chain partners in green procurement and disposal activities, TCS takes a
+holistic approach towards reducing our carbon footprint, waste, and our energy and water consumption. Our
+offices as well as IT infrastructure are sustainably designed and built for maximum resource efficiency.
+Profit: Sustainable Marketplace – In addition to ensuring sustainability in business performance, our
+specialists work across industry verticals with an aim to provide next-generation sustainability services to
+customers. Integrating sustainability into business strategies and unlocking environmental efficiencies in the
+entire value chain is a significant value add.
+Corporate Governance
+We foster sustainability with strong corporate governance that oversees business strategies and ensures
+fiscal accountability, ethical corporate behavior, and fairness to all stakeholders. Being part of the 148-year
+old Tata group which epitomizes sustainability, TCS has inherited a strong legacy of fair, transparent, and
+ethical governance, as embodied in the Tata Code of Conduct6 (TCoC).
+
+G4-15, G4-34, G4-36
+
+24
+
+6 The full text of the Tata Code of Conduct is available on: http://www.tcs.com/SiteCollectionDocuments/About%20TCS/
+Tata-Code-of-Conduct-2015.pdf)
+
+Corporate Sustainability Report 2015 | 2016
+
+Our corporate governance strategy is aligned with the ten principles articulated in the UN Global
+Compact, to which TCS is a signatory.
+At the top of the governance structure is the Board of Directors⁷ representing the shareholders, and various
+committees on the Board, overseeing the Executive Management. TCS has a unitary board structure
+consisting of 11 members of whom nine are Non-Executive Directors (including the Chairman) and six are
+Independent Directors⁹. Ms. Aarthi Subramanian was appointed as an Executive Director for a period of three
+years with effect from March 12, 2015. The composition of the Company's Board and detailed profiles of Board
+Members are available on the website.
+Aspect
+
+How
+
+Conﬂict of interest between the Board's executive function and the supervisory
+function is minimized by making the Chairmanship of the Board a non-executive
+role, and keeping it separate from that of the Chief Executive Oﬃcer and
+Managing Director.
+
+Avoidance of
+Conﬂict of Interest
+
+TCS has a Code of Conduct for Non-Executive Directors, requiring them to always
+act in the interest of the company and ensure that any other business or personal
+association, which they may have, does not involve any conﬂict of interest with the
+operations of the company and their role therein.
+Similarly, all employees including the Managing Director and Executive Directors
+are prohibited from freelancing or accepting any position of responsibility with or
+without remuneration with any other company without TCS' written approval. For
+Executive Directors and the Managing Director, such approval must be obtained
+from the Board.
+
+TCS does not derive any material revenues (~0.004% of revenues in FY 2016) from
+its holding company Tata Sons Limited. Employees and resources (including cash)
+are not shared between Group companies.
+Intra-group
+Transactions
+
+Independent Directors make up half the Board. Dealings with Tata Sons or with a
+group company is done on an arms-length basis and have to be approved by the
+Board. Transactions, if any, are reviewed closely by the Board to ensure that all
+shareholders' interests are protected. All transactions with Tata group companies
+are disclosed in TCS' Annual Report (Page 181-183).
+
+7 Details of Board level committees on pages 108 – 115 of the Annual Report:
+http://www.tcs.com/investors/Documents/Annual%20Reports/TCS_Annual_Report_2015-2016.pdf
+8 A Non-Executive Director is defined as a Director who is not involved in the day-to-day operations of the Company and is not a full-time
+employee of the Company
+9 An Independent Director is a Non-Executive Director, who (a) does not have any material relationship/ transaction with the Company, its
+Directors, Promoters, senior management, holding company and its subsidiaries, (b) Is not related to Promoters/Board/Senior
+Management, (c) Has not been an executive of the Company in the past 3 years, (d) Has not been a partner/executive of the Company's
+statutory audit/ internal audit firm, legal/consulting firm in the past three years, (e) Has not been a material supplier, service-provider or
+customer or a lessor or lessee of the company, (f ) Is not a substantial shareholder i.e. owning 2% or more and (g) Is not less than 21 years
+of age
+10 http://www.tcs.com/about/corp_facts/board_directors/Pages/default.aspx
+
+G4-36
+
+25
+
+Corporate Sustainability Report 2015 | 2016
+
+Aspect
+
+How
+
+To ensure governance focus in business sustainability, our Board of Directors meet
+seven-eight times a year instead of the statutory four times. While four of these
+meetings are for the review and approval of ﬁnancial results, the remainder is for
+more detailed oversight of business, strategy, and sustainability matters.
+This ensures that the Board's focus goes beyond ﬁnancial performance and covers
+various operational and strategic issues including sustainability aspects, budgets,
+industry performance, peer review and competition analysis, overall risk
+assessment, performance of subsidiaries, opportunities for organic and inorganic
+growth, among others.
+
+Board Oversight of
+the Sustainability
+Agenda
+
+The CEO is the Director responsible for Sustainability. Oversight of the company's
+sustainability strategy is the responsibility of the Sustainability Head, EVP, and
+Global Head HR. He is supported by the Sustainability Council and dedicated
+teams for Corporate Social Responsibility and Environment, each headed by
+highly-qualiﬁed specialists in their respective domains. Their goals are determined
+by the senior management in line with our overall sustainability objectives, and
+performance on these two speciﬁc aspects of TCS' sustainability agenda is
+reviewed by the Board on an annual basis. A framework to enable the Board's selfevaluation is currently under review.
+The Sustainability Council
+A sustainability council conducts a quarterly performance review to ensure our
+sustainability initiatives are running eﬀectively. The council sees representation
+from key departments within TCS.
+The Executive Vice President and Global Head of HR presides over all matters
+related to sustainability within the organization and the overall corporate
+sustainability of the organization falls within the purview of the CEO & MD.
+
+Board Level Committee
+(including CEO & MD - Director Responsible for
+Corporate Sustainability)
+
+Executive Vice-President & Global Head-HR
+Head - Corporate Sustainability
+
+Sustainability Council
+Representatives from...
+Internal
+IT
+
+Infrastructure,
+Planning &
+Development
+Human
+Resources
+
+Corporate Social
+Responsibility
+
+Corporate
+Communications
+
+G4-36
+
+26
+
+Administration
+
+TCS Maitree
+
+Investor
+Relations
+
+11 The Code of Conduct for Directors is available at the link:
+http://www.tcs.com/investors/corp_governance/Documents/TCS_Directors_Policy.pdf
+
+Health, Safety &
+Environment
+
+Corporate Sustainability Report 2015 | 2016
+
+Aspect
+
+How
+An Audit Committee, consisting of non-executive Directors, oversees TCS'
+disclosure process to ensure that suﬃcient and credible information is disclosed,
+and that the published ﬁnancial statements reﬂect a true and fair position of the
+company's ﬁnances.
+
+Fiscal Oversight
+
+The committee meets four times a year to approve the quarterly accounts and
+another three to four times for an in-depth consideration of internal audit reports.
+The Audit Committee also actively ensures that the internal audit processes
+provide adequate support in improving the company's business processes, i.e.,
+making the company more eﬃcient and cost-eﬀective.
+As an additional governance control on access to the company's cash, TCS has a
+Bank Account Committee of Directors which approves the opening and closing of
+bank accounts of the Company and to authorize persons to operate the bank
+accounts of the Company.
+
+Independent and
+Eﬀective
+Validation
+
+TCS has an independent third party, M/s Ernst and Young, to oversee and carry out
+internal audits of the company's operations as per an internal audit plan, which is
+reviewed annually by the Audit Committee in consultation with the Statutory
+Auditors. In line with international practices, the planning and execution of internal
+audit is oriented towards the review of controls in the management of risks and
+opportunities in the company's activities. Our external auditors are Deloitte
+Haskins and Sells, who do not have any undue dependence on TCS.
+Benchmarked against global peers, TCS discloses significant operational and
+financial metrics on a quarterly basis. The quarterly, half-yearly and annual results
+are published in leading Indian newspapers, emailed out to analysts and investors
+who subscribe to that service and posted on the website. Half-yearly results are
+sent to shareholders along with a message from the Managing Director on the
+company's performance.
+
+Disclosure and
+Transparency
+
+The quarterly earnings release is accompanied by a press conference, which is
+streamed live on our website. We also organize a conference call where the
+management briefs investors and analysts on the quarter gone by, and takes
+questions.
+Through our robust investor outreach program, TCS' management meets investors
+at the company's premises or at investor conferences and addresses their queries
+and concerns.
+The Tata Code of Conduct (TCoC), which every employee signs at the time of
+joining the company, contains sections on stakeholder groups that make up a
+governing framework for responsible corporate citizenship and principled
+behavior. TCS has established procedures to deploy the TCoC and to enable
+employees to understand the code and follow it in letter and spirit. The leadership
+personally conveys TCS' values and the importance of the TCoC at employee
+events. Local ethics counsellors at every company location advise and guide
+employees on ethical matters.
+
+Ethics and
+Compliance
+
+Customers and suppliers are made aware of the TCoC through specific clauses in
+proposals, contracts, contract discussions, and through the TCS website. In
+addition, senior managers with access to privileged information, have to comply
+with an additional code for the Prevention of Insider Trading. TCS also has a global
+policy on Prevention of Sexual Harassment at the work place. This policy was
+updated in February 2014 to align with current legal mandates, in particular the
+'Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal)
+Act, 2013' enacted in India, where TCS has the majority of its workforce.
+At the Board level, the Ethics and Compliance Committee oversees TCS' compliance
+to the Codes of Conduct to be followed by the directors, officers, and other
+employees. Monthly reports are sent to the board level committee on matters
+relating to the Insider Trading Code and the TCoC.
+Two meetings of the Ethics and Compliance Committee was held during the year.
+G4-56, G4-57
+
+27
+
+Corporate Sustainability Report 2015 | 2016
+
+Aspect
+
+Board Composition
+and Selection of
+Board Members
+
+How
+The Nomination and Remuneration Committee, consisting of two independent
+Directors and two non-independent Directors including the Chairman, makes
+recommendations regarding the composition of the Board, identiﬁes suitable
+individuals who can be inducted as Independent Directors and takes steps to
+refresh the composition of the Board from time to time.
+The supervisory capability of the current Board has been signiﬁcantly boosted by
+the inclusion of highly capable individuals with global management perspectives,
+broad corporate experience and speciﬁc expertise in corporate governance and
+compliance as independent, non-executive directors.
+The Corporate Governance philosophy at TCS, based on the Tata Code of Conduct,
+emphasizes fairness and transparency to all stakeholders. The company also has a
+variety of channels through which minority shareholders can interact with the
+management or Board to express their concerns.
+
+Protecting Minority
+Shareholders'
+Interests
+
+We organize regular global investor outreach programs, where investors can
+interact with the management. Minority shareholders can move their private
+resolutions for discussion by the Board of Directors, or even requisition a General
+Body Meeting.
+Small shareholders can interact with the Board of Directors in person at the Annual
+General Meeting and have their queries or grievances resolved. They can also
+communicate any grievance to the Company Secretary's oﬃce where complaints
+are tracked to closure. At the Board level, a Shareholders/Investors Grievance
+Committee of Directors consisting of two Independent Directors and one
+Non-independent Director oversees the redressal of these complaints.
+TCS are empowered with a culture that encourages open communications and
+oﬀers various channels for communicating concerns and grievances.
+
+Employee Access to
+the Board
+
+Larger concerns are presented to the Board by the Executive Directors. In addition,
+individual senior-level employees are also invited to present to the Board on
+speciﬁc topics under discussion, from time to time.
+Lastly, the company has a Whistle Blower Policy, with the necessary mechanism for
+employees to directly report concerns about unethical behavior to the
+Chairperson of the Audit Committee, without fear of reprisal or victimization.
+TCS has an enterprise compliance management (ECM) framework and process
+which has been deployed across the company. A digital platform provides an
+enterprise-wide view of compliance across global locations. The major risks are
+regularly identiﬁed and systematically addressed through mitigating actions.
+
+Sustainability and
+Risk Management
+
+Succession
+Planning
+
+G4-56, G4-57
+
+28
+
+We ensure compliance to all applicable laws globally, including those relating
+to employment and immigration; taxation; forex and export controls; health,
+safety, and environment; company laws; establishment; SEZ regulations;
+data privacy; anti-bribery and anti-corruption regulations; and IT security.
+A committee at the corporate level oversees and monitors the deployment
+of the compliance function.
+Business sustainability requires consistency in management vision and
+minimization of impact when there is a leadership change. Therefore, succession
+planning is an important element in ensuring smooth transitions. At TCS, this
+occurs at every level – at the corporate level, at the business unit level, at the
+account level, and even at the project level.
+At the highest level, succession planning of senior management is directly
+reviewed by the Executive Committee of the Board. Business or Unit Heads are
+invited to Board Meetings from time to time to give update the Board. This
+provides an opportunity for the Board to interact with Senior Executives
+periodically and assess values, competencies, and capabilities to help them
+identify suitable internal successors and provide feedback.
+
+Corporate Sustainability Report 2015 | 2016
+
+Aspect
+
+How
+The company follows a compensation mix of fixed pay, benefits, and Economic
+Value Added Analysis based variable pay. Individual performance pay is
+determined by business performance and the performance of the individuals
+measured through the annual appraisal process.
+Compensation for Non-Executive Directors on the Board consists of:
+
+Remuneration
+Policy
+
+Ÿ
+
+Sitting Fees for attending Board meetings and meetings of Committees of the
+Board, to the tune of INR 30,000 per meeting.
+
+Ÿ
+
+Commission, as decided by the Board of Directors and approved by members at
+the Annual General Meeting, within the ceiling of 1% of the net profits of the
+Company as computed under the Companies Act, 1956. The commission is
+distributed amongst the Non-Executive Directors based on their attendance and
+contribution at the Board and certain Committee meetings, as well as the time
+spent on operational matters other than at meetings.
+
+Ÿ
+
+Reimbursement of any out-of-pocket expenses incurred by the Directors for
+attending meetings.
+
+Remuneration of the Managing Director and Executive Directors consists of a fixed
+component (salary, benefits, perquisites, and allowances) and a performance-liked
+variable component (commission).
+The Remuneration Committee decides the annual increments within the salary
+scale approved by the Members, and the commission payable to the Managing
+Director and the Executive Directors out of the profits for the financial year and
+within the ceilings prescribed under law.
+The commission amount is based on the company's performance as well as that of
+the Managing Director and each Executive Director, measured along several
+sustainability-linked criteria discussed in this report. Details of the compensation
+paid out to Members of the Board in FY 2016 are disclosed on Page 111 of the
+Annual Report.
+
+G4-56, G4-57
+
+29
+
+Corporate Sustainability Report 2015 | 2016
+
+Serving as an Ethical Exemplar
+At TCS, integrity is the first core value that underpins all business activities. The company has earned its
+reputation of being trustworthy through several decades of consistent, value-based conduct.
+The TCoC serves as a roadmap on principled conduct. Training on the TCoC is a part of the induction process
+for all employees. Awareness of the TCoC and adherence to it is promoted by several methods such as an
+annual ethics awareness week featuring invited speeches, poster sessions, contests, and ethics themed video
+screenings. A Whistle Blower Policy has also been incorporated through which instances of serious
+misconduct can be reported directly to the Board without fear of reprisal.
+TCS has been able to build a strong, highly successful, global business, and is able to sustain its leadership
+position by adhering to the high standards of principled conduct. In all contracts with customers, suppliers,
+and partners, clauses on principled conduct are explicitly included. We seek to learn leading practices
+through active participation in international and Tata Group forums on ethics, and by adopting leading
+practices that aid in improving adherence to principled conduct.
+Our policies and training modules have been periodically reviewed and revised to comply with the legislation
+with respect to bribery, corruption, and with improved norms on business ethics.
+TCS' enterprise risk management program (ERM) involves risk identification, assessment, and
+mitigation planning for strategic, operational, and compliance related risks across business units, functions
+and geographies.
+
+Our Marketplace
+Sustainability of Business Performance
+Key stakeholder concerns regarding the sustainability of TCS' business performance are centered around
+five major areas:
+n
+
+Is there sufficient headroom for continued growth?
+
+n
+
+Is the company's size likely to impede agility?
+
+n
+
+Will supplyside constraints hamper growth or impact margins?
+
+n
+
+Might macroeconomic uncertainties or new technologies impair business?
+
+n
+
+Are we investing sufficiently in innovation?
+
+Some of these concerns are addressed in this section of the report. Key strategic risks faced by TCS and the
+company's approach to mitigating them are summarized on Pages 73 and 74 of
+the FY 2016 Annual Report.
+
+G4-56, G4-57
+13 TCS' Annual Report is available on http://www.tcs.com/investors/Documents/Annual%20Reports/TCS_Annual_Report_2015-2016.PDF
+
+30
+
+Corporate Sustainability Report 2015 | 2016
+
+Strategy for Long-term Growth
+TCS' revenue growth comes from following a two-pronged strategy built around:
+a) Expanding the company's addressable market by region, by industry, and by service-line
+b) Deepening the company's relationships with existing clients
+Key elements of this strategy for sustainable, longer-term growth are explained in detail on Pages 68 and 69
+of the FY 2016 Annual Report.
+Demand-side Sustainability
+
+Revenue in USD Mn
+
+Revenue and Cost Trend: FY 2005 - FY 2016
+78%
+
+20000
+
+76%
+15000
+
+74%
+
+10000
+
+72%
+70%
+
+5000
+
+68%
+66%
+
+0
+
+Operating Costs as % of Rev
+
+TCS has had a consistently stellar track-record of revenue growth. The company's 10-year Compound Annual
+Growth Rate (CAGR) is 18.7%, and we closed FY 2016 with revenue of USD 16.544 billion (up 7.1% YoY). See
+Exhibit 10 for details.
+
+FY05 FY06 FY07 FY08 FY09 FY10 FY11 FY12 FY13 FY14 FY15 FY16
+Operating Costs as % of Revenue
+Rev in USD Mn
+Exhibit 10: Revenue and Cost Trend: FY 2005 - FY 2016
+Other highlights of FY 2016:
+n
+
+Volume growth of 12% YoY
+
+n
+
+Gross margin of 43.9% and EBIT margin of 26.5%
+
+n
+
+Gross headcount addition of 90,182 and net addition of 34,187
+
+TCS believes that our long term growth trajectory is sustainable, because:
+n
+
+the global market for IT services is growing
+
+n
+
+offshore outsourcing is a mainstream strategic option today,
+
+n
+
+TCS has the strong foundational elements needed to partake in this growth
+
+n
+
+TCS' strategy for longer-term growth is is to ensure customer satisfaction and deliver results
+
+Global market: Headroom for Growth
+According to NASSCOM's Strategic Review, global spend on IT services and BPM is estimated to be $836
+billion in 2016. This is a highly fragmented market in which TCS' market share is 1.9%, suggesting significant
+headroom for growth.
+Going forward, technology spending is expected to further increase as the technology intensity of
+businesses increases. The 6-year CAGR for the period 2013-2019 is expected to be 1.7% according to Gartner.
+Historically, TCS' growth is far higher than the growth in global spend on IT services.
+
+31
+
+Corporate Sustainability Report 2015 | 2016
+
+Enablers for Growth
+The pre-requisites for sustaining growth are:
+n
+
+Maintaining the same high quality of service that our customers have come to expect
+
+n
+
+Continuing to invest in innovation so as to remain at the cutting edge of technological and
+business evolution
+
+n
+
+Ensuring that the company remains agile despite its size
+
+n
+
+Maintaining a strong brand image that encourages customer loyalty
+
+In the next few sub-sections, we explore these four foundational enablers in further detail.
+Best-in-class Quality
+Our Quality Management System is a complete set of documents, tools, methods, and practices based on our
+business model, with a focus on service and solution delivery, customer management, security management,
+and people processes. The system is designed to ensure that customers experience a level of certainty that
+no other organization can match.
+Every project goes through three tiers of quality checks, which are described in Exhibit 11.
+
+Product
+Quality
+
+Product
+Quality
+and Process
+Compliance
+
+Internal Quality
+Assurance
+
+All work items, products, or deliverables undergo peer
+review / independent review / self review / code
+walkthrough.
+
+External Quality
+Assurance
+
+Internal experts who are not part of the project verify each
+work item or deliverable
+
+Final Inspection
+
+An external reviewer does the ﬁnal quality check to ensure
+completeness and usability of the package before the ﬁnal
+product is delivered to the client. In addition, the external
+reviewer periodically veriﬁes that the team is complying
+with all quality process.
+The Project Leader also does a ﬁnal inspection
+before delivery.
+
+Exhibit 11: Three Tiers of Product Quality and Process Compliance Checks
+In addition, Project Management Reviews (PMR) are conducted every quarter by senior managers and project
+audits are performed by to verify compliance with customer-specific processes and TCS' Integrated Quality
+Management System (iQMS).
+TCS continues to maintain Level 5 -- the highest maturity level -- enterprise-wide -- for CMMI-DEV®
+(Development) version 1.3 and CMMI-SVC® (Services) version 1.3. The company continues to adhere to ISO
+certification enterprise-wide for ISO 20000:2011 (Service Management), ISO 27001:2013 (Security
+Management), and ISO 22301:2012 (Business Continuity Management) standards.
+Information Security and Data Privacy
+
+G4-EN27, G4-DMAPRODUCTS AND SERVICES
+32
+
+Information security and data privacy are critical to our business. In pursuit of the Company's Security Vision,
+TCS has implemented a comprehensive Information Security Management System (ISMS) framework based
+on the globally recognized ISO 27001:2005 ISMS standard, covering network controls, network privacy,
+internet security, patch management system, and controls against malicious software. Our team of
+information security professionals have industry-recognized credentials such as CISA, CISM, CISSP, CEH, and
+CBCP, and possess varied backgrounds and experience, such as application development, infrastructure
+services, networking, forensics, legal, and compliance.
+
+Corporate Sustainability Report 2015 | 2016
+
+TCS considers all client information as confidential and have rigorous processes in place to protect the same.
+The Company's security policy has been framed to comply with all international privacy laws and information
+security laws as applicable. Collection, processing and dissemination of any personal data is done under
+highly controlled conditions.
+Investing in Innovation
+Innovation is one of the strategic pillars of TCS. Our Research and Innovation (R&I) is focused on two primary
+themes - digital technologies that help reimagine the relationship between consumers and businesses across
+industries, and the continuous industrialization of software and computing. From a sustainability perspective,
+R&I has the following responsibilities: to scan emerging technologies and create a pipeline of new offerings;
+to create intellectual property and reduce the company's technology risk; and to create thought leadership in
+new technologies.
+The company has well defined processes and frameworks for converting a new idea from the drawing board
+into a scaled and deliverable solution. TCS Co-Innovation Network (COINTM), the ecosystem for collaborative
+innovation, has expanded its footprint and marked this with events in Sydney, Australia and Helsinki, Finland.
+Innovation and new lines of business: The recently launched neural automation offering IgnioTM, has been the
+outcome of research and innovation in TCS Innovation Labs – Pune. The TCS IoT platform, incubated by R&I,
+has found wide adoption. We have launched new R&I programs for intelligent and autonomous
+infrastructure, personalized medicine, and smart machines. These will provide new offerings and solutions for
+customers in the future.
+Privacy and security: TCS continues to invest in data privacy and security research. We have created tools
+for data masking that can be used in various application development and maintenance scenarios. We have
+made progress in research on areas such as cryptography, hash control, and access rights management.
+Innovation and customers: We organized the Innovation Forum in New York and London in the last year,
+and also hosted Innovation Days with key clients. Our Innovation Champions work with clients to enable
+them better leverage innovation. We conducted Design Thinking Workshops to study complete user journeys
+and understand B2B2C scenarios and identify the pain points of end users.
+Intellectual property: We encourage researchers to file patents. At the end of FY16, the company had
+applied for 2,842 patents in total -- including 565 during the past 12 months -- of which the company has
+been granted 341 patents.
+Encouraging innovation: We have various initiatives to promote innovation within the company. TCS
+Innovista, an award program for innovative ideas across the organization, was launched this year. Our
+researchers attend and present at top tier research conferences. Best papers are awarded. Scientists are
+encouraged to undertake research projects.
+Community: Many of our research projects are focused on benefitting the community.
+n
+
+Water filters: TCS Innovation Labs- Pune has designed water filters that are affordable and easily usable.
+These aim to help low income households protect themselves from waterborne diseases as well as arsenic
+and fluoride present in ground water.
+
+n
+
+mKRISHI® is a patented mobile based personalized services delivery platform and we continue to invest in
+it and improve its reach and services.
+
+n
+
+Accessibility:
+l
+
+Visual Sub-titles: To help the hearing impaired understand videos which do not have sub titles, TCS
+Innovation Labs – Mumbai is building a photo-recognition algorithm that can generate 'lip movement;
+or 'visual' subtitles.
+
+l
+
+Remote Speech Therapy (RST) platform: This low cost mobile application and web based platform
+allows speech therapists to help patients practice and improve articulation.
+
+33
+
+Corporate Sustainability Report 2015 | 2016
+
+n
+
+Mother and child welfare apps: TCS Innovation Labs – Mumbai, along with King Edward Memorial (KEM)
+hospital and Mumbai Breastfeeding Promotion Committee (MBPC), developed a mobile based application
+to educate lactating mothers. This was launched at KEM hospital in 2015. The lab and KEM hospital have
+also developed an app that allows expectant mothers and health workers evaluate the health status of the
+mother and child.
+
+n
+
+Social collaboration tool for crowd safety: A multilingual chat platform, GG talk, was developed and
+deployed in the Kumbh Mela to help streamline field communication across departments. Secure, realtime communication and the knowledge repository GG Talk offered improved crowd management during
+the event.
+
+n
+
+Energy and water: The Remote Energy Monitoring Solution that is creating real energy savings for TCS
+has inputs in energy analytics from TCS Innovation Labs - Chennai, and is based on the innovative the TCS
+IoT platform. Research on campus water management continues to be an area of interest.
+
+Exhibit 12 presents TCS' investment in R&I.
+Expenditure
+
+FY16 ($ Mn)
+
+FY15 ($ Mn)
+
+Expenditure on Research and Innovation
+
+171
+
+147
+
+Exhibit 12: TCS' Expenditure on Research and Innovation in the Last Two Years
+Structured for Agility
+A key concern that sustained growth engenders is the potential loss of agility in an organization that has
+outgrown its structure. Another concern is around whether and how the organization will be able to focus on
+the right sectors for future growth.
+Both these concerns are addressed by TCS' organization structure (depicted in Exhibit 13), which is designed
+to enhance customer focus, accountability and agility. TCS is organized into several operational units aligned
+to the different industry verticals. Each market-facing Business Unit owns its resources and pursues growth in
+its respective domain at the best possible pace that the domain can support, with all the agility and focus of a
+smaller company.
+
+CEO & Managing Director
+R&D
+
+Corporate
+HR
+
+Major
+Markets
+
+Corporate
+Finance
+
+Corporate
+Affairs
+
+Industry Solutions Units
+
+Organizational infrastructure
+Exhibit 13: TCS' Organizational Structure
+14 Page 134 of TCS Annual Report FY16
+
+34
+
+Marketing
+
+Legal
+
+New
+Growth
+Markets
+
+Strategic
+Initiatives
+
+Corporate Sustainability Report 2015 | 2016
+
+Brand Building
+We continue to implement global marketing initiatives to promote the TCS brand. All marketing
+communications – including advertising, promotions, and sponsorships – tend to be understated, designed
+to strengthen the trust clients repose in us when they choose TCS, along with other key attributes they most
+appreciate in our work: high quality, reliability, and dependability. TCS' tagline, 'Experience Certainty'
+captures the essence of these attributes.
+We evaluate our brand value at regular intervals in select markets. Our brand is benchmarked against a
+pre-defined competitive set, and along specific image and personality parameters that include attributes
+such as 'ethical' and 'trustworthy'. Our marketing and communications strategy is fine-tuned based on
+findings from this brand survey.
+TCS participated in leading industry and business events around the world and held key customer summits
+world-wide, reaffirming our commitment to delivering a complete brand and organizational experience.
+Apart from our regular branding activities, we also continue to invest in building the brand in the digital
+space using premium business and technology channels as well through focused branded properties and
+sponsorships. These include events and activities in sports such as motor sports, cricket, marathons, and
+other distance running events. Lastly, we continue to communicate our brand values using various internal
+channels and marketing assets.
+Some of TCS' sponsorships in FY 2016 are:
+To reinforce TCS' brand attribute of commitment
+to fitness and excellence, we sponsor various
+marathons across the world.
+These sponsorships serve to reinforce TCS'
+commitment to wellness, because they give us
+an opportunity to engage with runners, their
+friends and family, and the broader community
+to drive home the importance of fitness and
+health. In FY 2016, some of the major marathons
+sponsored by TCS were:
+TCS New York City Marathon
+Boston Marathon
+Bank of America Chicago Marathon
+TCS Amsterdam Marathon
+Standard Chartered Marathon Singapore
+Standard Chartered Mumbai Marathon
+World 10K Bangalore
+TCS IT Wiz, India's biggest inter-school IT Quiz program,
+started in 2011 and is also organized in UAE.
+The event held in 14 locations across India and has
+become a national benchmark in the inter-school
+quizzing circuit for the level of research, the intensity
+with which teams compete, and the number of
+participants' it draws. TCS IT Wiz provides a wider
+outlook to students about IT and its trends in the current
+global scenario; IT plays an integral role in the
+knowledge economy and is a key enabler for success in
+diverse fields.
+The event provides an opportunity to learn outside the
+classroom, fosters a competitive spirit amongst
+students, and triggers voluntary learning to prepare
+them for the future.
+
+G4-DMA ENVIRONMENTAL,
+G4-EN27
+35
+
+Corporate Sustainability Report 2015 | 2016
+
+Sustainability in Marketing
+Being a services company catering to a purely B2B market, sustainability issues such as the environmental,
+health and safety impacts of products and software solutions have limited relevance and hence are not
+directly applicable.
+Likewise, product labeling requirements do not apply to the Company's business. Documentation of the
+custom applications the Company builds for clients is as per mutually agreed specifications. System
+documentation is not governed by any regulation or industry code. All TCS' marketing communications
+including advertising, promotions and sponsorships comply with the relevant laws of the countries that TCS
+operates in. No instance of regulatory non-compliance in this area was brought to the Company's attention
+in FY 2016.
+The related issue of sustainable consumption also does not arise because TCS' clients are sophisticated
+consumers – mostly large Global 2000 corporations that consume the Company's services rationally, in
+accordance with their business requirements, staying within the vendor concentration limits specified by
+their risk oversight policies.
+Financial Sustainability
+The successful execution of TCS' strategy for sustainable growth requires investments in building capacity, in
+people, and in new business initiatives. Our business model has a financial profile characterized by strong
+cash generation, low capital needs, low working capital requirements, negligible debt, and very attractive
+return on equity.
+TCS is a near zero-debt company, and we fund our growth entirely through internal accruals. We did not
+receive any significant governmental financial assistance in FY 2016. These structural attributes of our
+business model are sustainable. We also have a robust risk management framework with which we scan the
+environment for potential risks to this sustainability and take mitigative steps.
+Strong Cash Flows
+Our growth is financed by cash generated from operations. As of March 31, 2016, total shareholder's equity
+stood at $ 11,048.4 Mn (FY15: $ 9,184.9 Mn), of which retained earnings made up $12,499 Mn
+(FY15: $10,669 Mn).
+As of March 31, 2016, the company had cash and cash equivalents of $4,526.4 Mn (FY15: $3,275.9 Mn), which
+includes bank deposits of $70.6 Mn (FY15: $2,697.9 Mn). The net cash generated from operations was
+$3,186.5 Mn (FY15: $3,462.3 Mn).
+We believe there is sufficient cash from operations to meet our working capital requirements. In addition, we
+have short term working capital facilities with various commercial banks.
+Delivering Shareholder Value, Year After Year
+In FY 2016, we paid a total dividend of $0.7 (INR 43.5) i.e. a payout ratio of 42% of the consolidated profits
+under IFRS (excluding special dividend). TCS' market capitalization as of March 31, 2016 is $ 75.25 Bn.
+
+Our Sustainability Services
+Information Technology has a big role to play in driving the sustainability agenda for our customers. We
+provide consulting services and industry domain expertise to clients on sustainability solutions and
+frameworks which helps them optimizing their carbon footprint and enhancing sustainable performance.
+According to Smarter 2020 report, the IT sector, through its solutions and services can help achieve the
+carbon emission savings of 16.5% of global “business-as-usual” (BAU) emissions in 2020.
+Sustainability Services by TCS
+TCS continues to play a big role in driving sustainability agenda for its customers. We have a dedicated
+strategic Business Unit, Eco-Sustainability Unit who has been providing innovative solutions and industry
+36
+
+Corporate Sustainability Report 2015 | 2016
+
+domain expertise. With the global momentum of economic growth over the next few years, we see this
+opportunity expanding to a large scale. Most of the opportunities are compliance driven (emissions and
+energy related), and geared towards changing customer behavior. TCS has also developed mature solutions
+and offerings to tap this opportunity. Our services include Sustainability Performance Management, Energy
+Management Services, Water Management, carbon foot-printing, and renewable energy.
+Environment, Health, Safety and Sustainability Value Engine: In 2015, TCS launched an Environment Health
+Safety and Sustainability value engine, under the Innovation and Transformation Group (ITG), which seeks to
+make sustainability domain expertise part of the solutions and services we provide to leading global
+manufacturing customers. Each member of ITG, consisting of over 175 business consultants, has an average
+of 10+ years of industry experience in functional and technological consulting. As part of this value engine,
+we have been providing sustainability advisory and consulting services on compliance management, EHS
+consulting, social listening and reporting & disclosure etc.
+Sustainability services provided by Eco-sustainability Unit and EHS&S value engine can be split up into
+following 4 key areas:
+1) Strategy & Risk: To create significant impact, organizations need to consider the environmental
+efficiencies in their entire value chain. The internal operations and business processes of an organization
+may only contribute a fraction of the ecological impact of the entire value chain, as compared to the other
+components of the value chain such as raw materials procurement, their manufacturing and processing,
+shipping and transportation, use and disposal. TCS being a strategic consulting partner for many of its
+client offers the following solutions to build their sustainability strategic roadmap and risk management at
+an enterprise level:
+n
+
+Reporting and disclosure: We have developed a Managed Services framework to support
+sustainability processes and management procedures, to meet customer's efforts toward voluntary
+sustainability disclosures such as the Global Reporting Initiative and the Dow Jones Sustainability Index.
+We have been consulting on reporting and disclosure services since past 4 years for manufacturing and
+other industries.
+
+n
+
+EHS Managed Services: TCS brings together the scalability aspects of BPS to the Environment, Health &
+Safety (EHS) domain. We focus on streamlining and standardizing key EHS areas. These are then
+managed as a service model, offering efficiencies & optimization.
+
+n
+
+Compliance management: We support our clients with compliance process blue-printing
+as well as creating, verifying and submitting necessary documentation associated with the key
+climate change regulations.
+
+n
+
+Supplier Risk Assessments: TCS helps design, deploy, or enhance existing system(s) to monitor
+supplier sustainability performance and risks periodically. We also have frameworks to profile and rank
+suppliers, and identify different sourcing options
+
+n
+
+Climate change strategy development: As part of climate change strategy development, we help in
+developing policies and systems to recognize climate change risk and opportunities and to mitigate the
+risks and convert the opportunities to advantage.
+
+2) Operations: TCS continues to invest in building capabilities on the key aspects of the entire value chain to
+create significant sustainability impact, and help its clients drive their sustainability agenda effectively and
+efficiently by focusing on following areas:
+n
+
+EHS consulting and Re-imagination: TCS focuses on aspects like enhancing the safety culture at
+organizations via process standardization and best practice consulting. The idea of safety is now
+expanded across the dimensions of environment, health, food & assets. The consulting & advisory
+services are enabled through enterprise platform solutions, where we support our customers from an
+end to end due diligence, system mapping, product selection and implementation.
+
+37
+
+Corporate Sustainability Report 2015 | 2016
+
+n
+
+Energy Management: We help in deploying integrated energy management platform that covers all
+type of facilities and energy sources across the enterprise operations. This provides an enterprise-wide
+visibility of energy data leading to better decision making while implementing energy efficiency
+projects for scope 2 reductions.
+
+n
+
+Renewable energy strategy development: TCS supports organizations to identify feasible options for
+renewable energy procurement or installations by analyzing local weather conditions and market
+scenario. This also includes suggesting optimal energy mix, considering the relevant policies and
+technology maturity of alternative energy resources.
+
+n
+
+Carbon footprinting/baselining: We support customers in carbon footprinting and baselining their
+GHG Emissions under Scope 1, 2 and 3 in line with WRI GHG protocol.
+
+n
+
+Water Management: We help conduct water balancing & footprinting exercises at an enterprise level.
+This includes outlining product boundary, schematization of production & processes, calculations of
+product water footprints and water footprint sustainability sssessment.
+We have been developing water and climate change risk maps for our customers for their own
+operations and across their supply chain, as well as to develop management plans accordingly.
+
+3) Products & Services: We differentiate ourselves as a trusted partner helping clients drive the sustainability
+agenda through the thought leadership in this space, ability to innovate and co-create solutions, rich
+sustainability and industry domain expertise and an established partnership ecosystem to provide
+following end-to-end solutions:
+n
+
+LCA assessment: TCS facilitates sustainability information disclosure for products for voluntary
+disclosure requirements such as eco-labels to comply with environmental declarations and
+reporting frameworks
+
+4) Consumer Influence: Driven by the cost and scarcity of resources, rapidly changing country and industry
+regulations, transformation in the competitive landscape, and increasing investor interest, boardrooms
+and chief executives recognize that sustainability is important for the future success of their business. We
+help companies to understand the consumer's views through data generated from various channels
+through the following:
+
+38
+
+n
+
+Social Media Analytics: Through our social business solutions, engage, listen, analyze and respond to
+customers on product sustainability and campaigning
+
+n
+
+Smart Meters/Smart Energy: Our Smart Integration framework merges diverse utility applications like
+customer portals, billing system, Meter Data Management System(MDMS), Outage Management System
+(OMS), work & asset management systems
+
+Our Workforce
+
+Human capital is the largest factor in our business, and the sustainability of revenue growth is directly
+dependent on the organization's ability to attract and retain the right talent. TCS has a highly educated
+workforce, whose technical skills are greatly valued globally. Employment is at will with three months' notice
+from either side for termination. Less than 0.05% of the workforce is unionized in India, which is our largest
+region of operation.
+TCS recognizes the criticality of human capital to the business and its sustainability, and has in place mature
+processes assessed at the People Capability Maturity Model (PCMM) Level 5.
+The total number of employees including subsidiaries as on March 31, 2016 was 353,843 (End-FY15: 319,656).
+The workforce is predominantly young, with an average age of 29.5 years. A break-up of the workforce by
+employee category and age is given in Exhibits 14 and 15.
+Senior, Female
+0.5%
+
+Senior, Male
+4.1%
+
+Junior, Female
+21.6%
+Mid-level, Male
+31.6%
+
+Junior, Male
+30.6%
+Mid-level, Female
+11.6%
+Exhibit 14: Workforce by category
+
+>50, Male -1.4%
+>50, Female - 0.3%
+
+40-50, Female -1.1%
+40-50, Male - 5.0%
+30-40, Female
+8.2%
+
+<30, Male
+35.4%
+
+30-40, Male
+24.5%
+
+<30, Female
+24.1%
+Exhibit 15: Workforce by age
+
+G4-10, G4-11, G4-DMA
+ECONOMIC, G4-DMA SOCIAL,
+G4-LA4
+39
+
+Corporate Sustainability Report 2015 | 2016
+
+Diversifying the talent pool
+TCS is an Equal Opportunity Employer and subscribes to the Tata Code of Conduct in embracing diversity in
+race, nationality, religion, ancestry, marital status, gender, age, ethnic origin, physical ability, and sexual
+orientation. Compensation levels are merit-based, determined by quali cation, experience levels,
+special-skills if any, and performance. Gender and any of the other diversity parameters do not play
+a part in determining compensation levels. TCS has a well-de ned Diversity and Inclusion Policy.
+With tailored training programs and greater gender as well as cross-cultural sensitization, TCS has been able
+to diversify hiring, in terms of gender, geographic locations, and academic discipline.
+With over 100,000 women employees, TCS is one of the largest employers of women in the world. As on
+March 31, 2016, women constituted 33.8 % (consolidated) of TCS' workforce. This success is due to several
+initiatives that weave diversity and inclusion into the ethos of the organization (see Exhibit 16).
+
+SENIOR
+iExcel
+Focused Talent Mobility
+
+JUNIOR
+
+Ÿ Sponsorship to leadership roles
+Ÿ Access to external networking forums
+
+Key D&I
+initiatives
+at TCS
+
+Panel Discussion,
+Network to win
+(nWin)
+D&I Star Awards,
+Be Inspired
+
+MIDDLE
+Managing
+Diverse
+Teams(MDT)
+Women
+Discussion
+Circles
+
+Ÿ Transparent & collaborative mentoring platforms
+Ÿ Re-integrations
+Ÿ Workplace policies & bene ts
+Ÿ Day care tie-ups & senior advisor connect
+Ÿ Social media networking platform
+
+Exhibit 16: Diversity Initiatives
+Through the initiative 'Network to Win' mentors are assigned to small groups of junior women employees
+to provide guidance on professional and personal aspects. Career aspirations, work-life integration,
+organizational culture, life stage changes, leadership development, and safety and wellbeing, are
+addressed through discussion circles, formal and informal networking, coﬀee chats, virtual live chats,
+and panel discussions.
+'iExcel' is a special program which grooms high potential women in middle and senior levels to become
+leaders. Covering aspects like Business Finance, Customer Partnership and Sales, Business Strategy, Executive
+Presence and Power Messaging, the program allows participants to interact with top leaders within and
+outside TCS, who also act as role models and mentors. TCS has also developed a special learning module for
+mid-level managers, both men and women, to equip them with the skills required to motivate and eﬀectively
+work with a diverse team. This module — called Managing Diverse Teams (MDT) — was launched on the
+company's internal development portal.
+At the end of FY16, TCS had a diverse base of 3,53,843 employees in 55 countries from 129 nationalities
+including 33.8 per cent women professionals. Exhibit 17 has the non- Indian workforce breakup by nationality.
+
+G4-10, G4-DMA SOCIAL,
+G4-LA1
+40
+
+14 Page 134 of TCS Annual Report FY16
+
+Corporate Sustainability Report 2015 | 2016
+
+Others
+29.5%
+
+Mexican
+12.8%
+
+British
+10.6%
+Chilea
+
+n 3.5%
+
+American
+13.9%
+
+Filipino
+11.4%
+Chinese
+Ecuadorian
+5.7%
+6.7%
+Columbian
+Uruguayan
+3.1%
+2.8%
+Exhibit 17: Non-Indian Workforce by nationality
+
+Talent Acquisition
+TCS continues to attract high quality talent and has been able to successfully scale up the talent acquisition
+process by developing a global workforce plan that is aligned with the company's short, medium, and longterm business plans. The company's talent requirements are ful lled partly by re-skilling and up-skilling
+employees not already allocated to speci c projects, and partly through focused recruitment drives
+conducted by the Talent Acquisition Group. Experienced professionals are recruited through online job sites,
+head-hunters, and recruitment agencies, as well as through employee referral schemes.
+The company's talent acquisition strategy is focused on campus recruitment within India and internationally,
+as also lateral hiring. The company has invested in building relationships with universities across the world,
+as well as improving the quality of academic training at these engineering colleges. In FY 16, TCS (including
+subsidiaries) recruited 90,182 employees, on a gross basis (as compared with 67,123 in FY 2015). Of this,
+34,365 (38%) were graduates fresh out of college.
+
+Indians
+82.7%
+
+Others
+17.3%
+
+Exhibit 18: New employees in India and other countries
+G4-10, G4-DMA SOCIAL,
+G4-LA1
+41
+
+Corporate Sustainability Report 2015 | 2016
+
+Breakup of new employee hires by gender and age
+
+30-40,
+Female,
+3.7%
+
+<30, Female, 32.5%
+
+Other, 18.3%
+30-40, Male,
+10.9%
+
+<30, Male, 49.2%
+
+<30, Male
+
+<30, Female
+
+30-40, Male
+
+30-40, Female
+
+40-50, Male
+
+40-50, Female
+
+>50, Male
+
+>50, Female
+
+40-50, Male,
+2.0%
+40-50,
+Female, 0.5%
+>50, Male, 1.0%
+>50, Female,
+0.2%
+
+Exhibit 19: New employees categorized by gender and age
+Academic institutes are important stakeholders in our talent acquisition strategy. Our Academic Interface
+Program (AIP) helps us build strong, long-term relationships with academic institutions. This year, faculty and
+students from over 900 institutes globally benefitted through a range of initiatives including technology
+awareness, contests, and development of industry oriented curricula.
+
+Faculty Development
+Programs: TCS’ senior
+employees conduct
+training programs for
+faculty, to keep them
+abreast of technology
+developments and
+industry perspectives.
+
+Student Workshops: We
+conduct sessions for
+students on technical,
+managerial, and soft-skills
+topics to enhance
+competitiveness and
+workplace-readiness.
+
+TCS is working with the
+Government of India and
+state governments to
+establish ﬁve IIITs, under
+a public-private
+partnership model
+
+TCS' research
+scholarship program
+has supported 228
+research scholars from
+33 institutes across
+India in FY 16
+
+Exhibit 20: TCS' Academic Interface Program
+Campus Commune
+TCS has created a student engagement platform, Campus Commune, for Engineering, MBA, and Science
+graduates. Campus Commune aims to create an environment of collaborative learning for these students and
+gives them an opportunity to learn more about the company, as well as its various business units, and
+network with other students. More than 800,000 students from over 1,000 institutions participate actively on
+Campus Commune.
+
+G4-DMA SOCIAL
+
+42
+
+Through the platform, TCS also mentors students, inspiring them to explore unique career opportunities
+within the company. Students share experiences as well as knowledge of industry trends, engage in
+discussions, and participate in debates and polls. We currently have 32 interactive channels on this portal,
+
+Corporate Sustainability Report 2015 | 2016
+
+which focus on business units interests, and gamified hiring. About 10% of the specialized campus
+recruitment for niche skills takes place through such contests.
+Three new channels – Digital Trends, ESRM & ECM and Gamelab were started in FY16 with an objective of
+bringing awareness and creating positive mindshare about business units and career opportunities. The ITIS
+business unit in TCS used a gamified learning channel to identify and interview students for campus hiring
+this year.
+Kaizen Express is a social learning platform designed for students to test and improve their English language
+skills. The platform incorporates gamification learning techniques to make it engaging and lively. A 'study
+meter' is automatically calibrated based on the user's performances at each level. At every stage of the
+learning journey, the students are guided by language experts from TCS, who offer timely guidance on the
+portal – through blogs, video blogs, podcasts, or questions related to grammar.
+This year, TCS made +760 job offers through contests such as CodeVita, TESTimony, Enginx, GameOn!, and
+CASE Wiz.
+
+CodeVita provides a
+platform for coding
+enthusiasts in technical
+colleges to showcase
+their programming
+skills. Code Vita, the
+world's largest coding
+contest, has also been an
+opportunity for TCS to spot the
+brightest programming talent
+and encourage them to work on
+exciting projects with TCS.
+CodeVita drew 197,000
+registrations across 18 countries.
+
+Enginx is the Engineering
+Innovation contest from TCS'
+Engineering and Industrial Services
+Business Unit. The contest
+challenges participants to create
+innovative engineering solutions
+towards addressing the needs of the
+developing world, through applying
+Frugal Engineering, Value
+Engineering, Reverse
+Innovation
+principles to
+produce at the
+most
+affordable
+price point.
+
+TESTimony is India's biggest
+software testing contest for
+engineering students. 127,000
+students from 10 cities and 900+
+engineering colleges in India have
+taken the challenge. Students
+learn about mobile testing,
+agile assurance, DevOps,
+using tools like Appium,
+Selenium and Jmeter
+
+TCS GameOn! is a
+Game Design, and
+Development Contest for
+students with a unique
+combination of exponential
+creative skills and immense
+passion for games. This is an
+annual National level challenge launched by DESS SMWR Gamification sub-practice for Engineering, Arts
+and Science colleges across India.
+
+Casewiz is TCS' flagship Case Study contest
+sponsored by Manufacturing ITG Unit to engage
+with students. The contest is open to students
+from India's top business schools.
+
+Exhibit 21: TCS' Campus Commune provides a platform for students to learn
+43
+
+Corporate Sustainability Report 2015 | 2016
+
+Local Recruitment outside India
+TCS is a multinational company with operations in 55 countries. Local recruitment is an integral part of our
+staffing strategy in each of these countries, spanning every level in the local organization. In FY 2016, TCS
+recruited 16,173 employees outside India. At the TCS group level, the percentage of senior-level employees
+among local recruits was 8% (compared with 5% for FY15).
+We have built relationships with universities through our Academic Interface Programs in different parts of
+the world. The brand awareness created by these programs helps attract quality talent when we participate
+in their placement programs and conduct on-campus interviews. Recruitment of experienced professionals is
+done through our empanelled recruitment agencies and head-hunters.
+Local Subcontractors
+A key element of our recruitment strategy is the need-based use of contractors, especially for assignments
+which are of a short-term nature or which require skills not available readily, or in sufficient numbers,
+internally. For this purpose, TCS maintains strong relationships with a network of empanelled vendors –
+staffing agencies and head-hunters – in every country that we operate in. In case such skills are needed on a
+longer term basis, we try to build the capabilities internally and eventually replace these contractors with
+employees. In FY 2016, TCS spent $1,280 million (7.7% of revenue) on subcontractors, compared with $1,084
+million (7% of revenue) in FY15.
+Talent Development
+iEvolve is a comprehensive next-generation competency and learning management system developed by
+TCS in-house. The platform provides an integrated mechanism for employees to record their Skills &
+Competencies (Behavioral, Leadership, Technical & Domain) and on-going training requirements that
+translate into developing & administering individual learning plans; document, track & report learning
+delivery; and assess competencies.
+This dynamic, user-friendly, mobile accessible platform facilitates every employee's learning journey. It
+enables employees to aspire to newer roles and provides mechanisms (learning objects) to meet those
+aspirations. It thereby reinforces TCS' commitment to the continuous development of each of its employees.
+At the start of the year, employees -- in consultation with their supervisor -- define a learning and
+development plan for the year, based on their interests and aspirations as well as the needs of the project
+and business unit they work in. Employees then undertake the various training sessions and workshops
+outlined in the plan. These may include e-learning sessions on iEvolve, external certifications, iQlass (digital
+interactive classrooms) connect sessions, classroom sessions conducted by various technical Centers of
+Excellence within TCS, as well as Management Development Programs (MDPs). Each employee is assessed
+biannually on the progress made against this plan.
+Average per capita training hours in FY 2016
+Category
+
+Male
+
+Female
+
+Senior level
+
+24.3
+
+32.8
+
+Middle level
+
+40.2
+
+43.4
+
+Junior level
+
+104.2
+
+84.0
+
+Exhibit 22: Average training hours invested by employees in FY 2016
+G4-DMA SOCIAL, G4-LA9
+
+44
+
+Corporate Sustainability Report 2015 | 2016
+
+In FY 2016, a total of 4,288,617 learning days were invested towards competency development, including
+training in relevant technology areas. The breakup of this is as below: See Exhibits 21 and 22 for details. Of
+this, 148,620 learning days went into developing management skills and leadership qualities among
+employees identified for managerial and leadership roles.
+2%
+
+25%
+
+Junior
+
+73%
+
+Middle
+Senior
+
+Exhibit 23: Learning days by employee category
+Training programs at the entry level, as well as continuous learning programs that cover technology, domain,
+and project management practices, have been enhanced during the year to ensure that TCS develops the
+right competencies in its workforce to meet customers' business needs. This process also helps individuals
+drive career growth and realize their potential in different ways. In addition, HR also organizes multiple
+programs on financial management, health, and other areas that assist them in managing career endings.
+Talent Retention
+TCS views talent retention as another critical success factor – as important as talent acquisition – and has
+invested heavily in building an employee-friendly culture and developing mature processes towards
+improving it. We have been assessed enterprise-wide at PCMM Level 5, and our retention programs are
+considered best-in-class in the industry. Employee retention has been enhanced by offering competency
+enhancement and career growth options, role mobility, challenging assignments, competitive and
+differential compensation, flexible working hours, a collaborative work environment, as well as rewards,
+recognition and benefits.
+The outcomes of these retention programs have also been superlative. The 'return to work' and retention
+rates after parental leave are 74%. Although the majority of parental leave was taken by female employees, 6
+of the 14 employees who opted for adoption leave were men. In FY 2016, attrition in IT Services was 14.7%
+(on a LTM basis) while overall attrition, including BPS, stood at 15.5%. Of this, attrition caused by departures
+of new hires within the same year was 4.5%. Of total attrition, female employee attrition was 34 %. The
+attrition rate is higher at junior levels – 16.4%. Exhibits 23, 24, and 25 have more details.
+
+2%
+4%
+
+29%
+
+Female
+34%
+
+<30yrs
+30-40 yrs
+40-50 yrs
+
+65%
+Exhibit 24A: Departures by Age
+(out of employee base in age group)
+
+Male
+66%
+
+>50yrs
+
+Exhibit 24B: Departures by Gender
+(of Total Attrition)
+
+G4-DMA SOCIAL,
+G4-LA1, G4-LA3
+45
+
+Corporate Sustainability Report 2015 | 2016
+
+35%
+
+30%
+
+30%
+
+28%
+24%
+
+25%
+
+22%
+
+19%
+
+20%
+14%
+
+15%
+10%
+5%
+0%
+
+Geowise Attrition%
+India
+
+Europe
+
+Asia Pacific
+
+UK & Ireland
+
+Emerging Markets
+
+NA & Canada
+
+Exhibit 25: Departures by Region
+Career Development
+All employees receive regular performance and career development reviews. Our CareerHub platform helps
+employees learn and grow, providing timely updates to fuel their career in the organization. An integral part
+of the CareerHub is Inspire - TCS High Potential Program and CareerHub process. The 'Inspire' program aims
+at identification, engagement and building of a robust leadership pipeline, in line with the organizational
+growth objectives. Special initiatives are taken to make high potential employees more visible and offer
+projects and learning that will enhance their skills. They also undergo focused leadership programs to help
+them move into higher roles. CareerHub is used by all other employees in middle to senior management. It is
+a competency based approach with emphasis on experiential learning. In both these processes, employees
+have career discussions with their chosen mentors, who create customized Individual Development
+Plans for them.
+At TCS, career processes are online and transparent, with a holistic view of aspirations, mentoring, and
+developmental interventions, as well as an opportunity to share their feedback online. “My Career Eureka” is a
+social media platform for employees to share insights and get advice on their careers in TCS from peers and
+experts. Employees can also voice their views on career processes on this community. Employees receive fast
+responses to their queries, read inspirational success stories, and receive guidance from senior executives
+who act as mentors. The community is also used to crowdsource ideas on improving our career
+planning tools.
+Competitive Compensation Model
+TCS has to attract and retain talent in a highly competitive market. Most of our workforce consists of software
+engineers who hold engineering graduate and post-graduate degrees. Exhibit 26 depicts our employee costs
+over the last three years.
+Year
+
+FY 2014
+
+FY 2015
+
+FY 2016
+
+Employee Costs in USD Mn
+
+7,544
+
+8,940
+
+9,709.9
+
+Exhibit 26: Employee Costs over the Last Three Years
+To ensure competitiveness in the pursuit of talent, we regularly benchmark our compensation plans and
+benefits with those offered by peers to ensure that competitiveness. There is also a skill-based allowance for
+employees possessing niche skills, designed to motivate employees to acquire marketable skills, thereby
+benefiting themselves as well as the company.
+
+G4-EC1, G4-EC5,
+G4-DMA SOCIAL, G4-LA2,
+G4-LA11, G4-LA13
+46
+
+15 Excluding impact of $423 million paid as Special One-time Bonus to employees
+16 TCS offers gratuity, a defined benefit retirement plan, to eligible employees in India and in certain overseas locations. The plan provides
+for a lump sum payment to vested employees at retirement, death while in employment, or on termination of employment. Total benefit
+obligation at the end of FY2016 stood at $369.4 million.
+
+Corporate Sustainability Report 2015 | 2016
+
+Compensation structures are driven by prevailing practices in each country we operate in. But across the
+enterprise, remuneration is the same for men and women working at the same location and in the same
+grade. In India, in addition to a fixed component of the salary, there is a variable component linked to the
+Economic Value Added (EVA). Payout of that component depends on organizational performance as well as
+individual performance. This alignment of our company's and employee's interests has the effect of
+strengthening team spirit and improving collaboration among teams.
+Reward and Recognition
+Subscribing to a performance based culture, we have several schemes for recognizing and rewarding
+employees. TCS Gems is the global online employee recognition platform for managing reward mechanisms.
+Some of the popular awards are Star of the Month and Quarter Awards, On the Spot Award, Best Program and
+Project Manager Awards, Star Team Award, Beyond Performance Award, Service Awards. Employees may also
+get appreciation certificates. Employees who get rewards can choose from a variety of redemption options.
+Other forms of rewarding outstanding performance include fast-track promotions, sponsorship of external
+training and certification programs, assignment to key positions, membership of professional bodies,
+sponsorship to international conferences, public announcements of individual or team achievements on the
+intranet, internal magazines, town hall meetings, and so on.
+Challenging Assignments
+The importance of work content and an individual's quest for self-actualization can never be overstated. By
+virtue of its broad footprint across regions and industries, and the execution of large complex projects, we
+offer plenty of opportunities for ambitious individuals who seek challenging assignments and exposure to
+different kinds of roles, technologies, and locations. This contributed to our ability to retain high performers.
+Employee Engagement and Motivation
+Our internal social networking portal, “Knome”, facilitates multi-dimensional engagement with the largely
+young workforce. Employees across the globe post their views, suggestions, and questions, and get feedback
+through comments and answers from other employees. The senior leadership engage regularly with
+employees through blogs and live chat sessions, which allows each employee to make their voice heard, and
+their feedback taken into account by the top management.
+Employee retention and motivation are greatly facilitated by fostering a spirit of community, through shared
+activities outside of work. TCS Maitree provides a platform for engaging employees and their families, and
+develop a sense of camaraderie. It also channels their energy and enthusiasm into activities that benefit local
+communities and the environment. Maitree provides employees with avenues for various interest-based
+clubs, such as for music, dance, adventure, ecology, yoga, sports, and photography. Activities such as Family
+Day, Summer Camps for employees' children, Celebrating Cultural Diversity are also organized.
+We take an active interest in the wellbeing of employees and have sponsored and supported athletic and
+sporting events at the national, regional, and local levels. The company encourages employees to participate
+in these activities and stay fit. On our campuses, the focus on a culture of fitness translates into a myriad of
+activities, from yoga to aerobics, from tennis and badminton coaching to cricket and football tournaments.
+Initiatives like TCS Fit4Life and Purpose4Life have enthused employees to take care of their fitness and to
+volunteer towards social causes. The company encourages employees to participate in these initiatives by
+forming teams, and through 'gamification'.
+
+G4-DMA SOCIAL,
+G4-LA2, G4-LA13
+17 Remuneration for men and women at the same location and grade is in the ratio 1:1
+
+47
+
+Corporate Sustainability Report 2015 | 2016
+
+Through Fit4Life, TCS' CEO himself encourages employees to form teams and pursue a passion for running.
+Our sponsorship of the Mumbai Marathon, the World 10K Bangalore, and other long-distance events across
+the world has sparked widespread interest in fitness and running.
+Occupational Health and Safety
+Health and safety (H&S) considerations are integral to our business process and are laid down in the
+organization's Occupational Health and Safety (OHS) Policy which translates into the objectives and targets
+towards inculcating safe behavior (see Exhibit 27).
+Objectives
+
+Goals
+
+Building a safety culture and
+inculcating safe work
+practices among employees
+and contractors
+
+Training associates and
+contractors
+
+Target
+1 hour per associate per year
+2 hours per contract staﬀ per year
+1 communication per month
+
+Creating general awareness
+1 campaign per quarter
+Providing safe workplaces
+and compliance to H&S
+management system and
+regulatory requirements
+Incident reporting and
+implementation of remedial
+measures
+
+H&S inspections for all the sites
+
+1 annual inspection per site
+
+Compliance to H&S legal and
+HSE-MS requirements
+
+100%
+
+Reporting of accidents and near
+miss incidents
+
+Increase in number of reporting
+
+Resolution of incidents reported
+and eﬀectiveness of measures
+
+100%
+
+Exhibit 27: Occupational Health and Safety Objectives and Targets
+Globally, we strive to achieve beyond compliance leadership in occupational health and safety. 115 TCS
+centers are Occupational Health and Safety Management System -certified as per OHSAS 18001:2007.
+The Occupational Health and Safety Management System is also integrated with the organization's Quality
+Management System. Under the management system, each location has a Health, Safety and Environment
+committee that meets on a regular basis to discuss H&S issues and improvement programs. The Board-level
+Health, Safety, and Sustainability committee and Corporate Sustainability Council review our health and
+safety performance on a regular basis.
+Hazard identification and risk assessment method is followed to identify workplace risks to employees as well
+as contractors and ensure sufficient and suitable mitigation measures are in place for a healthy and safe work
+environment. The generic OHS risks identified include ergonomic risks, road safety in company provided
+transport, indoor air quality, fire and other general office risks like slips, trips, falls, electrical shock,, etc.
+We proactively monitor safety measures and performance at upcoming facilities across India. Deployment of
+safety processes and systems are mandated with effective tracking of lead as well as lag safety indicators in
+order to maintain a comprehensive oversight of safety performance.
+
+G4-DMA SOCIAL, G4-LA5,
+G4-LA8
+
+Employee engagement is the key pillar of safety initiatives at TCS. This is achieved through various
+communication channels like trainings, posters, events, emails, floor meetings, skits, videos, and blog posts
+on Knome (an internal social media portal). Safety training is a mandatory part of induction for new
+employees, while continuous learning programs increase occupational health and safety awareness among
+employees. In FY 2016, we spent over 670,000 hours imparting training on health, safety, and environment
+through classroom sessions, inductions, and web based training. Several campaigns like the Road Safety
+Awareness, Ergonomics Awareness, Fire Safety awareness, Incident reporting engage associates to make
+them more aware and safety conscious.
+18 Remuneration for men and women at the same location and grade is in the ratio 1:1
+
+48
+
+Corporate Sustainability Report 2015 | 2016
+
+Our SafetyFirst initiative was launched in May 2014 with the objective to become a zero fatality organization
+across four key areas – health failures, accidents, external violence and self-harm. Over the last 2 years, the
+initiative has catalyzed a change in the mindset and behavior of employees. The transition has been from
+understanding that 'safety begins with me', gradually towards adopting 'safety as a habit'.
+
+Ergonomics
+Awareness
+Campaign (October 2015)
+
+Fitness Session - Kochi
+
+Floor Walk - Bhubaneswar
+
+Training Session for
+Contractors - Hyderabad
+
+Due to our sedentary lifestyles, ergonomics continues to be a
+prominent concern. TCS has a 360 degree approach to ergonomics –
+starting from providing an ergonomically correct workstations and
+chairs, awareness campaigns on the correct sitting posture and
+
+Fitness Session - Trivandrum
+
+workstation stretches. The Ergonomics Campaign is organized every
+year, and in 2016 over 100,000 employees participated through
+various activities. Local teams continue to monitor eﬀectiveness,
+engage with management, and drive improvement in this area
+Training Session for
+Contractors - Kolkata
+
+Video Screening - Pune
+
+Skit Performance - Delhi
+
+Doctor Session - Lucknow
+
+Eye Check Camp - Delhi
+
+Sustain a Stronger Mind Initiative at TCS UK Offices
+TCS UK undertook a wellbeing campaign
+initiative ‘Sustain a Stronger Mind’ across
+offices that ran over a 12-week period.
+The objective of this campaign was to
+reduce workplace stress and promote
+positive mental well being by engaging
+our employees through activities that
+focussed on:
+n
+
+Physical wellbeing in relation to stress
+by doing workstation stretches and
+fitness sessions
+
+n
+
+Mental wellbeing in relation to stress
+by promoting seven positive points
+for a better life
+
+n
+
+Nutrition in relation to stress by
+organizing nutritional breakfast
+workshops to highlight the benefits of
+a balanced diet
+
+The ‘Five Steps to Wellbeing’ that promote positive mental wellbeing were used to structure the
+campaign. They were: connect, take notice, be active, keep learning and give.
+Road Safety Campaign
+
+G4-LA8
+
+49
+
+Corporate Sustainability Report 2015 | 2016
+
+Taking the Road Safety Campaign
+Beyond TCS…
+We organize a Road Safety Campaign every year to
+engage employees, business partners, and the
+society at large. Safety being a focus area in the
+TATA Group policy, the campaign has been
+extended beyond TCS since 2012. This initiative was
+started as a pilot in TCS-Kerala. After receiving
+excellent feedback, it has now been implemented
+at various branches in India.
+During the ﬁfth Road Safety Campaign held in
+January 2016, we reached out to educational
+institutions to sensitize them about road safety. In
+Mumbai, an inter-college skit content was
+organized on the same theme. Six local colleges
+participated and were given an opportunity to
+perform within TCS premises.
+
+Injury Statistics
+TCS being a service sector company, most in-office injuries occur due to slips, trips, and falls or being struck
+by stationary objects, etc. Road accidents in company provided transport is also a key focus area. We focus on
+capturing information on all types of incidents including accidents, near-misses, and safety observations and
+ensure 100% closure of the reported incidents with effective corrective and preventive actions.
+Severity
+
+Number of Injuries
+
+Fatality
+
+0
+
+Lost Time Injury
+
+35
+
+Medical Treatment Injury
+
+30
+
+First-aid Injury
+
+69
+
+Exhibit 28: Work-related Injuries Based on Severity
+
+G4-LA6, G4-LA8
+
+50
+
+19 There was one fatality near TCS' Nagpur oﬃce to a third party person standing outside the mechanical gate and was fatally injured due to
+the movement of the gate.
+
+Corporate Sustainability Report 2015 | 2016
+
+Break-up by person type
+
+Genderwise break-up
+30
+
+30
+
+20
+
+15
+
+20
+
+24
+
+20
+
+10
+
+11
+
+10
+
+0
+
+0
+MALE
+
+FEMALE
+
+EMPLOYEES
+
+CONTRACT STAFF
+
+Break-up by accident type
+30
+
+20
+
+20
+
+7
+
+10
+0
+
+Road
+accidents
+
+Slips, Trips
+Falls
+
+2
+Caught or
+Struck by
+object
+
+6
+Others
+
+Exhibit 29: Break up of High Severity Injuries
+0.100
+
+0.0931
+
+0.090
+
+0.08
+
+0.080
+0.070
+0.060
+
+0.0512
+
+0.050
+0.040
+
+0.047
+
+0.0419
+
+0.035
+
+0.030
+0.020
+0.010
+0
+2010-11
+
+2011-12
+
+2012-13
+
+2013-14
+
+2014-15
+
+2015-16
+
+Exhibit 30: Lost Time Injury Frequency Rate (Year-on-Year Trend)
+Lost Time Injury Frequency Rate (LTIFR) is the number of lost time injuries per million man-hours worked
+(TCS employees and contract staff working in TCS offices).
+
+20 High severity injuries include fatalities and lost time injuries
+21 Only work related injuries have been considered from all geographies. This does not include the lost time cases on road in personal or
+public transport involving employees travelling to and from work. These cases are tracked internally and reviewed and road safety
+awareness campaigns are aligned to sensitize employees on road safety.
+
+51
+
+Our Community
+Being part of the Tata group, TCS has a unique relationship with society at large. This section highlights our
+global CSR initiatives – through volunteering, sponsorships, and pro bono IT services – in the areas of
+education and skill building, health and wellness, and environmental sustainability.
+Tata Sons Ltd, the holding company of the Tata group, owns close to 75% of TCS. Around two-thirds of the
+equity of Tata Sons Ltd is held by various philanthropic trusts – the largest being the Sir Dorabji Tata Trust and
+Sir Ratan Tata Trust – which have created and nurtured leading national institutions for science and
+technology, medical research, social studies, and performing arts.
+These trusts also provide aid and assistance to various non-government organizations working in the areas of
+education, healthcare, and livelihoods.
+Direct and Indirect Economic Impact
+The most significant, direct economic impact TCS has is the productivity benefits that clients gain from the
+automation of various business processes. Greater cost-efficiency and productivity at a firm-level translates
+into higher productivity for the larger economy.
+Our work directly translate into community benefits when we engage with various governments to digitize
+their operations, particularly in the area of citizenry services. For instance, MeeSeva is an e-governance
+initiative in Andhra Pradesh and Telangana that incorporates the vision of the National eGovernance Plan –
+facilitating a single entry portal for a range of G2C services. TCS does not believe that any part of its
+operations has a potential or actual negative impact on the communities in which we work.
+Our profitable global operations result in payment of corporate taxes applicable in multiple countries. The tax
+expense relating to overseas operations is determined in accordance with tax laws applicable in countries
+where such operations are domiciled and provided for. In FY 2016, TCS provided for a total tax expense of
+$1,142.4 Mn. Based on NASSCOM's figures for the entire sector, it is estimated that we contributed 1% to
+India's GDP and our share of India's exports in FY 2016 is over 6%.
+Direct and Indirect Employment
+TCS' strategy of tapping into the local talent in each delivery location results in the generation both direct
+and indirect employment. Direct employment results in the creation of tens of thousands of white-collar
+jobs, broadening tax collections at the local, state, and central levels.
+Each delivery center has over a thousand employees. The construction of these massive campuses employs
+architects, engineers, and construction workers. Once the facility is commissioned, the center opens up local
+employment opportunities for skilled workers, while our vendors hire housekeeping staff, security guards,
+drivers, gardeners, maintenance workers, chefs, cafeteria staff, etc.
+It is conservatively estimated that TCS generates 27 indirect jobs for every 10 direct jobs. Taking these indirect
+jobs into account, TCS' consolidated, global employment generation footprint is estimated at over 956,000.
+Broad based Regional Development
+Historically, the emergence of the Indian IT industry occurred in the four large metropolitan cities of New
+Delhi, Mumbai, Chennai, and Kolkata. Further expansion to Bangalore and Hyderabad occurred with a view
+to take advantage of the available engineering talent and supporting infrastructure.
+Recognizing the multiplier effect that the IT-BPS industry has on local economies, various state governments
+are encouraging IT companies to establish centers in smaller cities. This is to broad-base the resultant
+economic development beyond just the Tier 1 cities. With a view to leverage benefits of low costs and a
+motivated local workforce, the IT-BPS industry has started establishing centers in Tier 2 and Tier 3 cities. Over
+the last four years, TCS has been leading this foray with the workforce in Tier 2 and 3 cities steadily growing as
+a percentage of the company's total workforce in India.
+
+G4-DMA SOCIAL, G4-SO1
+G4-SO1
+52
+
+22 More details of the work funded by these trusts can be found on their websites (http://www.dorabjitatatrust.org and www.srtt.org).
+
+Corporate Sustainability Report 2015 | 2016
+
+Intangible benefits
+TCS employees are well educated, well-groomed young professionals. Almost a third of our workforce
+comprises of women. The experience of working within a global company allows employees to broaden their
+horizons. In Tier-2 cities in India, this influences parents to invest in higher education for their children,
+including girls, who find inspiration to seek higher education and pursue corporate careers.
+Corporate Social Responsibility: Nurturing People and Planet
+Our CSR board-level committee recommends to the Company's board the CSR policy as well as the
+expenditure, monitoring the CSR policy from time to time, overseeing the activities impacting the quality of
+life of various stakeholders; overseeing the company's corporate and societal obligations; and reports to the
+Board about the same. The TCS Foundation was established in March 2015 with the objective of undertaking
+CSR activities of the Company.
+Our CSR initiatives seek to leverage our global presence and large employee base to transform the delivery of
+social programs while using IT expertise to create agility and efficiency. We undertake community initiatives
+with a focus on education skill development, health & wellness, and environmental sustainability.
+Initiatives are also tracked to determine the outcomes achieved and the benefits to the community. Internal
+tracking mechanisms and follow-up field visits are regularly carried out. The Company has engaged highly
+trained employees to drive and monitor these activities.
+
+Addressing the Global Skill Gap
+The company's focus on skill development has been enhanced with larger reach and significant
+impact in FY 2015-16.
+Since 2010, BPS Employability Program has provided an effective platform for the development of
+communication skills, corporate etiquette, interview skills, and basic computer knowledge among
+youth in marginalized regions of the country. The program involves 80 to 100 hours of interactive
+training designed to enhance employability. Till date, the program has trained more than 50,000
+youth across 17 states in India.
+Inspired by the
+success of the BPS
+Employability
+Program, we also
+created and
+implemented a
+specially designed
+initiative to enhance
+employability among
+engineering students
+from rural areas. The
+IT Employability
+Program includes
+200 hours of
+Students participating in the IT employability program in Karnataka, India
+learning, which starts
+during the fifth
+semester and continues, in a phased manner, till the seventh semester of the undergraduate or
+engineering course. After the training, students attend a TCS placement drive through which the
+meritorious candidates find employment. A key highlight of the program is the involvement of TCS
+employees and this engagement has helped students envision a future career in IT. In FY 16, over 500
+students benefitted from this program.
+G4-SO1
+
+53
+
+Corporate Sustainability Report 2015 | 2016
+
+This year too, TCS contributed INR 350,000 towards 5 scholarships through Foundation for Academic
+Excellence and Access (FAEA) to help SC/ST students studying in professional courses in leading
+colleges in the country.
+TCS' commitment towards the development of faculty for academic institutes, improvement of
+employability of students and development of curricula as per industry requirements has been
+consistent through its Academic Interface Programme (AIP). TCS helps 75 boards of various
+institutes across the country in revamping their curriculum as per current industry trends. In addition,
+TCS has signed a Memorandum of Understanding with the governments of Gujarat, Assam, Tamil
+Nadu, Maharashtra, and Jharkhand to serve as a partner in the establishment of Indian Institute of
+Information Technology in Vadodara, Guwahati, Tiruchirappalli, Nagpur, and Ranchi respectively.
+This is being done through the PPP model in association with the Govt. of India and other industry
+partners.
+TCS announced a five year extension to its Research Scholar Program (RSP), which seeks to support
+doctoral students in India in computing sciences. Under this program, scholars receive a stipend as
+well as funds to travel to conferences to present their work. Scholars have an opportunity to interact
+with TCS researchers and receive mentoring. This flagship program supports nearly 20% of all the
+computer science PhD students in India as per an ACM survey. In FY16, TCS selected 40 research
+scholars, taking the total scholars supported by the program to 228. An extension to the program
+is expected to benefit an additional 200 students from 61 institutes across the country, in a five
+year period.
+The TCS RSP complements other efforts the company is making in enhancing the research and
+computing capabilities in India. TCS is the founding sponsor of the ACM India Doctoral Dissertation
+Award. The company is also making significant financial commitments in setting up new institutes of
+information technology across the country.
+The FC Kohli Center on Intelligent Systems (KCIS) at IIIT Hyderabad established by TCS, aims to
+coordinate and energize education and research and help in imparting high-quality training to
+bachelors, masters, and doctoral students. The research undertaken at the center is expected to have
+the potential for significant social impact through innovative products, and start-ups.
+
+Created and first implemented in 2000, TCS'
+Adult Literacy Program (ALP) is accessible
+in nine Indian languages and three foreign
+languages. These IT enabled modules for
+functional literacy have reached 261,518
+beneficiaries globally.
+
+Empowering adults through literacy
+
+G4-SO1
+
+54
+
+Through our Advanced Computer Training for Visually Impaired (ACTC), we have been working
+on creating employment among individuals with visual impairment. This program also covers
+personality development in line with business requirements of the industry. This extraordinary
+project aims at bridging the gap between computer skills of people who are visually impaired and
+those required by IT/ITES. Till date, TCS has trained 176 individuals of which 127 candidates have
+found eGmployment.
+
+Corporate Sustainability Report 2015 | 2016
+
+Participants in the
+all women training batch, UDAAN
+
+UDAAN, the Special Industry Initiative (SII) for J&K is funded
+by the Ministry of Home Affairs and implemented by
+National Skill Development Corporation (NSDC). TCS was
+one of the first organizations to partner with NSDC to
+implement the program in Kolkata. UDAAN is a part of an
+overall initiative for addressing economic issues in J&K, with
+this program specifically focusing on providing skills and job
+opportunities to graduate and post graduate youth. Since
+inception, the program has trained 697 youths, of which 559
+have received employment offers. 370 of the trainees have
+joined TCS.
+
+TCS is expanding its focus to include digital literacy and
+entrepreneurship in remote locations across India.
+Bridge IT is a unique project that provides digital
+literacy in schools, adult literacy through a computer
+based functional literacy program, and creates
+entrepreneurs armed with digital tools to enhance their
+business opportunities. The program currently reaches
+4,817 children, 505 adults and 31 entrepreneurs in 36
+villages across three states. TCS has also invested in a
+new center at IIIT Hyderabad to energize education and
+research and help impart high-quality training to
+bachelors, masters, and doctoral students.
+
+School students participating
+in InsighT
+
+Benefitting economically disadvantaged
+communities of rural India through IT
+
+InsighT is an IT awareness and empowerment initiative for
+senior school students in India. It is based on the syllabi
+prescribed by school boards. By using the Case Study
+Methodology, students are able to understand, retain and
+apply programming concepts in their examinations, where
+they see significantly higher scores. It delivers a unique
+blend of technical and life skills to improve students'
+IT proficiency. InsighT has been made available on the
+cloud since February 2016, to enable greater accessibility
+to the program.
+
+Using the quiz platform is as an effective supplement to computer science. TCS IT Wiz, the biggest
+inter-school IT Quiz program in India and Rural IT Quiz, Government of Karnataka's flagship program,
+aim to build awareness and improve IT skills of young students.
+Through Empower, TCS aims at building the capacity of its support staff. Modules for training include
+acquiring basic computer skills, communication through English, and other relevant soft skills. In
+FY16, over 1,200 beneficiaries received training
+under the program.
+
+TCS is also supporting the development of the
+GAINS (Girls Advancing in STEM) Academy at
+Avasara which was established in Pune in October
+2014. Avasara aims at providing girls twenty-first
+century skills such as exposure to coding and
+critical writing, to promote holistic learning.
+Encouraging girls education
+at the Avasara Academy
+
+G4-SO1
+
+55
+
+Corporate Sustainability Report 2015 | 2016
+
+At the Manuski Hostel in Pune, TCS has supported the education of 40 children from socially and
+economically disadvantaged communities. Water filters, computers, and a broadband connection
+have also been provided in the girls' hostel. A library has been set up for the boys' hostel. In Noida,
+TCS has associated with Vidya & Child to promote learning in Math, English, and other soft skills
+among children. TCS provided financial support for 18 meritorious students in Class X, XI, XII. TCS has
+also supported the working of 41 Gadadhar Abhyudaya Prakalpa (GAP) units promoting holistic
+development of underprivileged children across the country.
+Community Initiatives in North America
+In North America, through the company's interventions more than
+20,000 people have been impacted. goIT is TCS' signature community
+engagement program in North America through which our employees
+teach computer programming and mentor youth to increase STEM
+education and career awareness. This year, the initiative reached 997
+students of which 426 were girls. TCS also actively participated in the
+Hour of Code, a coding competition conducted during the Computer
+Science Education Week that saw participation from more than 1,300
+students including 400 women.
+We were a proud co-founding sponsor of the inaugural US2020 STEM
+Mentoring Awards, held on July 23 at the White House. The award was
+goIT session at
+instituted to recognize mentors for their exceptional work in science,
+Minneapolis
+technology, engineering, and math (STEM) mentoring. The awards
+ceremony was part of the first ever STEM Mentoring Symposium, bringing together leaders from the
+Obama administration, public, private, and social sectors to share best practices, discuss common
+challenges and reaffirm mentoring as a powerful tool for education reform and nation building.
+
+Community initiatives in UK
+In UK, TCS reached more than 34,000 people
+through its interventions. IT Futures, our
+flagship program, encourages students to
+develop an interest in IT and strengthens the
+ability of educators to deliver effective
+training and relevant skills. This year, TCS
+participated in the Big Bang Fair, a STEM fair,
+organized to enhance children's interest in IT.
+In the event, TCS volunteers created fun
+technical challenges for the student
+participants. The TCS Tech Challenge is
+another novel program where university
+teams produce detailed, real world solutions
+in support of partner charities.
+
+Students participating in IT Futures in UK
+
+IT for Good challenges 14-18 year olds to come up with an IT system to help people overcome a real
+world problem for the chance to win a week's MISSION YOU training placement with TCS in London,
+Edinburgh, Peterborough, or Liverpool. With its Apps for Good partnership, TCS has teamed up with
+the organization to challenge young people aged 11-14 to develop problem solving skills and
+became tech entrepreneurs, who create apps to solve problems. Stepney Green Maths and
+Computing College is the first institute we partnered with our IT Futures program, which aims at
+inspiring young people at various stages in their education.
+
+G4-SO1
+
+56
+
+Corporate Sustainability Report 2015 | 2016
+
+Other Global Initiatives
+In Asia Pacific, Australia, and New Zealand, our programs impacted over 14,000 people. In Australia,
+six not-for-profit organizations were selected to receive expert IT and technology support pro bono,
+as part of a new community program. Our Go4ITWork Experience Program encourages an interest
+in IT among women, and saw participation from
+20 women from 47 different schools in Sydney
+and Melbourne.
+
+TCS associates volunteer at
+IT awareness sessions in South Africa
+
+In Middle East and Africa, our programs have
+impacted over 2,000 people. TCS South Africa has
+initiated several programs to bring about
+IT awareness in schools and in underdeveloped
+rural areas of South Africa. In South Africa, TCS has
+trained more than 500 underprivileged children in
+IT in a year. Through its graduate training program,
+the company has trained and recruited 33 youth in
+South Africa.
+
+In LATAM, the programs reached over 3,000 people. ENABLE, a program focusing on the social and
+economic empowerment of differently abled people, impacted 375 people. We also partnered with
+Centro Paula Souza, to conduct technical lectures for 150 students. Centro Paula Souza is the largest
+technical education institution in Latin America with 282 education units and 285,000 students. The
+program is expected to train more than 1,000 students.
+Promoting Health and Well Being
+It is not only important to provide high quality education to all sections of the society, but also to
+ensure that learning happens in a clean and healthy environment. The 'Swachh Bharat, Swachh
+Vidyalaya Abhiyan' launched by the Government of India, intends to enhance cleanliness across
+schools, through enhanced water and sanitation facilities. The program is focused on providing the
+girl child the surety of safety, dignity, and equality. A special task force started executing this program
+in March, 2015 and was completed in by July 31, 2015. TCS' intervention has benefitted 80,757 girls in
+1,472 schools across 1,169 villages in four states. The Ministry of HRD and state authorities have noted
+that the TCS model is an excellent approach towards sanitation, which can be adopted by other
+corporates and PSUs.
+Our model leverages our core competencies in technology to create sustainable solutions for several
+organizations that are devoted to providing health services towards marginalized and affected
+groups. TCS has chosen to work with cancer, cleft palate, and the general rural community health. For
+example at AIIMS, TCS understood that the way forward was to change the current OPD process and
+enhance patient experience by decreasing the time between the entry and exit processes. Post
+comprehensive analysis, TCS decided on the following approach: Phase I (Short Term) would include
+OPD Transformation and Performance and improvement of the existing IT systems. Phase - II (Long
+Term) would include enterprise resource planning implementation and electronic medical record
+stream. Post TCS' intervention, the patient reception center now has a seating capacity of 750 with 52
+operational counters. There are 10 operational web kiosks with an increased capacity in the waiting
+area. 85 patient care coordinators have been assigned and 34 departments have successfully
+streamlined their processes to treat 1000 patients a day.
+We also designed and implemented a comprehensive Hospital Management System for TMC, Kolkata.
+TCS has been supporting the system and IT Infrastructure since 2011 and has added value through
+constant on-demand enhancements and upgrades. In FY 16, compatibility for clinical and EMR
+capacities was ensured and the endoscopy process has been enhanced by third party software
+integration and re-organization of the order and payment process. Computer-on-Wheels has been
+configured and introduced in wards to ensure immediate information and update. The new GE-PACS
+
+G4-SO1
+
+57
+
+Corporate Sustainability Report 2015 | 2016
+
+system integration with the HMS was carried out without impacting day-to-day operations in the
+Radiology Lab. The donor fund management process has been linked with social assessment for
+disbursal of funds to the low income patients. Employee leave and appraisal process has been
+implemented for in-house staff. The IVR system and OS in digital networks has been upgraded. The
+physical setup of key equipment has been changed for better air circulation and maintenance. In FY
+16, more than 130,000 patient visits and treatment details were successfully logged.
+A comprehensive and fully integrated, web-based solution was also provided pro bono to the Cancer
+Research Institute at Chennai. In FY 16 as a result of laboratory equipment integration, the
+advantage of HMS could achieve a bigger number of patients, delivering as much as 540,000
+investigation results.
+The company also utilizes its expertise in IT to assist social organizations by highlighting areas of
+improvement and suggesting processes and systems to increase efficiency. TCS provides simple, user
+friendly and holistic systems which assist in mapping core functions of the social program and
+translating them into tools promoting transparency and visibility and accountability. Last year, we
+successfully launched projects for Mumbai Mobile Creches, Operation Smile, Center for Social
+Action, and Impact India.
+TCS is attempting to deploy a practical model to improve education, healthcare, and environment
+and promote economic empowerment in rural areas across India. To improve livelihood options in
+Panvel, India, TCS associates have trained 50 women in making eco-friendly jute bags through the
+Women Empowerment Program. More than 520 children in this area are benefiting through the
+provision of a two-storey school building prepared with a science lab, a library, and a solar operated
+computer lab. Infrastructure for clean drinking water is also built as supplementary support.
+Volunteers visit the school every weekend to teach the kids conversational English, Science, and
+Math. These activities come under the Panvel Rural Development program that is a flagship
+volunteering initiative of TCS Maitree. More than 1,114 children and adults have benefitted from such
+initiatives in Panvel (Maharashtra), Padmapur (Odisha), and Challera (UP).
+In China, TCS employees supported Operation Smile by maintaining accurate medical records for all
+the patients and provided support in the pre-op and post-op activities. 157 patients benefitted from
+this program. TCS associated also developed SenCi, a Senior Citizen Mobile Application which
+provides reminders for medicines and doctor's appointments. In Australia, HeartKids Australia, Cystic
+Fibrosis New South Wales, Hunter Medical Research Institute, The Royal Hospital for Women
+Foundation, The Australian Indigenous Leadership Centre, and The Penguin Foundation will be the
+first beneficiaries of the TCS Australia and New Zealand Pro Bono Community Program.
+Providing relief during occurrences of natural disaster
+In FY 16, Chennai was hit by devastating floods that affected a significant proportion of the
+population. Serving as the lead organization in the Tata Group's crisis response, TCS spearheaded
+several initiatives to help disaster hit individuals recover from their losses and rebuild their lives. We
+helped setting up community kitchens and health camps and assisted in the distribution of food and
+emergency kits. More than 2,500 individuals received aid at the health and wellness camps set up by
+TCS. In addition, TCS donated INR 10 crore to Tamil Nadu government's flood relief work and also
+donated INR 13.8 crore to the Tata Group's efforts.
+Environmental Stewardship
+We have mapped the biodiversity at our office sites and have implemented various conservation and
+enhancement programs to protect and enhance biodiversity. Currently, there are 305 types of flora
+being nurtured within various TCS campuses.
+
+G4-SO1
+
+58
+
+Corporate Sustainability Report 2015 | 2016
+
+TCS in association with the Sahyadri Nisarga Mitra Chiplun has been implementing the Marine Turtle
+Conservation Program since 2010. The program aims to protect the breeding sites of the Olive
+Ridley Turtle and prevent illegal hunting and killing of turtles while protecting these species from
+other predators. Till date, we have helped protect 150 nests of Olive Ridley turtles and successfully
+translocated 16,202 eggs to hatcheries. 8,290 baby turtles were successfully released into their natural
+habitat. The program has ensured a higher survival rate (51.17%) of the turtle hatching, thereby
+contributing to an increase in the marine turtle population worldwide.
+TCS has also provided support for the maintenance of the Chinnapanahalli Lake in Bengaluru. Over
+8,000 TCS employees also drove maintenance activities for the garden surrounding the lake.
+Volunteers helped rebuild the senior citizen's park, pruned hedge plants across the garden, built a
+nursery, provided manure to the plants, and helped with the construction of an underground water
+drainage system. Chinnapanahalli Lake is now an abode for bird species like the painted stork, spot
+billed duck, egrets, bee eater, and the cormorant.
+Restoring Heritage Sites
+The Rajabai Clock Tower is located in
+the Fort campus of the University of
+Mumbai (India) and is a UNESCO World
+heritage site. TCS has played a
+significant role in restoring the 87m
+tower. The architectural restoration of
+the tower included structural services,
+such as stoning, re-establishing
+woodwork, water-proofing, and
+electrical work, ensuring the longevity
+of the building for future generations.
+One of the biggest challenges was to
+TCS helped restore the Rajabai Clock Tower
+implement sensitive restoration and
+repair work of the clock tower at a height of 87m (~29 floors). The restoration has helped renew the
+building's glory.
+Volunteering
+We encourage volunteer-driven, meaningful activities for employees and their families. TCS Maitree
+is a core human resources function within TCS and is based on the philosophy of Together, Caring
+and Sharing.
+TCS Purpose4life (P4L), a corporate volunteering initiative that motivates and enables our employees
+to contribute towards societal well-being. It is designed to channelize our CSR efforts and leverage
+the extensive geographic reach. Education, Health, and Environment are the main focus areas under
+which initiatives are carried out. Interested associates pledge and commit to volunteer a minimum of
+10 hours a year. P4L has been supported by an online and globally accessible platform and mobile
+apps. In FY16, we crossed 600,000 hours of volunteering.
+Our employees find this to be a satisfying way of giving back to the society and the best way of
+continuing the Tata legacy. There are many dedicated volunteers who volunteer along with their
+families so that the importance of social responsibility is cascaded to the coming generations as well.
+
+G4-SO1
+
+59
+
+Our
+Environment
+
+Our Environment
+TCS acknowledges the role it needs to play as a responsible corporate citizen and targets to decouple growth
+and the impact on the environment through conscious changes in its strategy across the value chain. Aligned
+to our continued commitment towards playing a leadership role in environmental protection and climate
+change mitigation, we follow a sustainable approach while pursuing business aspiration and enhancement
+of shareholder value.
+Guided by our environmental policy, we continuously strive to reduce our ecological footprint and drive
+efficiency through resource optimization and reduction of waste. Green IT, green buildings or sustainable
+supply chain initiatives - the ultimate objective is to embed sustainability into daily operations and also help
+our customers achieve sustainable growth through our green solutions and service offerings.
+With a strong emphasis on energy efficiency, green infrastructure, and green IT, we continue to reduce our
+energy and carbon footprint. We also focus on water efficiency and reducing the demand on fresh water
+through wastewater treatment and closed loop recycling. Effectively managing waste as per the 3R principle
+(reduce, reuse, and recycle), TCS aspires to attain the status of 'zero waste to landfill' across all its campuses.
+Our supply chain sustainability drive aims to influence our supply chain partners to improve their
+sustainability performance through continuous engagement and gradual capacity building. All this is
+deployed through our Environment Management System framework in accordance with the international
+standard ISO 14001:2004. Our key delivery centers at 114 locations across the globe have been certified to
+this standard.
+
+‘Beyond
+compliance’ focus
+
+Resource efficiency
+
+Green building
+infrastructure
+
+Climate change
+mitigation
+
+Green IT
+Green
+procurement
+
+Supply chain
+focus
+
+Exhibit 31: Environmental Management at TCS
+
+62
+
+Employee
+engagement
+
+Corporate Sustainability Report 2015 | 2016
+
+Focused commitment and persistent efforts towards its environmental sustainability roadmap has helped
+TCS decouple business growth and the ecological footprint. The performance for FY 2015-16 is depicted in
+Exhibit 32.
+Objective
+
+Target Date
+
+Status
+
+Carbon footprint* (per capita) reduction by 50% over baseline
+2007-08*(Scope 1 + Scope 2)
+
+2020
+
+On track
+
+1.65 (weighted average) PUE
+
+2018
+
+Target year
+extended
+
+20% renewable energy procurement
+
+2020
+
+On track
+
+Water neutrality
+
+2020
+
+On track
+
+Zero* solid waste disposal to landfill (*<5%)
+
+2020
+
+Target year
+extended
+
+Inclusion of vendor sustainability requirements in contract and
+performance of assessments
+
+2017
+
+On track
+
+Compliance
+
+Exhibit 32: Summary of Environmental Performance
+
+TCS complies with all applicable environmental regulations. There were no instances of fines imposed due to
+non-compliance to environmental regulations or negative consequences due to TCS' operations in the
+reporting period.
+Energy Efficiency and GHG Mitigation
+Commitment – To reduce the specific carbon footprint by 50% by 2020.
+The changing global climate affects the planning and day-to-day operations of businesses, governments,
+and other organizations. The manifestations of climate change include higher temperatures, altered rainfall
+patterns, and more frequent or intense extreme weather events such as intense rainfall, heatwaves, drought,
+and storms. Each year there are climatic events that present risks to people and organizations. As climate
+change becomes more apparent, mitigation as
+well as adaption are becoming critical for
+45% reduction in
+business sustainability. With an Environmental
+1 specific electricity
+consumption
+Sustainability Roadmap, TCS has defined a
+proactive energy and carbon management
+43.6% reduction
+plan. Our target is to reduce our carbon
+in specific carbon
+2
+footprint
+footprint by 50% by 2020 over the baseline
+year 2007-08. The performance is summarized
+in Exhibit 33.
+3 10 LEED certified
+campuses
+
+The sources of greenhouse gas (GHG)
+emissions contributing to TCS' carbon
+footprint (depicted in Exhibit 4)24 are:
+n
+
+Scope 1: Diesel operated generator sets,
+company-owned vehicles, refrigerant gases
+(fugitive emissions), cooking gas
+combustion, fuel combustion for space
+heating
+
+3.1% of total
+power from
+renewable sources
+
+4
+5
+
+Achieved PUE of
+1.75 across 23 key
+data centers
+
+Exhibit 33: Energy and carbon performance
+
+23 All performance measured over the baseline year 2007-08
+24 Scope 1 and Scope 3 emissions have been calculated using the emissions factors published by the Green House Gas protocol. For Scope
+2 emissions – i.e. purchased electricity related carbon emissions – for India, the source is the emissions factor in the CO2 Baseline
+Database for the Indian Power Sector, User Guide, Version 11.0, April 2016 published by Central Electricity Authority of India. For Scope 2
+emissions of locations other than India, emission factors published by DEFRA 2015 have been used.
+
+G4-DMA (Compliance),
+G4-DMA (Emissions),
+G4-DMA (Energy), G4-EN29
+63
+
+Corporate Sustainability Report 2015 | 2016
+
+2012-13
+
+2013-14
+
+2014-15
+
+2015-16
+
+4,23,777
+
+4,39,400
+
+Tonnes of CO2 equivalent
+
+3,78,214
+3,00,555
+
+58,961
+
+58,961
+
+34,263
+
+31,924
+
+Scope 1
+
+Scope 2
+
+Exhibit 34- Carbon Footprint (Scope 1 and Scope 2) Distribution
+n
+
+Scope 2: Purchased electricity
+
+At TCS, the grid is the primary source of electricity, with diesel generator (DG) sets used for back-up power
+supply during outages. Solar power through roof-top solar panels and 'green power' (hydroelectric or wind
+power) purchased through third party providers are sources of renewable energy in some of the TCS
+locations along with conventional power. Natural gas fuel is used in some overseas locations for space
+heating. A source-wise breakup of the 592,323 MWh (2,312,683 GJ) of electricity consumed by TCS in FY 2016
+is given in Exhibit 35. The total direct energy consumption by primary energy sources was 277,391 GJ (from
+fuel consumption in owned vehicles, diesel consumption in diesel generators, combustion of cooking gas,
+and space heating).
+
+Electricity
+from green
+sources
+3.14%
+
+Electricity from
+onsite fuel
+combustion
+4.55%
+
+Electricity
+from Grid
+92.31%
+
+Exhibit 35: Break-up of Electricity Consumption by Source (%)
+
+G4-EN15, G4-EN16, G4-EN3
+
+64
+
+Corporate Sustainability Report 2015 | 2016
+
+Over 90% of TCS' Scope 1 + Scope 2 carbon footprint is attributable to indirect energy use. Energy in the form
+of electricity, being the single largest contributor towards TCS' carbon footprint, is a key input to TCS'
+business operations. As the business grows, the energy requirement also increases. TCS leverages state-ofthe-art energy efficient technologies, innovative thinking, and people engagement to find solutions that
+meet business needs and simultaneously benefit the environment. To achieve its carbon target, TCS has
+formulated a detailed plan of action on energy and carbon management, focusing on the following elements
+(Exhibit 36):
+n
+
+Green buildings and office infrastructure
+
+n
+
+Green IT
+
+n
+
+Operational energy efficiency
+
+n
+
+Procurement of renewable energy
+
+n
+
+n
+
+Energy eﬃciency
+by design
+
+Green
+Buildings
+
+Energy eﬃcient
+equipment
+n
+
+Green procurement
+
+n
+
+Server virtualization
+
+n
+
+Server consolidation
+
+n
+
+Cooling optimization
+
+Green IT
+
+n
+
+n
+
+Operational
+efficiency
+
+Efficient
+operations
+
+Remote energy
+monitoring and
+control
+
+Renewable
+Energy
+
+n
+
+Onsite RE
+installations, solar PV
+& solar thermal
+
+n
+
+Procurement of RE
+from third parties
+
+Energy & Carbon Management
+
+Exhibit 36: Enablers to Energy and Carbon Management
+
+25 Being a services company, there is no direct material consumption in TCS' operations. Resources consumed -- including electricity, water,
+physical infrastructure, and office information and communication technology equipment – are auxiliaries which support operations.
+
+G4-DMA (Materials),
+G4-EN1, G4-EN2, G4-EN7
+65
+
+Corporate Sustainability Report 2015 | 2016
+
+Green Buildings
+TCS views green infrastructure as a key enabler for reducing the ecological footprint of office spaces and
+achieving sustainable growth. All our owned campuses are designed according to LEED Green Building
+standards for energy and resource efficiency, among other factors. TCS has 10 LEED certified campuses at:–
+1. Siruseri Phase 1, Chennai – LEED Gold; Siruseri Phase 2, Chennai – LEED Platinum (Exhibit 7)
+2. Sahyadri Park, Pune – LEED Gold
+3. Banyan Park, Mumbai – LEED Gold
+4. Peepul Park, Trivandrum – LEED Silver
+5. Kalinga Park, Bhubaneswar – LEED Platinum
+6. Barabati, Bhubaneswar – LEED Platinum
+7. Synergy Park (Phase 2), Hyderabad – LEED Gold
+8. Garima Park, Ahmedabad – LEED Gold
+9. Gitanjali Park, Kolkata – LEED Gold
+10. TCS Centre, Kochi – LEED Gold
+The other upcoming facilities at Hyderabad, Trivandrum and Indore are also designed as per green buildings
+standards and will be certified when completed. Some of the new office spaces which TCS has leased are also
+LEED certified. Energy efficiency is a key criterion for new leases of office spaces.
+
+Exhibit 37: The campus at TCS Siruseri, Chennai, which is LEED Platinum Certified
+Some key features of our green buildings include energy efficient design of the building envelope, energy
+efficient electrical and mechanical equipment, onsite renewable energy (rooftop solar photovoltaic panels),
+solar thermal installations (hot water generators), chiller waste heat recovery units, and solar PV based
+peripheral lighting systems.
+Green IT
+As a part of its Environmental Sustainability Roadmap, our internal IT team works on reducing the carbon
+footprint in all its areas of operations through procurement of energy efficient IT infrastructure, operational
+energy efficiency, eco-friendly disposal of end-of-life IT equipment through e-waste management, and other
+such initiatives.
+
+G4-DMA (Materials),
+G4-EN7
+66
+
+FY 2015-16 saw effective integration of smart meters across our key data centers as part of TCS' Remote
+Energy Monitoring and Control initiative. This has helped monitor data center power usage and Power Usage
+Effectiveness (PUE) on an online platform and drive efficiency. Key steps taken to improve the efficiency of
+
+Corporate Sustainability Report 2015 | 2016
+
+data centers included optimal alignment of air supply grill tiles, arranging racks in hot and cold aisles,
+plugging cold air leaks, providing cold aisle containment and optimization of cooling units by switching off
+extra units. UPS optimization was also carried out; excess capacity was removed or replaced with matching
+capacity in order to reduce the losses and improve the PUE. In addition, the temporarily unutilized space
+within data centers was consolidated and partitioned to reduce cooling needs.
+In FY 15-16, the average PUE of our 23 key data centers improved from an average of 2.2 to 1.75, with six data
+centers having a PUE of 1.65 or less. Despite our strong focus and keen efforts on this metric, we fell short of
+our target of 1.65 by March 2016. This was attributed to the legacy infrastructure across older locations which
+required considerable revamping and modernization. Based on our experience so far and better estimates of
+the work involved, we have extended the timeline to 2018. Towards that, we have planned several initiatives
+including ODC virtualization to optimize IT infrastructure efficiency.
+Efficient Operations
+TCS Remote Energy Management and Control initiative helps monitor, report, manage and improve energy
+usage for over 100 offices we occupy across India. The solution comprises hardware embedded assets, TCS
+Data Acquisition and Management System, and TCS Connected Universe Platform, the company's cuttingedge cloud-based IoT platform, which facilitates data management, analytics, rich query capabilities, and
+visualization.
+TCS has also set up a centralized Resource Operations Center (ROC) at its campus in Kochi supported by
+subject matter experts, energy analysts, and cloud-based IT systems experts, to enable real-time monitoring
+of energy consumption and advanced energy analytics. This has helped identify real-time wastages in energy
+use and yielded significant savings.
+The ROC continuously monitors the underlying infrastructure to ensure consistently high levels of data
+availability, data quality, and system uptime of infrastructure comprising more than 15,000 sensors and
+associated servers and gateway devices. TCS Global Infrastructure Monitoring Solution helps quickly identify
+the failure points in this multi-layered structure.
+The ROC provides real-time alerts based on complex rules combining multiple data sources such as energy
+consumption, occupancy, and weather. The platform also enables analytics that allow us to optimize key
+loads, such as enhancing chiller operations for effective chiller scheduling and management.
+The solution also provides real-time visualization of consumption, cost, and other key performance indicators
+(KPIs) at the location, region, and enterprise levels. This allows us to measure the energy performance of sites
+and aggregate KPIs for comparison by type of site, climatic zone, nature of operations, and so on. Poorly
+performing sites are taken up for assessments and audits to identify opportunities for enhancing their energy
+performance.
+Renewable energy
+Renewables are an important element of the global climate change adaptation strategy, improving the
+resilience of existing energy systems and ensuring delivery of energy services in changing climatic
+conditions. To meet its carbon target, TCS has also identified renewable energy as a substitute to high carbon
+energy. Roof-top solar power plants have also been installed at our campuses. Some of our offices also have
+small renewable energy installations including solar peripheral lights, solar electrical fencing systems, and
+solar water heaters. TCS is looking at procurement of renewable energy through third party providers over
+the next few years to achieve a target of 20% renewable component by 2020. In FY 2015-16, renewable
+energy accounted for 3.1% of the total energy consumed.
+TCS has successfully reduced its specific carbon and energy footprint, clearly demonstrating the decoupling
+of business growth from carbon and energy footprint. TCS has also reduced its energy consumption by 5%
+over FY 2015 and 45% over baseline year FY 2008 (as depicted in exhibit 38).
+
+G4-DMA (Materials)
+G4-EN6, G4-EN7
+67
+
+Corporate Sustainability Report 2015 | 2016
+
+Electricity consumption (kWh/FTE/month)
+350
+
+319
+257
+
+300
+
+267
+
+250
+
+246
+
+231
+
+216
+
+200
+
+196
+
+186
+
+177
+
+150
+100
+50
+0
+
+2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16
+Exhibit 38: Year-wise reduction in Electricity Consumption (kWh/FTE/month)
+
+Our combined GHG emission (Scope 1 + Scope 2) was 1.69 tCO2e/FTE in FY 2016 as compared to 1.82
+tCO2e/FTE in the last financial year; 43.6% less than the baseline year 2008 and 7% less than the last
+reporting year (Exhibit 39).
+
+Scope 1 + Scope 2 emissions (tCO2e/FTE/annum)
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+1.50
+0.00
+
+3.00
+
+2.71
+
+2.44
+
+2.35
+
+2.12
+
+1.99
+
+1.97
+
+1.82
+
+1.69
+
+2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16
+Exhibit 39: Year-wise reduction of Carbon Footprint (Scope 1 + Scope 2) in tCO2e/FTE/annum
+
+Scope 3 includes other indirect carbon emissions, which are a consequence of company's activities but occur
+from sources not owned or controlled by the Company. Often this typically contributes significantly to the
+total carbon footprint for any organization.
+The Scope 3 accounting standard by the GHG Protocol classifies emission sources into pre-defined
+categories. The various categories of Scope 3 emission sources applicable to TCS, along with the approach
+and reporting boundaries, are described in Exhibit 40.
+Scope 3 Category
+
+Accounting Approach
+
+The carbon footprint from the
+information and communication
+technology equipment purchased, which
+are not capitalized, is accounted under
+Category 1 –
+Purchased goods and purchased goods. The services which TCS
+procures for infrastructure management
+services
+are delivered from within TCS premises
+and hence are accounted for in Scope 1
+and Scope 2 emissions.
+G4-DMA (Emissions),
+G4-EN18, G4-EN19,
+G4-EN5, G4-EN6, G4-EN7
+68
+
+Corporate Sustainability Report 2015 | 2016
+
+Scope 3 Category
+
+Accounting Approach
+
+Category 2 – Capital
+goods
+
+Emissions from office machinery,
+equipment, furniture, computer, servers,
+and electrical machinery which are
+capitalized are accounted for in this
+category.
+
+Category 3 – Fuel and
+energy related
+activities (not
+included in Scope 1
+and Scope 2)
+
+The emissions associated with upstream
+extraction, production, and
+transportation and T&D losses due to the
+electricity consumed in TCS offices are
+quantified under this category.
+
+Category 4 –
+Upstream
+transportation and
+distribution
+
+IT goods constitute a significant
+proportion of the company's overall
+purchase. The upstream transportation
+and distribution emission for the IT
+purchases have been quantified based on
+the life cycle data published by key
+suppliers to TCS for different IT assets like
+desktops, laptops, and servers.
+
+Category 5 – Waste
+generated in
+operations
+
+Emissions associated with waste disposal
+have been quantified taking into
+consideration the recycled quantities,
+waste treatment, and disposal methods.
+
+Category 6 –
+Business travel
+
+Business air travel is very relevant and
+material to TCS due to the nature of
+business and our operating model. The
+GHG emission from business air travel
+(Scope 3) has reduced by 50% over
+baseline year and is 0.40
+tCO2e/FTE/annum. This reduction has
+been possible due to our commitment to
+optimize business air travel through strict
+controls and by encouragement of audio
+and video conferencing. The year-on-year
+trend is given in Exhibit 12.
+
+Category 7 –
+Employee
+Commuting
+
+This has two components – travel in hired
+vehicles provided by the company and
+travel in personal or public transport. The
+distance traveled is monitored for
+company vehicles by type of vehicle and
+fuel, and used to calculate the associated
+emission. For employees commuting by
+personal or public transport, the number
+of employees using personal transport
+(two-wheelers or cars) is collected from
+the parking pass issue records, and it is
+assumed that the rest use public
+transport. It is assumed that on an
+average, a person travels 30 km a day for
+work, based on the average distance of
+the offices in each city from the
+geographical center. Emissions are
+accounted for based on the kilometers
+travelled and the emission factor for
+passenger cars, motorbikes, buses, and
+trains. This data is reported only for
+India, representing over 90% of our
+total employees.
+
+Exhibit 40: Categories of Scope 3 Emissions
+
+G4-DMA (Transport)
+
+69
+
+Corporate Sustainability Report 2015 | 2016
+
+The proﬁle of the Scope 3 categories applicable to TCS is given in Exhibit 41.
+Category 1– Purchased goods
+& services ; 35,064 ; 5.25%
+Category 7 – Employee
+commuting ; 2,32,406 ;
+34.79%
+
+Category 2 – Capital goods ;
+81,027 ; 12.13%
+
+Category 3 Fuel and
+energy related
+activities(not included
+in Scope 1 or 2) ;
+1,79,811 ; 26.92%
+Category 6 –
+Business travel ;
+1,35,097 ; 20.23%
+
+Category 4 – Upstream transportation
+and distribution ; 1,854 ; 0.28%
+Category 5 – Waste generated
+in operations ; 2,693 ; 0.40%
+
+Exhibit 41: Scope 3 Carbon Footprint Distribution (Legend – Category type;
+carbon footprint in tCO2e; % of total Scope 3)
+
+Business air travel emissions (tCO2e/FTE/annum)
+1.00
+
+0.80
+0.44
+
+0.50
+0.00
+
+2007-08 2008-09
+
+0.52
+
+0.44
+
+0.42
+
+0.34
+
+0.31
+
+2009-10 2010-11 2011-12 2012-13 2013-14
+
+0.36
+
+0.40
+
+2014-15 2015-16
+
+Exhibit 42 Year-wise comparison of Carbon Footprint (Scope 3-Business Air Travel) in tCO2e/FTE/annum
+
+Cycle to work
+scheme
+
+100% of waste
+diverted from
+landﬁll
+
+100% FSC and
+recycled paper
+
+Net Zero Carbon
+Ofﬁce
+
+G4-EN17, G4-EN30
+
+70
+
+TCS-Liverpool – First TCS Delivery Center certified as
+‘net zero carbon’
+In April 2015, TCS-Liverpool set a challenging objective to become ‘net
+zero carbon’. The initiative called ‘Zeros Heroes’ is based on a 5 step plan
+to reduce the energy demand, recycle 100% of waste, use energy from
+renewable sources, offsets and employee engagement. Under this, we
+actively encouraged employees to help in offsetting our emissions by
+volunteering in local community for plantations, recycling days and
+educational workshops.
+As a outcome of our persistent efforts, we achieved the ‘net zero
+carbon’ certificate by Alphacello, UK in January 2016, becoming the first
+TCS Delivery Center to become net zero carbon.
+
+26 Emission factors used are from DEFRA 2016 & DEFRA 2012 – GHG conversion factors, GHG Protocol All Sector Tools 2014, Lifecycle GHG
+assessment study published by key suppliers of ICT equipment to TCS.
+
+Corporate Sustainability Report 2015 | 2016
+
+Ozone Depleting Substances
+Some of the refrigerants used in HVAC systems, such as R-22, have been recognized as Ozone Depleting
+Substances (ODS). All the ozone depleting refrigerant gases as per the Montreal Protocol will be phased out
+and replaced with zero Ozone Depleting Potential (ODP) refrigerants in line with the country-specific
+timelines agreed as per the Montreal Protocol and country regulations. The new facilities coming up at TCS
+have HVAC systems based on non-ODS refrigerants. ODS emissions are primarily in the form of system losses
+or fugitive emissions during maintenance and repair. The ODP of the total refrigerant emissions to the
+atmosphere in FY 2016 was 0.22 tonnes of CFC-11 equivalent.
+Other Emissions
+Diesel generator sets used as a source of power during power outages, emit Oxides of Sulphur (SOx) and
+Oxides of Nitrogen (NOx) gaseous emissions, which are listed in Exhibit 43.
+Emissions
+
+Quantity (tonnes)
+
+SOx
+
+3.3
+
+NOx
+
+413
+Exhibit 43: Other Emissions
+
+Water Sustainability
+“Clean, safe drinking water is scarce. Nearly 1 billion people in the developing world don't have access to
+clean, safe drinking water. Yet, we take it for granted, we waste it, and we even pay too much to drink it from
+little plastic bottles. Water is the foundation of life. And still today, all around the world, far too many people
+spend their entire day searching for it.” – The Water Project, Inc.
+Commitment – To achieve water neutrality by 2020
+To achieve our ambitious goal of achieving water efficiency by 2020, we have ensured water efficient design
+in new offices and campuses, as well as 100% treatment and recycling of sewage and rainwater harvesting.
+Exhibit 44 summarizes the water performance.
+Fresh water is critical for our operations, and it comes from several sources. The source-wise breakup of the
+3.52 million kL of water consumed in FY 2016 is given in Exhibit 45.
+
+Water efficiency
+15% reduction in specific water consumption
+
+Rainwater harvesting potential
+478,626 cum of rainwater harvesting potential created
+
+Water recycling
+5.5 million kL of water recycled
+
+Exhibit 44: Water performance
+27 Source: The Water Project, Inc., Water Scarcity and the Importance of Water, accessed 18 July 2016,
+https://thewaterproject.org/water-scarcity/
+28 No natural water source is directly impacted due to water consumption by TCS. For offices where measurement systems are not available,
+assumptions and rules of thumb are used to estimate the quantity of water consumed, recycled, and reused.
+
+G4-DMA (Water),
+G4-EN20, G4-EN21,
+G4-EN8, G4-EN9
+71
+
+Corporate Sustainability Report 2015 | 2016
+
+Bottled 1%
+
+Purchased
+(Tanker)38%
+
+Municipal 45%
+
+Borewell16%
+Exhibit 45: Fresh Water Consumption by Source in 2015-16
+
+Water Efficiency
+Rainwater
+Harvesting
+
+Awareness
+Creation
+Treatment
+
+Recycling
+
+Water Management
+
+G4-EN8
+
+72
+
+Exhibit 46: Water Management Measures
+
+Corporate Sustainability Report 2015 | 2016
+
+Consistent water efficiency measures (as indicated in Exhibit 46) have helped reduce the specific fresh water
+consumption by 15% over baseline year FY 2008, and by 2% reduction over last year (as shown in Exhibit 47).
+
+Fresh water consumption
+(litres per FTE per month)
+1,500
+1,234
+
+1,242
+
+1,253
+1,104
+
+1,000
+
+1,073
+
+1,076
+
+1,072
+
+1,077
+
+1,051
+
+500
+0
+
+2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16
+Exhibit 47: Decrease in Per Capita Fresh Water Consumption
+
+Several TCS offices have sewage treatment plants. The treated effluent from these plants is tested regularly
+against applicable effluent disposal standards and recycled for use in HVAC cooling tower make-up, toilet
+flushing and gardening. The recycled treated sewage has increased with the commissioning of new TCS
+projects designed for zero water discharge (Exhibit 48).
+
+Reused water (kL)
+20.00,000
+15,12,503
+
+15.00,000
+
+10,71,130
+
+10.00,000
+
+8,05,051
+
+5,26,729 6,10,577
+
+5.00,000 1,40,612 2,34,701 2,68,901 3,06,652
+0
+2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16
+Exhibit 48: Increase in Recycled water (kL)
+The percentage of the total treated sewage recycled of the total fresh water consumed has increased from
+34% in FY 2015 to 44% in FY 2016. All upcoming TCS owned facilities have sewage treatment plants designed
+for 100% treatment and further recycling of the treated effluent.
+Rain water harvesting is an important feature of building design at TCS. We have implemented rooftop
+collection systems, collection and storage tanks, recharging of bore wells, recharge trenches and pits, and in
+some cases, water bodies for storing rain water.
+There has been an 80% increase in the rainwater harvesting potential at TCS sites in FY 2016 over the
+previous year (Exhibit 49). The current rainwater harvesting potential is 87% of the total groundwater used
+across TCS facilities.
+
+Rainwater Harvesting Potential
+(in cubic meter)
+6,00,000
+5,00,000
+4,00,000
+3,00,000
+2,00,000
+1,00,000
+0
+
+4,78,626
+
+54,745
+
+59,358
+
+2007-08 2008-09
+
+87,602
+2009-10
+
+96,741
+
+1,35,430 1,48,769
+
+2010-11 2011-12 2012-13
+
+2,17,396
+
+2,66,458
+
+2013-14 2014-15
+
+Exhibit 49: Increase in Rainwater Harvesting Potential
+
+2015-16
+G4-EN10, G4-EN22, G4-EN26
+
+29 No significant impact on biodiversity of water bodies or related habitats from discharged water and runoff
+
+73
+
+Corporate Sustainability Report 2015 | 2016
+
+Waste Management
+Commitment – To achieve zero waste to landfill by 2017
+Waste generation is steadily on the rise as a natural result of population increase and economic growth.
+Waste management is becoming a critical issue, especially in urban areas, since the waste produced is, more
+often than not, greater than the waste that can be disposed in an environment friendly manner. This has an
+adverse impact on the environment and imposes public health risk and other socio-economic problems.
+For an IT services and consulting organization like TCS, emissions and wastes are limited and from our office
+operations. There are no process wastes or emissions. Municipal solid waste is the predominant type of solid
+waste generated from TCS' operations. TCS also generates electronic and electrical waste (e-waste) and a
+relatively smaller proportion of potentially hazardous wastes like lead-acid batteries and waste lube oil which
+are regulated in many countries including India, where there are specific regulations governing their
+handling and disposal.
+
+100% e-waste is disposed of
+through government
+authorized recyclers
+
+E-waste
+
+100% hazardous waste is
+disposed of through government
+authorized recyclers
+
+Hazardous
+Waste
+
+Biodegradable
+waste
+
+100% paper waste
+is recycled
+
+31% biodegradable is
+waste recycled on-site
+
+Paper
+Waste
+
+Exhibit 50 Waste management performance
+Waste management has been identified as one of the key focus areas in TCS' Environmental Sustainability
+Roadmap with the objective of becoming a 'zero waste to landfill' organization. We have extended the
+timeline for this target from 2017 to 2020 since the vendor ecosystem capable of robustly handling and
+recycling all waste streams is still evolving in India. However, for wet waste, we have 100% handling and
+treatment facilities at all owned campuses.
+
+G4-DMA (Effluents and Waste)
+
+74
+
+30 <5% waste to landfill. The target year earlier was 2017 but it has been revised to 2020 as we are working on setting up recycling practices,
+especially in leased offices where there is limited space and dependency on the landlord
+
+Corporate Sustainability Report 2015 | 2016
+
+TCS' waste management practices (see Exhibit 50) seek to reduce the environmental impact of waste streams
+as far as possible by reduction in generation, segregation at source, reuse and recycle where possible, and
+proper management to achieve the ultimate goal (long-term target) of disposing less than 5% waste to
+landfill. This has inspired actions to deliver results by raising greater awareness and in turn motivating more
+action towards sustainable waste management. The waste management performance is summarized in
+Exhibit 50.
+
+Sent for recycling
+
+Sent to scrap
+dealers or
+municipal disposal
+
+Paper
+waste
+Mixed
+dry waste
+
+Hazardous
+& e-waste
+
+Disposed through
+government
+authorized recyclers
+in compliance with
+local regulations
+
+3R
+Generation of
+biogas/ composting
+or sent to piggeries
+as feed
+
+Printer
+& toner
+cartridges
+
+Food
+waste
+Garden
+waste
+
+Sent back to the
+manufacturer
+
+Vermi-composting
+
+Waste Management
+Exhibit 51: Waste Management Methods
+Environmentally Sustainable Biodegradable Waste management
+Our approach to reducing waste generation starts with reduction at the source, through rigorous
+associate awareness campaigns and training cafeteria staff to minimize the biodegradable waste generated
+(Exhibit 52). The waste management strategies are centered on either recycling the waste for further use
+(where possible) or arranging for safe disposal (paper waste – 127 tonnes, Dry waste – 1740 tonnes, canteen|
+waste – 2867 tonnes). The increase in FY 16 is because the quantity of dry waste has increased due to better
+accounting and increased reporting.
+Display board for awareness
+
+‘Project Smiley’- for Food Waste Management
+at TCS Bangalore
+Project Smiley was taken up at TCS Bangalore, with the
+objective of reducing food wastage and diverting waste
+from landﬁlls through onsite recycling. The key success
+factor for the project was increased employee
+participation.
+Employees are encouraged to reduce food waste by:
+n
+
+Adopting self-service
+
+n
+
+Building awareness through display boards saying
+“Take all you can eat, but eat all you take”
+
+Any food waste generated is converted to manure
+through an onsite composter. Around 500 kg of food
+waste was processed during the period of November
+2014 to Mar 2016, and 162 kg organic manure was
+generated. After the success of this project, it has
+been replicated across various TCS locations.
+
+G4-EN23
+Kitchen composter converts food waste to manure
+
+75
+
+Corporate Sustainability Report 2015 | 2016
+
+Waste generated
+(Kg per FTE per year)
+25
+19.9
+
+20
+
+16.9
+14
+
+15
+10
+
+18.2
+
+17.9
+
+17.7
+15
+
+14.7
+
+8
+
+5
+0
+2007-08
+08
+
+2008-09
+09
+
+2009-10
+10
+
+2010-11
+11
+
+2011-12
+12
+
+2012-13
+13
+
+2013-14
+14
+
+2014-15
+15
+
+2015-16
+16
+
+Exhibit 52 Year-wise Waste Generated (Kg/FTE/yr)
+The hierarchy for disposal of biodegradable waste is biogas recovery through bio-digesters (methane
+avoidance) followed by composting, disposal as feed to piggeries and, as the last resort, to the municipal
+waste collection system. The technology selected depends upon the space availability and the estimated
+food waste generation. In FY 2016, 31% of the total wet waste generated was treated through onsite
+composting or bio-digester treatment. A total of 127 tonnes of compost was generated from garden waste in
+FY 2016. This is an excellent bio-fertilizer that maintains vegetation health, and also helps us avoid the use of
+chemical fertilizers and the resultant soil and groundwater pollution.
+
+Campus Food Waste turns into Campus Energy
+The first waste-to-energy project has been adopted at TCS Siruseri in Chennai. Key highlights:
+n
+
+Food waste is treated on-site to
+produce electricity (used to run
+ventilation fans in the basement)
+
+n
+
+At full capacity, the digester will
+process and divert 960 tons of
+food, and generate 57,600 kWh of
+electricity annually
+
+n
+
+A trial run from July 2015 to March
+2016 resulted in the generation of
+1003 kWh electricity from 129 tons
+of food waste
+
+n
+
+A view of Bio-digester (Waste to Energy)
+at TCS Siruseri, Chennai, Tamil Nadu
+
+Besides methane avoidance, the organic fertilizer produced helps to maintain the landscape
+
+31 Data given is only for India geography since most overseas locations are multi-occupancy facilities where waste handling and disposal
+are handled by the building authority and hence not under TCS' control
+
+76
+
+Corporate Sustainability Report 2015 | 2016
+
+Paper management initiative
+Paper management at TCS is based on the waste management hierarchy with waste reduction at the
+pinnacle. The effectiveness of this approach is demonstrated by the success of our paper consumption
+reduction initiative due to whichthe per capita paper consumption has reduced by 79.5% over the baseline
+(Exhibit 53).
+
+Paper consumption
+(Reams/1000 FTE/month)
+250
+200
+150
+100
+50
+0
+
+231
+133
+87
+
+2007-08
+
+2008-09
+
+2009-10
+
+72
+
+65
+
+55
+
+51
+
+50
+
+2010-11
+
+2011-12
+
+2012-13
+
+2013-14
+
+2014-15
+
+47
+
+2015-16
+
+Exhibit 53 Reduction in Paper consumption (Reams/1000 FTE/month)
+Much of this reduction can be attributed to creating awareness among employees and enforcing printing
+discipline through automated as well as manual administrative means. The paper waste is carefully
+segregated, shredded, and sent for recycling. In some cases, they are sent to NGOs which supply stationery
+items (such as notepads and files) made from recycled paper back to us. In FY 2016, TCS continued to achieve
+100% recycling of the total paper waste.
+
+TCS Germany Goes Green
+After becoming the first TCS delivery center to switch to 100% green electricity, the TCS
+Dusseldorf office continues to demonstrate its commitment towards protecting the
+environment through its shift to sustainable paper. The office uses 100% recycled paper and
+has inspired other offices in Germany.
+The paper procured is certified by:
+n
+
+EU-Ecolabel, which is recognized across Europe for promoting environmental excellence
+
+n
+
+FSC certification, which ensures that products are made from well managed forests that
+provide environmental, social, and economic benefits
+
+E-waste Management
+The e-waste generated our offices includes computers, monitors, servers, and other electronic and electrical
+items. Our E-waste Management Policy complies with the Waste Electrical and Electronic Equipment
+(WEEE) directive, Government of India's E-waste (Management and Handling) Rules, 2011 and other country
+level regulations.
+To ensure that electronic waste is recycled properly, our e-waste dismantling/recycling service providers
+undergo a stringent due-diligence audit process to ensure compliance with Health, Safety, and Environment
+related regulations. A desktop review is followed by a detailed site audit to verify adherence to HSE practices
+at site, thereby extending 'duty of care' to the supply chain.
+
+32 This data given is only for India, since most overseas locations are multi-occupancy facilities where waste handling and disposal is
+handled by the building authority
+
+77
+
+Corporate Sustainability Report 2015 | 2016
+
+In FY 2016, 21,140 computers were disposed of through government authorized handlers or recyclers, in
+accordance with the regulations of each country. In addition, computers which were in working condition
+but deemed obsolete for TCS' purposes were donated to educational and charitable institutions. Recipients
+of such donations are required to return the hardware to TCS once it reaches the end-of-life or arrange for
+proper disposal through government authorized e-waste vendors.
+Hazardous Waste Management
+For India operations, hazardous wastes (as defined by regulations) are handled and disposed of as per the
+Hazardous Waste (Management and Handling) Rules, 2008, only through government authorized vendors.
+Refer Exhibit 54 for the quantities disposed. We conduct compliance and site audits before registering
+hazardous waste vendors as a part of our supply chain sustainability drive. Similarly, we follow local
+regulations in other regions. However, since we have fewer facilities outside of India which are mostly leased
+and operated by building owners, the generation of such waste is marginal and is appropriately handled
+through the building operators.
+Type of Waste
+
+Amount
+
+Lube oil from DG sets
+
+24,069 liters
+
+Number of used batteries from UPS systems
+
+9,187
+
+Exhibit 54: Disposal of Hazardous Waste in India
+Further, all used printer cartridges and photocopier toner bottles are sent back to the manufacturers under
+to ensure proper disposal.
+Environmental expenditure
+At TCS, environmental initiatives are seen as part of overall operational and infrastructure improvement, and
+the expenditure is not tracked separately. Green building projects are included in the capital expenditure
+while expenditures like monitoring and measurement costs, small energy efficiency projects, and compliance
+fees are included as a part of the operational budget for the facility.
+Employee Engagement
+Employee engagement is a key part of TCS' Environmental Sustainability Roadmap. To sensitize employees
+towards nature and the need for conserving resources, we leverage various awareness models such as
+classroom training of new employees (induction training), continuous learning, awareness emails, as well as
+site activities like competitions and other campaigns. The total training hours on health, safety, and
+environment in the year were over 670,000.
+In FY16, TCS observed the Tata Sustainability Month in June. We also observed World Earth Day, World Biodiversity Day, Green Consumer Day, Pollution Control Day, Energy Conservation Day, World Water Day, and
+Earth Hour. Each event saw enthusiastic participation from employees.
+
+G4-DMA (Overall)
+G4-EN24, G4-EN25,
+G4-EN31
+78
+
+33 Data for all geographies.
+34 There were no reported spills of hazardous wastes in FY 2016. Zero percent of the wastes are shipped internationally and none are
+deemed hazardous under the terms of the Basel Convention Annex I, II, III, and VIII.
+
+Corporate Sustainability Report 2015 | 2016
+
+Tata sustainability month 2015
+
+‘Best out of
+Waste’ Contest
+
+As part of the Tata Group’s commitment
+towards society and the environment, TCS
+celebrated a month-long environmental
+sustainability campaign in June 2015. The
+
+Photography
+Contest
+
+underlining theme of the campaign was
+SMART: Sustainable and Meaningful Actions
+for a Responsible Tata way. It was observed
+through the weekly themes Carbon and
+
+Green Products
+Exhibition
+
+Energy, Water, Waste, and Biodiversity.
+Activities that were conducted included
+inauguration of various green initiatives,
+
+Distribution of
+Organic Manure
+
+informative lectures by experts, tree
+plantation drives, exhibitions, ﬂoor walks,
+movie screenings, and competitions for
+employees and contract staff. Contests
+included a Rangoli competition, a ‘best out of
+
+Distribution of
+Saplings and
+Seeds
+
+waste’ contest, and a photography
+competition. The campaign was a success
+and saw participation from over 110,00
+employees from across the globe.
+
+Distribution of
+Saplings and
+Seeds
+
+Supply Chain Sustainability
+We define "critical" as something that would affect our business continuity. Therefore, TCS recognizes the
+criticality of human capital to business and its sustainability. Non availability of suitably skilled talent may
+pose a risk to TCS. Ability of the Company to attract and retain talent is critical. This critical risk is mitigated by
+attracting and retaining talent through the following processes:
+a)
+
+Identification of competency and skill gaps on a continuous basis and aligning with market needs
+
+b)
+
+Strong process for lateral hiring across the globe
+
+c)
+
+Process for identification of career aspiration of professionals and helping them reach their goals
+
+d)
+
+Making TCS a 'caring organization' by offering opportunities for good health, involvement with
+communities and self- development
+
+e)
+
+Focus on career aspiration planning for high performers and incentivize them with learning, growth and
+leadership opportunities
+
+In FY16, TCS remained the highest recruiter in the industry in India with a gross addition of 90,182
+employees. TCS continues to remain the employer of choice at engineering campuses in India.
+In addition, we procure various pieces of equipment and software that make up the Company's IT
+infrastructure, largely sourced from the local offices of leading global technology providers. With reference to
+procurement IT infrastructure & other goods & services, the Company purchases goods/services for its
+operational sustainability and business processes. No particular goods/Services is termed as being more
+79
+
+Corporate Sustainability Report 2015 | 2016
+
+critical than the other. TCS doesn't identify and manage individual suppliers' transactions but looks at the
+categories to which they belong. Within each category, TCS seeks three suppliers at least, who could meet
+the Company's business needs. Further asset categories (in Hardware: Desktops & Laptop, Servers & Storage,
+Peripherals, Network Equipment, Spares & Services) have been identified with their applicable vendors to
+help service our needs better. Office supplies and consumables are all locally sourced by individual operating
+units in the different regions where we operate.
+All of the Company's suppliers must sign the Supply Code of Conduct which not only mandates ethical
+dealings with the Company but also promoted ethical practices throughout the supply chain.
+Supply Chain Health, Safety and Environment management.
+Commitment – To include vendor sustainability requirements in contracts and conduct assessments
+
+As part of its Environmental Sustainability Roadmap and commitment to Tata group's philosophy, TCS seeks
+to instill environmental, social, and governance (ESG) practices in its upstream supply chain. We also engage
+with and support downstream supply chain partners in their respective endeavors on sustainability.
+In line with TCS' commitment to sustainability, TCS' key suppliers and supply chain partners are expected to
+instill socially and environmentally responsible practices in their businesses. Engagement and capacity
+building are the pillars of the sustainable supply chain program at TCS.
+Sustainability is a key criterion for selecting vendors and maintaining ongoing relationships with them (see
+Exhibit 55). With compliance to legal requirements set as the minimum requirement, some additional
+highlights of TCS' supply chain sustainability program include:
+n
+
+Mandatory sign-off on TCS' Supplier Code of Conduct and Contractor HSE requirements by all vendors
+
+n
+
+Assessments and audits for high-risk vendors
+
+n
+
+Integration of sustainability metrics in vendor reviews
+
+n
+
+Training and capacity building
+
+Sustainable Supply Chain Engagement Model
+
+2
+
+1
+Evaluate the
+vendor/product portfolio
+Map the active
+vendor/product portfolio
+
+6
+
+Assessment
+Conduct assessments,
+whether desktop
+reviews or site audits,
+based on the vendor risk
+level and engagement
+
+Prioritize
+
+3
+
+Vendor
+assessment
+and
+audits
+Assess
+risks
+
+5
+
+Engage
+Based on the risk level
+assigned in Step 4,
+define the vendor
+engagement plan across
+all stages from release of
+tender till on-boarding
+
+Evaluate the current
+product/vendor portfolio
+
+Vendor
+engagement
+at the time
+of contract
+
+Prioritize
+Based on the volume of
+business and applicability of legal
+requirements, conduct a preliminary
+prioritization to identify the major
+purchases/ vendors.
+
+Evaluate the
+overall vendor
+risk level and
+Impact type
+
+Conduct risk assessment
+Assess environmental, social,
+and safety risks for each vendor
+and product category
+
+Assign overall risk level and
+Impact Type
+Prioritize based on the overall risk
+level assigned to the vendor as an
+outcome to step 3; also ascertain
+whether impact on TCS is direct
+or indirect
+
+4
+
+Exhibit 55: Sustainable Supply Chain Engagement Model
+
+G4-12
+
+80
+
+This program currently covers a significant proportion of our supply chain partners by expenditure. Desktop
+assessments have been conducted for some vendors where the impact on TCS is indirect, including ICT
+suppliers. Site or process audits have been conducted for high-risk vendors with direct impact on TCS, such
+as hazardous and e-waste recyclers, as well as cafeteria, facility management, drinking (bottled) water
+suppliers and transport service providers.
+
+GRI G4 Content Index
+2016
+
+*Please see GRI Application Level Service organizational mark on page 73
+
+GENERAL STANDARD DISCLOSURES
+General
+Standard
+Disclosures
+
+Page Number (or Link)
+
+External Assurance
+
+STRATEGY AND ANALYSIS
+G4-1
+
+CEO's message - page 5
+
+Pages 86 - 90
+
+ORGANIZATIONAL PROFILE
+G4-3
+
+Organizational profile - page 10
+
+Pages 86 - 90
+
+G4-4
+
+Organizational profile - page 10
+
+Pages 86 - 90
+
+G4-5
+
+Contacts - page 92
+
+Pages 92
+
+G4-6
+
+Global footprint - page 11
+
+Pages 86 - 90
+
+G4-7
+
+Organizational profile - page 10
+
+Pages 86 - 90
+
+G4-8
+
+Global footprint - pages 11,12
+
+Pages 86 - 90
+
+G4-9
+
+TCS by numbers - page 13
+
+Pages 86 - 90
+
+G4-10
+
+Our Workforce - page 39
+
+Pages 86 - 90
+
+G4-11
+
+Our Workforce - page 39
+
+Pages 86 - 90
+
+G4-12
+
+Supply Chain Sustainability - page 79-80
+
+Pages 86 - 90
+
+G4-13
+
+Organizational Profile - page 10, Global Footprint - page 11
+
+Pages 86 - 90
+
+G4-14
+
+Our Environment - page 62, 63
+
+Pages 86 - 90
+
+G4-15
+
+Our Sustainability Strategy and Corporate Governance - pages 24
+
+Pages 86 - 90
+
+G4-16
+
+Our Stakeholders - page 16
+
+Pages 86 - 90
+
+IDENTIFIED MATERIAL ASPECTS AND BOUNDARIES
+G4-17
+
+About the Report - page 4
+
+Pages 86 - 90
+
+G4-18
+
+About the Report - page 4,
+Stakeholder Engagement and Materiality Definition - page 16
+
+Pages 86 - 90
+
+G4-19
+
+Material Topics - page 18
+
+Pages 86 - 90
+
+G4-20
+
+Material Topics - page 18
+
+Pages 86 - 90
+
+G4-21
+
+Material Topics - page 18
+
+Pages 86 - 90
+
+G4-22
+
+About the Report - page 4
+
+Pages 86 - 90
+
+G4-23
+
+About the Report - page 4
+
+Pages 86 - 90
+
+STAKEHOLDER ENGAGEMENT
+G4-24
+
+Our Stakeholders - page 16
+
+Pages 86 - 90
+
+G4-25
+
+Our Stakeholders - page 16
+
+Pages 86 - 90
+
+G4-26
+
+Our Stakeholders - page 16
+
+Pages 86 - 90
+
+G4-27
+
+Our Stakeholders - pages 16, 17
+
+Pages 86 - 90
+81
+
+Corporate Sustainability Report 2015 | 2016
+
+REPORT PROFILE
+G4-28
+
+About the Report - page 4
+
+Pages 86 - 90
+
+G4-29
+
+About the Report - page 4
+
+Pages 86 - 90
+
+G4-30
+
+About the Report - page 4
+
+Pages 86 - 90
+
+G4-31
+
+Contacts - page 92
+
+Pages 92
+
+G4-32
+
+About the Report - page 4
+
+Pages 86 - 90
+
+G4-33
+
+About the Report - page 4, Assurance Statement - pages 86-89
+
+Pages 86 - 90
+
+G4-34
+
+Corporate Governance - page 24
+
+Pages 86 - 90
+
+G4-36
+
+Corporate Governance - page 24
+
+Pages 86 - 90
+
+GOVERNANCE
+
+ETHICS AND INTEGRITY
+G4-56
+
+Ethics and Compliance - page 28,
+Serving as an Ethical Exemplar - page 30
+
+Pages 86 - 90
+
+G4-57
+
+Ethics and Compliance - page 28,
+Serving as an Ethical Exemplar - page 30
+
+Pages 86 - 90
+
+SPECIFIC STANDARD DISCLOSURES
+DMA and
+Indicators
+
+Page Number (or Link)
+
+Identified
+Omission(s)
+
+Reason(s) for Explanation
+Omission(s) for
+Omission(s)
+
+External Assurance
+
+CATEGORY: ECONOMIC
+MATERIAL ASPECT: ECONOMIC PERFORMANCE
+G4-DMA
+
+TCS by numbers - page 13
+
+Pages 86 - 90
+
+G4-EC1
+
+TCS by numbers - page 13,
+Competitive Compensation
+Model - page 46
+
+Pages 86 - 90
+
+MATERIAL ASPECT: MARKET PRESENCE
+G4-DMA
+
+Our workforce - page 39
+
+Pages 86 - 90
+
+G4-EC5
+
+Competitive Compensation
+Model - page 46
+
+Pages 86 - 90
+CATEGORY: ENVIRONMENTAL
+
+MATERIAL ASPECT: MATERIALS
+G4-DMA
+
+Energy Efficiency and GHG
+Mitigation - pages 65 - 67
+
+Pages 86 - 90
+
+G4-EN1
+
+Energy Efficiency and GHG
+Mitigation - page 65
+
+Pages 86 - 90
+
+G4-EN2
+
+Page 65
+
+Pages 86 - 90
+
+MATERIAL ASPECT: ENERGY
+
+82
+
+G4-DMA
+
+Energy Efficiency and GHG
+Mitigation - page 63
+
+Pages 86 - 90
+
+G4-EN3
+
+Energy Efficiency and GHG
+Mitigation - page 64
+
+Pages 86 - 90
+
+G4-EN5
+
+Energy consumption
+- page 68
+
+Pages 86 - 90
+
+Corporate Sustainability Report 2015 | 2016
+
+MATERIAL ASPECT: ENERGY
+G4-EN6
+
+Energy Efficiency and GHG
+Mitigation - pages 67 - 68
+
+Pages 86 - 90
+
+G4-EN7
+
+Energy Efficiency and GHG
+Mitigation - pages 65-68
+
+Pages 86 - 90
+
+MATERIAL ASPECT: WATER
+G4-DMA
+
+Water Sustainability page 71
+
+Pages 86 - 90
+
+G4-EN8
+
+Water Sustainability
+- pages 71 - 72
+
+Pages 86 - 90
+
+G4-EN9
+
+Water Sustainability
+- page 71
+
+Pages 86 - 90
+
+G4-EN10
+
+Water Sustainability
+- page 73
+
+Pages 86 - 90
+
+MATERIAL ASPECT: EMISSIONS
+G4-DMA
+
+Energy Efficiency and GHG
+Mitigation - pages 63, 68
+
+Pages 86 - 90
+
+G4-EN15
+
+Energy Efficiency and GHG
+Mitigation - page 64
+
+Pages 86 - 90
+
+G4-EN16
+
+Energy Efficiency and GHG
+Mitigation - page 64
+
+Pages 86 - 90
+
+G4-EN17
+
+Energy Efficiency and GHG
+Mitigation - page 70
+
+Pages 86 - 90
+
+G4-EN18
+
+Energy Efficiency and GHG
+Mitigation - page 68
+
+Pages 86 - 90
+
+G4-EN19
+
+Energy Efficiency and GHG
+Mitigation - page 68
+
+Pages 86 - 90
+
+G4-EN20
+
+Energy Efficiency and GHG
+Mitigation - page 71
+
+Pages 86 - 90
+
+G4-EN21
+
+Energy Efficiency and GHG
+Mitigation - page 71
+
+Pages 86 - 90
+
+MATERIAL ASPECT: EFFLUENTS AND WASTE
+G4-DMA
+
+Waste Management
+- page 74
+
+Pages 86 - 90
+
+G4-EN22
+
+Sewage treatment
+- page 73
+
+Pages 86 - 90
+
+G4-EN23
+
+Waste Management
+- page 75
+
+Pages 86 - 90
+
+G4-EN24
+
+Hazardous Waste
+Management - page 78
+
+Pages 86 - 90
+
+G4-EN25
+
+Hazardous Waste
+Management - page 78
+
+Pages 86 - 90
+
+G4-EN26
+
+Water bodies - page 73
+
+Pages 86 - 90
+
+83
+
+Corporate Sustainability Report 2015 | 2016
+
+MATERIAL ASPECT: PRODUCTS AND SERVICES
+G4-DMA
+
+Sustainability in Marketing
+- page 32
+
+Pages 86 - 90
+
+G4-EN27
+
+Sustainability in Marketing
+- page 32
+
+Pages 86 - 90
+
+Not
+applicable
+
+G4-EN28
+
+TCS is an IT
+services
+company and
+hence does
+Pages 86 - 90
+not have any
+packaging
+material
+
+MATERIAL ASPECT: COMPLIANCE
+G4-DMA
+
+Our Environment - page 63
+
+Pages 86 - 90
+
+G4-EN29
+
+Our Environment - page 63
+
+Pages 86 - 90
+
+MATERIAL ASPECT: TRANSPORT
+G4-DMA
+
+GHG emissions
+- page 69
+
+Pages 86 - 90
+
+G4-EN30
+
+GHG emissions
+- page 70
+
+Pages 86 - 90
+
+MATERIAL ASPECT: OVERALL
+G4-DMA
+
+Our Environment
+- page 78
+
+Pages 86 - 90
+
+G4-EN31
+
+Environmental expenditure
+- page 78
+
+Pages 86 - 90
+CATEGORY: SOCIAL
+
+SUB-CATEGORY: LABOR PRACTICES AND DECENT WORK
+MATERIAL ASPECT: EMPLOYMENT
+G4-DMA
+
+Our workforce - page 39
+
+Pages 86 - 90
+
+G4-LA1
+
+Talent Retention page 40, 41, 45
+
+Pages 86 - 90
+
+G4-LA2
+
+Competitive Compensation
+Model - pages 46 - 47
+
+Pages 86 - 90
+
+G4-LA3
+
+Talent Retention - page 45
+
+Pages 86 - 90
+
+MATERIAL ASPECT: LABOR/MANAGEMENT RELATIONS
+G4-DMA
+
+Our workforce - page 39
+
+Pages 86 - 90
+
+G4-LA4
+
+Our workforce - page 39
+
+Pages 86 - 90
+
+MATERIAL ASPECT: OCCUPATIONAL HEALTH AND SAFETY
+
+84
+
+G4-DMA
+
+Occupational Health and
+Safety - page 48
+
+Pages 86 - 90
+
+G4-LA5
+
+Occupational Health and
+Safety - page 48
+
+Pages 86 - 90
+
+G4-LA6
+
+Injury Statistics - 50
+
+Pages 86 - 90
+
+G4-LA8
+
+Occupational Health and
+Safety - page 48
+
+Pages 86 - 90
+
+Corporate Sustainability Report 2015 | 2016
+
+MATERIAL ASPECT: TRAINING AND EDUCATION
+G4-DMA
+
+Talent Development
+- page 44
+
+Pages 86 - 90
+
+G4-LA9
+
+Talent Development
+- page 44
+
+Pages 86 - 90
+
+G4-LA11
+
+Career Development
+- page 46
+
+Pages 86 - 90
+
+MATERIAL ASPECT: EQUAL REMUNERATION FOR WOMEN AND MEN
+G4-DMA
+
+Competitive Compensation
+Model - page 46
+
+Pages 86 - 90
+
+G4-LA13
+
+Competitive Compensation
+Model - page 46
+
+Pages 86 - 90
+
+SUB-CATEGORY: SOCIETY
+MATERIAL ASPECT: LOCAL COMMUNITIES
+G4-DMA
+
+Our Community - page 52
+
+Pages 86 - 90
+
+G4-SO1
+
+Our Community - page 52
+
+Pages 86 - 90
+
+85
+
+External Assurance
+
+G4-33
+
+86
+
+Corporate Sustainability Report 2015 | 2016
+
+G4-33
+
+87
+
+Corporate Sustainability Report 2015 | 2016
+
+G4-33
+
+88
+
+Corporate Sustainability Report 2015 | 2016
+
+G4-33
+
+89
+
+Corporate Sustainability Report 2015 | 2016
+
+G4-33
+
+89
+
+CONTACT
+Corporate Headquarters
+TCS House
+Raveline Street
+Fort Mumbai 400 001
+Maharashtra
+India
+Phone 6778 9999 Fax 6778 9000 www.tcs.com
+Please email any feedback/queries to corporate.sustainability@tcs.com
+
+About Tata Consultancy Services (TCS)
+Tata Consultancy Services is an IT services, consulting and business solutions organization that
+delivers real results to global business, ensuring a level of certainty no other firm can match.
+TCS offers a consulting-led, integrated portfolio of IT and IT-enabled infrastructure, engineering
+and assurance services. This is delivered through its unique Global Network Delivery ModelTM,
+recognized as the benchmark of excellence in software development. A part of the Tata Group,
+India’s largest industrial conglomerate, TCS has a global footprint and is listed on the National
+Stock Exchange and Bombay Stock Exchange in India.
+For more information, visit us at www.tcs.com
+
+IT Services
+Business Solutions
+Consulting
+All content / information present here is the exclusive property of Tata Consultancy Services Limited (TCS). The content / information contained here is
+correct at the time of publishing. No material from here may be copied, modified, reproduced, republished, uploaded, transmitted, posted or distributed in
+any form without prior written permission from TCS. Unauthorized use of the content / information appearing here may violate copyright, trademark and
+other applicable laws, and could result in criminal or civil penalties.
+
+G4-5, G4-31
+
+TCS Design Services I M I 09 I 16
+
+Copyright © 2016 Tata Consultancy Services Limited
+
+

@@ -1,0 +1,3955 @@
+Corporate Responsibility &
+Sustainability Review 2013
+
+We are proud to be a
+company with demonstrable
+and externally accredited
+strengths in corporate
+responsibility and
+sustainability. That said,
+we are not complacent
+and recognize that becoming
+a more sustainable business
+is a long journey – one to
+which we are committed.
+James Robey
+Group Corporate Responsibility
+& Sustainability Director
+
+Executive Summary
+
+Welcome to our 2013 Review in which we provide an overview of our
+approach to Corporate Responsibility & Sustainability together with our
+key 2012/13 highlights.
+This last year has been another year of continued progress
+which has also seen us refocus our approach under four
+strategic dimensions:
+•	Values & Ethics – providing the framework which underpins all
+we do;
+•	Environmental Sustainability – managing and reducing
+environmental impacts;
+•	Community Engagement – maximizing the positive impacts
+we have on the communities in which we live and operate;
+•	People Culture – ensuring that we are both a responsible and
+inclusive company.
+Running across all these dimensions remains our dedication to
+our clients, and as such we continue to look for innovative ways
+to further embed our sustainability values into the client services
+we provide.
+While much has been achieved in the past year, some of our
+key achievements have been:
+•	Further strengthening of our approach to environmental
+sustainability with Spain becoming the latest of our countries
+to achieve ISO14001 certification for its Environmental
+Management System covering both Capgemini and Spain.
+Operations in seven of our countries are now covered by this
+international standard with further countries being currently
+rolled out;
+•	The development of an innovative Smart Energy Management
+Solution (SEMS) that enabled a 10% reduction in energy use in
+two Mumbai offices within two months and which is now being
+rolled out internally as well as being offered to our clients;
+
+•	Recognition for our community engagement approach, with
+our Business Process Outsourcing (BPO) Centers in Poland
+winning the European Outsourcing Awards in the CSR
+category, and receiving the prestigious Community Mark
+award from Business in the Community at a reception
+attended by the Prime Minister David Cameron;
+•	A new holistic approach to managing diversity being
+deployed as part of our people culture approach in North
+America including the roll-out of a new Leadership
+Development Program aimed at all levels across the business
+up to and including our Vice President community;
+•	A strengthened approach to the governance of Corporate
+Responsibility & Sustainability (CR&S), with the expansion of
+our network of CR&S leaders to cover all our major territories
+and over 90 per cent of the Group by headcount;
+•	And finally the inaugural award by Capgemini Netherlands of
+a new award which recognizes the client project which had
+the most impact on the sustainability of our clients;
+•	Recognition by the Ethisphere Institute of Capgemini being
+one of the World’s Most Ethical Companies in 2013.
+I hope you find our Annual Corporate Responsibility &
+Sustainability Review useful. Further information about our
+focus and progress can be found on our website at www.
+capgemini.com/sustainability
+
+James Robey
+Group Corporate Responsibility
+& Sustainability Director
+
+3
+
+Capgemini Headquarters, Paris, France.
+
+4
+
+Corporate Responsibility & Sustainability Review 2013
+
+Table of Contents
+Introduction	6
+Our Approach to Corporate Responsibility and Sustainability	
+10
+
+1. Values & Ethics	
+
+1.1 Leadership & Values	
+1.2 Group Ethics & Compliance Program	
+1.3 Sustainable Procurement: Our Suppliers and Business Partners	
+
+2. Environmental Sustainability	
+2.1 Group Environmental Policy	
+2.2 Management approach 	
+2.3 Environmental Performance 	
+2.4 Key Performance Indicators	
+
+3. Community Engagement	
+
+12
+
+12
+13
+15
+
+16
+
+17
+17
+18
+19
+
+21
+
+3.1 Our Global Initiatives	
+3.2 Some of our National Initiatives	
+3.3 Community Investment and Donations	
+
+22
+23
+25
+
+4 People demographics	
+
+26
+
+4.1 Professional Development	
+4.2 Diversity & equal opportunity	
+4.3 Work organization, health & well-being	
+4.4 Social Dialog/Employee engagement	
+4.5 Leadership	
+
+5. Client Services	
+
+27
+27
+28
+29
+30
+
+32
+
+3.1 Enabling Client Transformation	
+3.2 Innovating for our Clients	
+3.3 Client Satisfaction Approach	
+
+32
+33
+34
+
+Awards and Recognition	
+Appendix A – Organizational Structure	
+Appendix B – Additional People Data	
+Appendix C – Additional Environmental Data	
+
+35
+36
+37
+46
+
+5
+
+Introduction
+
+Being a responsible company has been at the heart of Capgemini’s values since we
+were founded in 1967 by Serge Kampf. Our commitment to Corporate Responsibility
+& Sustainability has endured for more than 45 years as we have grown to become
+Europe’s largest IT services company, with over 130,000 employees operating in over
+44 countries.
+In 2013 we have strengthened our program by refocusing our approach under
+four strategic dimensions: Environmental Sustainability; Community Engagement;
+People Culture together with the Values & Ethics which underpin everything we do.
+Furthermore we continue to look for innovative ways to embed sustainability into the
+services we provide our clients.
+We remain committed to going beyond our legislative obligations and talking with our
+key stakeholders to ensure that we align our approach to their key expectations. Our
+shareholders, for example, are increasingly asking us about our commitment across
+various aspects of corporate responsibility and the wider sustainability agenda.
+Interest covers aspects such as our policies regarding human rights and anticorruption to our focus and commitments on carbon reduction.
+This report is dedicated to transparently sharing our progress to date, while setting out
+our ambitions and plans for the future. Overall, we openly acknowledge that while we
+have come a long way over the last 46 years, there is still much further to travel.
+
+Paul Hermelin
+Chairman and Group CEO
+
+At Capgemini, we recognize that
+issues such as resource scarcity,
+energy security, climate change,
+and demographic evolution
+are also impacting our clients.
+Consequently, we remain
+committed to developing and
+delivering innovative business
+and IT solutions to support
+our clients, enabling them to
+adapt to the new realities of our
+changing world.
+6
+
+Corporate Responsibility & Sustainability Review 2013
+
+Ownership and organizational structure
+Non-French
+institutional
+shareholders
+
+French
+institutional
+shareholders
+
+Individual
+shareholders
+
+Board members
+& Group
+employees
+
+Treasury
+stock
+
+54.2%
+
+27.4%
+
+7.0%
+
+9.8%
+
+1.6%
+
+Cap Gemini S.A
+Capgemini
+Consulting
+•	 Consulting 	
+	Services
+
+Capgemini
+•	Technology
+	Services
+•	Outsourcing
+	Services
+
+Sogeti
+•	Local
+	Professional
+	Services
+
+Headquartered in Paris, France and
+operating in over 44 countries with
+over 130,000 employees, we have
+established ourselves as one of the
+top five IT services and consulting
+companies worldwide and the largest
+IT services company based in Europe.
+Capgemini’s mission is to enable
+our clients to transform and perform
+through technology. Our vision is to lead
+by providing clients with insights and
+capabilities that boost their freedom to
+achieve superior results.
+
+Our ownership and operational
+structure are shown in the diagram
+above. There were no significant
+changes in structure which affected our
+approach to corporate responsibility and
+sustainability during 2012 / 13 however,
+the increase in share ownership of
+directors and employees from 7.0 per
+cent to 9.8 per cent between 2011
+and 2012 highlights the success of our
+Employee Share Ownership Program
+(ESOP) and reflects the strength of our
+shared values.
+
+Capgemini offers cutting-edge
+technological skills and consulting
+expertise across all sectors and
+geographies. With strong expertise
+in its four businesses and in-depth
+knowledge of six key business sectors,
+the Group is increasingly regarded as
+a leading provider by its many global
+clients. They appreciate its innovative
+approach, ability to partner with the
+market’s top technology players, and
+a global delivery model, Rightshore®,
+which combines local (onshore)
+resources with more distant (offshore)
+specialist production centers.
+
+In 2012, the Group achieved revenues
+just over 10 billion euro, an increase
+of 5.9% compared with 2011, and an
+operating profit for the year of €601
+million, bringing the operating margin
+to 5.9% compared with 6.1% in 2011. A
+breakdown of revenue by business area,
+market sector and country is presented
+in Appendix A.
+76% of our people and the majority
+of our data centers are located in
+France, the Netherlands, North
+America, India, Brazil and the UK. These
+countries represent our most material
+sustainability impact.
+
+7
+
+Benelux
+
+8,81
+United Kingdom
+and Ireland
+
+9,205
+
+France
+
+20,970
+North America
+
+9,702
+
+Morocco
+
+743
+
+Latin America
+
+9,261
+
+Group Total
+
+130,088
+
+Number of team
+members by region
+
+Working Offshore
+
+50,968
+
+as at September 2013
+
+Our approach to Corporate
+Responsibility & Sustainability flows
+from our corporate values, and we
+are committed to responsible and
+sustainable business practices,
+delivering value to our stakeholders
+who include: customers, shareholders,
+investors, business partners, suppliers,
+employees, the community, and
+the environment.
+In particular, the impacts, risks and
+opportunities presented as a result
+of climate change touch every part
+of our business. Our services impact
+
+8
+
+the environment through our use of
+energy and as a result of business
+travel. Some of our operations, such
+as our data center facilities and the
+services run from them, remain at
+risk from extreme weather events for
+example. Our clients require, in many
+circumstances, continuous service from
+our data centers no matter the weather
+conditions. We also recognize the
+opportunity and potential opportunities
+whereby ICT can be used to assist
+our clients with their own climate
+change challenges.
+
+Corporate Responsibility & Sustainability Review 2013
+
+We have been supporting the principles
+of the UN Global Compact Program
+since 2004, signed up to the UN
+Global Compact Caring for Climate
+initiative in 2007 and the UN Women’s
+Empowerment Principles in 2011. Our
+management approach also supports
+all international laws and regulations, in
+particular the fundamental conventions
+on labor standards of the International
+Labor Organization, the principles
+of the 1948 Universal Declaration of
+Human Rights (where we refuse the
+use of forced and child labor) and
+the OECD guidelines for Multinational
+
+x
+
+12
+Rest of Europe
+
+21,664
+
+Asia Pacific
+
+Middle East, Africa
+and UAE
+
+25
+
+3,977
+India
+
+45,729
+
+Enterprises. We continue to increase the
+proportion of our operations covered
+by ISO14001 certification and are rolling
+out globally a robust environmental and
+social data measurement tool so we
+can ensure that we can manage our
+sustainability performance.
+Our 2013 report, consequently provides
+an overview of our approach and
+performance within our refocused
+approach covering: our Values and
+Ethics, Environmental Sustainability,
+Community Engagement, and our
+People Culture.
+
+This report is our second one produced
+to the principles of the GRI standard
+and covers data from the 2012 calendar
+year combined with narrative relating
+to progress throughout 2012 and 2013.
+Due to our growing and ever changing
+data baseline and to avoid confusion,
+we have elected not to restate data
+from previous reports. The policies
+and principles described in this report
+are applicable to our entire global
+operations. While there continues to be
+some limitations to data availability, all
+available data has been included in the
+following sections.
+
+We intend that this report assists with an
+increased stakeholder dialog at a Group
+level to proactively refine future reports
+to ensure the focus and materiality of
+content is pertinent and applicable.
+
+9
+
+Our Approach to Corporate
+Responsibility and Sustainability
+Our Corporate Responsibility & Sustainability vision is ‘to be leaders
+in sustainable excellence through a bold and influential approach,
+positively impacting Capgemini’s future, our clients, society and
+the planet.’ During 2013 we have refocused our approach under
+four strategic dimensions covering Environmental Sustainability,
+Community Engagement, People Culture and Client Services
+underpinned by Values and Ethics. Additionally we are working to
+look for innovative approaches to building sustainability into our client
+service offers.
+Our Sustainability Framework
+Values & Ethics
+
+It’s about who we are and the way we do business
+
+10
+
+Environmental
+Sustainability
+
+Community
+Engagement
+
+People
+Culture
+
+Client
+Services
+
+Our deep and measured
+understanding of
+environmental impact
+enables us to manage
+risk and reduce our
+carbon footprint across
+the Group.
+
+We strive to have a
+positive impact on the
+communities in which we
+live and operate.
+
+We aim to be the
+employer of choice for
+people who wish to
+flourish in a creative and
+diverse environment.
+
+Our clients benefit from
+our comprehensive
+understanding of
+sustainability and our
+world class business
+transformation
+capabilities.
+
+Corporate Responsibility & Sustainability Review 2013
+
+Values & Ethics
+It’s about who we are and the way we do business.
+Built on a foundation of our seven core values, our code of ethics underpins our corporate culture
+and permeates all of our business practices, procurement behaviors and employee welfare policies.
+
+Environmental Sustainability
+We have a deep and measured understanding of our impact on the environment.
+We recognize that while we do not manufacture products, the business services we provide can still
+impact the environment. We are working to reduce our environmental impacts from energy, business
+travel and waste, while raising employee awareness on the critical issues of sustainable development.
+
+Community Engagement
+We strive to have a positive impact on the communities in which we live and operate.
+As a major global employer, we work both locally, nationally and internationally with charities,
+non-governmental organizations (NGOs) and local authorities around inclusivity and skills for
+the future. Around the Group, we encourage the active involvement of our team members in
+community development.
+
+People Culture
+We aim to be the employer of choice for people who wish to flourish in a creative and diverse
+environment. Our focus is on the professional development and well-being of all our employees by
+ensuring that both our business practices and our facilities empower our delivery excellence. We have a
+culture whereby we respect and value the diversity and creativity of all our people.
+
+Client Services
+Our clients benefit from our deep understanding of sustainability and our world class
+business transformation capabilities. We deliver long-lasting value with tangible results. We
+take customer dialog and feedback very seriously, and look to embed Corporate Responsibility and
+Sustainability considerations into our consulting, technology and outsourcing offers.
+
+11
+
+1. Values & Ethics
+1.1 Leadership & Values
+Since the creation of the Group in 1967, our culture and business
+practices have been inspired and guided by our seven core values.
+These principles drive us as a Group and also as individuals. They are at
+the heart of our approach as an ethical and responsible company.
+These values are more than just rules of behavior: they provide the basis for
+our ethical approach and our principles. From them, we have carved out our
+approach to responsibility and our ethical and sustainability culture: they are the
+Group’s DNA. They demonstrate our belief in integrity and ethical behavior.
+Our values are critical in respecting, defending and upholding the Group
+as an ethical and responsible business and in protecting our reputation.
+
+team spirit
+trust
+
+boldness
+
+modesty
+
+fun
+
+honesty
+
+freedom
+
+HIGHLIGHT: MARCH 2013
+Highlight:	  March	  2013,	  
+
+	  	  
+
+Capgemini is recognized as one of the World’s Most
+Ethical Companies in 2013 by the Ethisphere Capgemini	  
+Institute.has	  been	  recognized	  as	  one	  of	  the	  World’s	  Most	  Ethical	  
+Companies	  in	  2013	  by	  the	  Ethisphere	  Institute.	  	  
+
+At	  Capgemini	  we	  often	  state	  that	  we	  go	  beyond	  compliance	  and	  philanthropy	  within	  our	  
+
+At Capgemini we often state that we go beyond
+compliance
+and
+Corporate	  
+Responsibility	  
+&	  Sustainability	  programs	  and	  in	  2013	  our	  efforts	  were	  externally	  
+recognised	  
+by	  the	  research-­‐based	  
+Ethisphere	  Institute.	  Ethisphere	  is	  dedicated	  to	  the	  creatio
+philanthropy within our Corporate Responsibility
+& Sustainability
+programs
+advancement	  and	  sharing	  of	  best	  practices	  in	  business	  ethics,	  corporate	  social	  responsibility,
+and in 2013 our efforts were externally recognized
+by theand	  research-based
+anti-­‐corruption	  
+sustainability.	  	  
+Ethisphere Institute. Ethisphere is dedicated to the creation advancement
+and sharing of best practices in business ethics, corporate social
+	  
+responsibility, anti-corruption and sustainability.
+
+12
+
+Corporate Responsibility & Sustainability Review 2013
+
+1.2 Group Ethics & Compliance Program
+The Group Ethics & Compliance Program was
+launched in 2009 and established a network of
+Ethics & Compliance Officers across the Group.
+The objectives of the program are to:
+•	Develop a sustainable ethical culture, which
+reinforces integrity and leads to ethical behavior;
+•	Strengthen knowledge and awareness of
+international and national laws, and internal policies
+applicable in the Group’s companies; and
+•	Implement initiatives reinforcing prevention and
+aiming at avoiding misconduct and breaches
+in the field of ethics and compliance.
+Managers across the Group are accountable in
+their respective units for ethics, and for compliance
+with the applicable laws and regulations.
+The Chief Ethics & Compliance Officer (CECO) is
+responsible for the Ethics & Compliance Program across
+the Group. The Program and its achievements are
+reviewed annually by the Group Ethics and Governance
+Committee of the Board of Directors.General Counsels
+across the Group have been appointed as local Ethics &
+Compliance Officers. They are responsible for the Ethics
+& Compliance Program within the geography under
+their responsibility and work closely with the CECO.
+As part of our Ethics & Compliance Program, we published
+our Code of Business Ethics in 2010, our Anti-Corruption
+Policy in 2011 and our Competition Laws Policy in 2012.
+The Code of Business Ethics and its resulting policies have
+received the collective and individual support of all the
+members of the Capgemini’s Board, our Group Executive
+Committee and the Group’s Vice-President community.
+
+On publication in 2010, a hard copy of the Code of Business
+Ethics was sent, together with a letter from the CEO, to
+all Vice-Presidents (approximately 1,400 managers) for
+their review and for signature of compliance. The Code is
+available in 13 languages and we have rolled out a specific
+e-learning module on the code which can be completed in
+four languages. By the end of September 2013, more than
+90,000 team members have completed this e-learning.
+The Anti-Corruption Policy is also available in eight
+languages with an accompanying e-learning module
+available in four languages (with a fifth to be available
+soon). At the end of September 2013, more than 42,000
+team members had completed the e-learning.
+The Competition Laws Policy is also available in eight
+languages with an accompanying e-learning module
+currently available in two languages (soon to be
+available in five). At the end of September 2013, more
+than 30,000 team members have completed this.
+Furthermore, Capgemini has in place a dedicated procedure
+for requesting advice and guidance and for raising concern.
+The Raising Concern Procedure (RCP) is currently in operation
+on a case-by-case basis in over 35 countries where the Group
+operates, in accordance with the applicable legislation
+To the best of our knowledge, we have not been the subject of
+significant fines for non compliance with laws and regulations
+concerning the provision of our services during the last year.
+
+Ethics Week
+Corresponding with the Group’s anniversary, a ‘Values & Ethics’ week was run across
+Capgemini to promote and renew awareness of our ethical policies and the seven values
+of the Group. In particular, the Group’s Chief Ethics & Compliance Officer took the
+opportunity to highlight via a video image the importance of our compliance policies and
+procedures by sharing information in social gatherings and on social media platforms.
+
+13
+
+Our Sustainable
+Procurement Principles
+1.	 Human Rights
+2.	Respect for national, international,
+regional and local applicable laws
+3.	 No forced or compulsory labor
+4.	 No child labor
+5.	 Equality and diversity
+6.	 Employee well-being
+	 and development
+7.	 Disciplinary practices
+8.	 Freedom of association
+9.	 Health and Safety
+10.	 Confidentiality and
+	 intellectual property
+11.	Refusal of bribery and corruption
+in business practices
+12.	 Environmental impacts
+
+14
+
+Corporate Responsibility & Sustainability Review 2013
+
+1.3 Sustainable Procurement: Our
+Suppliers and Business Partners
+With supply chains coming under ever greater scrutiny,
+Capgemini has developed Sustainable and Ethical
+Procurement guidelines. We expect our suppliers and
+business partners to fully comply with all applicable legislation
+for the products and / or services they provide, and to respect
+appropriate ethical policies and human rights. Our contracts
+with our suppliers reflect this approach. Should a supplier fail to
+respect these sustainable procurement and ethical guidelines,
+Capgemini is entitled to terminate the contract.
+In all of our purchasing activities, we pay attention to social
+impacts and human rights, environmental impacts, antibribery and corruption. The ten key principles of the United
+Nations Global Compact underpin our activities throughout our
+business.
+
+Sustainable Procurement in Practice
+
+Capgemini continues to implement its Sustainable Procurement
+in Partnership project. This reviews every category of goods
+and services procured from suppliers, in order to identify
+key areas of sustainability risk and related opportunities for
+improvement. Risk in this context refers to whether the product
+or service being procured has the potential to make a material
+impact on our sustainability performance and commitments
+(specifically in the areas of Health and Safety; Anti bribery and
+Ethical Trading); or whether it is subject to specific legislation,
+particularly environmental legislation.
+
+Capgemini was awarded the Prime Supplier of the Year
+Award by global client The Coca-Cola Company at the
+2013 Partners in Promise Awards Celebration in Atlanta,
+USA. The award recognizes suppliers who have made
+outstanding contributions with internal teams to move
+business initiatives forward while championing supplier
+diversity. Capgemini has helped Coca-Cola increase
+its diversity procurement in the areas of IT, BPO, and
+business consulting for more than 20 years.
+
+The project encompasses:
+•	a review of our supplier base in terms of risk and extent of
+expenditure;
+•	a more detailed survey of prioritized suppliers to assess
+supplier performance compared with sustainability
+principles
+•	if required, agreeing appropriate improvement activities with
+prioritized suppliers; and
+•	assessing all new suppliers who are required to complete a
+sustainability questionnaire.
+Capgemini also aims as far as possible to undertake all
+procurement (real estate, equipment, business travel) in
+accordance with its environmental policies and guidelines.
+This has been embedded into standard contracts since
+2007, with the option of terminating a contract in the case of
+non-compliance.
+In 2009, the Group’s Procurement Officers set up a program
+to complete risk and expense assessments on all of our key
+suppliers. The program has been implemented in our largest
+countries between 2009 and 2012 supplier assessments
+covered 88% of worldwide purchasing expenses. Some 4,293
+suppliers were or are currently being analyzed. Following
+this analysis, 215 suppliers have been delisted or reclassified
+with an additional 222 suppliers participating in a resolution
+program to bring them to the required standard.
+
+“We are honored to be recognized by The Coca-Cola
+Company with whom we share a core business value
+of empowering a diverse workforce and supplier base
+to deliver impactful business outcomes. Our growing
+supplier diversity program has set a new standard for
+responsible supply chain management and Capgemini
+is committed to expanding its work with more diverse
+suppliers to solve complex problems for our clients
+around the globe.”said Paul Dickens, director, Supplier
+Diversity and Engagement, Capgemini.
+
+15
+
+2. Environmental
+Sustainability
+Although Capgemini does not manufacture
+products, we recognize that our services
+and business activities still impact the
+environment. We are, therefore, working to
+reduce our environmental impacts as part
+of our overall Corporate Responsibility &
+Sustainability program, particularly focusing
+on energy use, business travel and waste.
+We are also committed to complying with
+legal and other relevant requirements in force
+within our operational geographies.
+Capgemini believe that environmental sustainability is a driver of shareholder
+value. Taking steps to go beyond simple environmental compliance,
+provides us with opportunities to support clients with new service offerings
+as well as to improve our efficiency and ultimately lower operational costs.
+
+Installation of bee hives at our Kleber office in
+Paris, France, in conjunction with Ekodev for the
+protection and preservation of bees in France.
+
+16
+
+Corporate Responsibility & Sustainability Review 2013
+
+2.1 Group Environmental Policy
+Chairman and CEO Paul Hermelin signed our Group Environment Policy in 2011 which sets out the expectations for all countries.
+This policy statement (see Appendix C) reinforces our commitment to environmental compliance and the continual improvement of
+environmental performance specifically in the areas of Energy, Business Travel and Waste.
+
+2.2 Management approach
+ISO 14001 certified Environmental Management Systems are in place in the UK, the Netherlands, France, Belgium, Portugal, Brazil
+and Spain. The implementation of the Group Environment Policy will facilitate activities within the remaining countries to address
+ISO14001 requirements.
+Across the Group, our key material environmental impacts are set out in the table below:
+Key environmental
+aspects
+
+Aspects and impacts applicable to the Capgemini business
+
+Energy
+
+Our main environmental impact comes from the consumption of electricity, gas and oil to light, heat
+and power to our offices and data centers.
+Data processing centers are particularly energy intensive due to the high level of IT equipment to
+be housed, powered and cooled. As an example, adound 78% of the electricity we use in our UK
+operations is consumed by the data processing centers alone.
+
+Travel
+
+The business journeys we undertake, including journeys by road, rail, air and stays in hotels all
+consume fossil fuels, contributing greenhouse gas (GHG) emissions and impacting climate change.
+This is a major challenge for our industry, whose business relies on the mobility of their employees in
+order to utilize their skills and experience in serving our customers worldwide.
+We continue to take advantage of the opportunities created by technology such as videoconferencing, supported by virtual hosting services. We also introduced or improved some
+collaborative tools to facilitate remote working and allow a greater flexibility. In many countries we
+monitor the emissions from our car fleets, especially by setting emission limits or by promoting the
+use of hybrid vehicles.
+
+Waste management
+
+Much of the waste that the Group produces is generated from office consumables and packaging.
+Capgemini aims to minimize the amount of waste that is sent to landfill by providing recycling facilities
+in key offices.
+We also try to engage our people and work with key suppliers to reduce the overall amount of waste
+in the business, generated by daily operations. We ensure that all electronic equipment is recylced in
+accordance with local laws.
+
+17
+
+2.3
+Environmental Performance
+In order to drive improvements at Group level we are acutely
+aware of the need for a robust baseline against which to
+assess and set suitable targets and monitor progress. Whilst
+not fully there yet, we continue to roll out a global carbon
+accounting system to standardize data collection, monitoring
+and management. Starting with the top five countries by
+headcount, the system has been gradually expanding since
+2012 and will contain raw data for 12 of our Group countries by
+the end of 2013.
+
+Whilst we have not yet set global carbon reduction targets, this
+improved carbon accounting is already helping identify areas
+for potential savings (both in terms of emissions and cost)
+relating to energy consumption. In India, we are deploying
+a Capgemini developed Smart Metering solution which is
+enabling significant reductions in electricity consumption –
+the initial pilot enabled double-digit savings with two months.
+Once fully deployed, it is expected that the system will yield
+multi-million euro cost savings.
+Whilst global targets are still in development, a number of
+operations have set local country level targets.
+
+UK Case Study – UK Targets and Performance
+
+We continue to monitor the targets set for Capgemini UK against a 2008 baseline:
+
+To reduce our non-data center CO2 footprint by 20% by
+2014 (35% by 2020)
+
+Achieved in 2012 – Progress has continued in the
+first half of 2013 with headline carbon emissions
+(excluding the data centers) now down 27%
+compared against the 2008 baseline
+
+To improve energy efficiency in our data centers by more
+than 20% by 2014
+
+Achieved in 2011 – We continue to improve and are
+currently showing a 27% improvement in the average
+PUE1 of our data centers when compared to 2008
+
+To reduce our CO2 related to business travel by more
+than 30% by 2014
+
+By the end of H1 2013, emissions from business
+travel in the UK are down nearly 20% compared to
+2008
+
+To send zero office waste to landfill by 2014
+
+92% of office waste was diverted from landfill in the
+first half of 2013 as compared to 53% in the baseline
+year 2008
+
+To implement an ISO 14001 certified Environmental
+Management System (EMS) – achieved in June 2009
+
+Achieved in June 2009 and recertified in 2013
+
+1.	Power Usage Effectiveness (PUE) compares the energy used for non-IT equipment in a data center (for example: lighting, cooling) with the amount of energy used to power the IT equipment. Put simply, the lower the PUE, the
+more efficient a data center is. The theoretical minimum (i.e. most efficient) ratio possible is 1.0. The industry average in the UK is around 2.0.
+
+18
+
+Corporate Responsibility & Sustainability Review 2013
+
+2.4
+Key Performance Indicators
+Given that our global carbon accounting system is currently
+being rolled out, the maturity of environmental reporting varies
+across the Group. At the time of data collation for the 2012
+Annual Report, Capgemini UK data was the only country data
+available directly from the Carbon Accounting system. All other
+countries performed specific data gathering exercises to collate
+the data presented in this report.
+In presenting the following tables of environmental data it has
+been necessary to make a number of assumptions. Where
+only partial data is available, extrapolation has been employed
+to estimate the total annual impacts. This extrapolation has in
+many cases included the figures for November and December
+2012 as full data-sets were unavailable at the time of data
+preparation. In rare cases, up to 6 months data had to be
+extrapolated (for example: air travel by Capgemini Netherlands).
+The extrapolations employed were:
+•	estimating 2012 data based upon available 2011 data
+(according to documented methodologies related to
+differing circumstances and covering all aspects of energy,
+travel and waste data)
+•	estimating emissions data based on available cost data
+(employing assumptions such as the cost per kwh for
+electricity and gas; and cost per liter for petrol/diesel or per
+km of travel)
+
+The carbon footprint tables shown include emissions
+associated with use of gas, diesel, electricity (in data centers
+and offices), urban heating, steam, cooling and business travel.
+As water usage is not considered a significant environmental
+aspect for Capgemini, it has been excluded. However, water
+is included as part of the carbon accounting system roll out,
+which will allow us to identify consumption areas where there
+may be a more significant impact from our use of water (for
+example: in some cooling systems).
+Following an external audit of our 2012 data presented in
+our Annual Report, it was decided not to detail Capgemini’s
+consumption of paper, the generation of waste and the amount
+recycled within this report as the current data gathering
+practices differ significantly between countries. A smaller
+number of countries (for example: the UK and the Netherlands)
+have more robust data sets enabling the success of waste
+reduction and recycling initiatives to be measured. For
+example, the UK generated a total of 257 tons of general waste
+(excluding hazardous waste) across its facilities in 2012 with a
+recycling rate of 69 per cent.
+Although waste produced is reported locally in certain
+countries, as the waste volume available for most countries is
+based on estimated values, it was decided that the resulting
+emissions calculations were unlikely to be representative and
+have therefore been excluded from this report.
+
+Where no data was available, as was often the case for water
+consumption and some modes of transport, the data has been
+deliberately excluded. Full details of the assumptions employed
+can be made available upon request.
+Capgemini’s largest operating units in France, India, the
+UK, the Netherlands and North America (including Canada
+and the United States of America) account for 70 per cent
+of Capgemini’s global headcount. The combined carbon
+emissions of these operations amounts to 280,337 tons of
+CO2e emitted, calculated in most cases using the conversion
+factors and methodology recommended by the UK
+Government’s Department of Environment, Farming and Rural
+Affairs (DEFRA). Where country specific conversion factors
+have been identified as more accurate, these have been used
+(for example: ADEME factors for certain French data including
+emissions from urban heating).
+
+19
+
+The table opposite shows the energy consumption and carbon
+emissions associated with Capgemini and Sogeti operations
+in France, India, The Netherlands, UK and North America
+(United States of America and Canada). Where available
+the data for Capgemini and Sogeti is shown separately.
+For India and France the data for Capgemini and Sogeti is
+showed combined.
+Environment data has also been collected from Capgemini’s
+operations in Australia, Austria, Belgium, Brazil, Chile, China
+(including Hong Kong), Czech Republic, Denmark, Finland,
+Germany, Guatemala, Hungary, Italy, Mexico, Norway,
+Philippines, Poland, Portugal, Romania, Slovakia, Spain,
+Sweden, and Vietnam as well as Sogeti operations in Belgium,
+Finland, Luxemburg, Spain, and Sweden.
+The combined emissions of these operations, equating to 27
+per cent of the Group by headcount, amounted to an estimated
+57,993 tons of CO2e in 2012.
+Combined with the largest operations, this produces an overall
+estimated emissions figure for Capgemini Group of 338,330
+tons of CO2e including hotel nights (and 317,090 tons of CO2e
+excluding hotel nights). This figure provides an indicative
+coverage of 97 per cent of the Group by headcount (see
+Appendix C).
+
+20
+
+Corporate Responsibility & Sustainability Review 2013
+
+Currently, the data for the United Kingdom represents the
+most complete data set: robust carbon accounting has been
+in place since 2009 with annual external verification being
+conducted since 2010. The 2012 data set, has been audited as
+part of Capgemini UK’s Eco-Management and Audit Scheme
+(EMAS) report using the principles of ISO 14064. Capgemini
+Netherlands also report on an annual basis via the Capgemini
+Netherlands Annual Management Report, where data is also
+verified externally.
+Capgemini France and North America prepare carbon
+emissions estimates on an annual basis. Currently a good
+degree of extrapolation has been required, mainly for North
+America where much of the data had to be extrapolated
+based upon 2010 and 2011 carbon footprint calculations.
+For Capgemini India, the above data represents the first full
+calculation of its carbon footprint.
+In the last ten years, no sanctions or fines regarding non
+compliance with environmental legislation has been
+brought to our attention.
+
+	
+
+Energy 	
+
+MwH
+
+Travel
+Emissions in Tons CO2e
+
+Waste in tons
+
+Countries
+
+Energy
+(All sources)
+
+Gas
+
+Diesel
+
+Data
+Centre
+Electricity
+
+Office
+Electricity
+
+Electricity
+Urban
+Heating
+
+Business
+Travel
+
+Business
+Travel (Hotel
+nights only)
+
+Totoal
+Emissions inc.
+Hotels (Tons
+CO2e)
+
+Waste (NonHazardous)
+
+India - Capgemini & Sogeti
+
+88,845
+
+NA
+
+7,174
+
+NA
+
+74,010
+
+NA
+
+30,677
+
+6,782
+
+111,860
+
+507
+
+France - Capgemini &
+Sogetit
+
+67,438
+
+31
+
+48
+
+3,102
+
+2,539
+
+1878
+
+21,454
+
+4,697
+
+27,361
+
+0
+
+UK - Capgemini
+
+66,752
+
+448
+
+63
+
+26,616
+
+6,731
+
+NA
+
+14,722
+
+3,376
+
+48,580
+
+271
+
+UK - Sogeti
+
+115
+
+0
+
+0
+
+NA
+
+60
+
+NA
+
+298
+
+46
+
+358
+
+0
+
+Netherlands - Capgemini
+
+27,592
+
+563
+
+16
+
+6,518
+
+3,436
+
+0
+
+21,157
+
+581
+
+31,690
+
+245
+
+Netherlands - Sogeti
+
+1,167
+
+0
+
+0
+
+44
+
+444
+
+NA
+
+115
+
+0
+
+604
+
+0
+
+North America - Capgemini
+& Sogeti
+
+85,224
+
+387
+
+44
+
+28,477
+
+3,309
+
+0
+
+27,665
+
+5,758
+
+59,882
+
+452
+
+Total - Largest Operations
+
+337,132
+
+1,429
+
+7,345
+
+64,757
+
+90,529
+
+187
+
+116, 089
+
+21,240
+
+280,337
+
+1,474
+
+Excluding hotel nights 259,097
+NOTES
+1.		North America: The majority of data for North America (including USA and Canada) have been extrapolated based upon available 2011 data
+2.	Energy: Given the nature of our business, many of Capgemini’s offices have large server rooms. These are not considered to be data centers but their presence should be taken into
+consideration when comparing the energy usage of our offices against those in other sectors
+3.	Travel: Emission factors as produced by the Carbon Neutral Company have been used to calculate the emissions associated with hotel nights in all countries. It was identified during the external
+Grenelle II audit, that these factors, when applied outside the UK, may be too high with the result that the figures presented above are likely to be higher than reality. As more appropriate
+emission factors could not be obtained, the figures have been reported as calculated but with total emissions from hotel stays also shown separately. It is acknowledged that the figures
+represent a likely worse case and the methodology employed will be reviewed for future reports
+4.	 Travel: In some countries, for example France and North America, the number of nights is estimated
+5.	 Travel: In Capgemini Netherlands emissions data associated with travel includes personal car use as well as business mileage as it could not be separated
+6.	 Travel: In Capgemini India and UK, emissions associated with taxi journeys have been included
+7.	Sogeti: The data for India and France contain the Sogeti operations within those countries. For UK and the Netherlands the values were available separately and reported as such. No Sogeti
+data were available in North America
+8.	 Table key: NA (not applicable) denotes areas where data is not available because the source is not used. For example: there is no urban heating in the UK
+9.	Table key: 0 denotes areas where data was not available. The emissions reported for Capgemini India have risen significantly compared to those reported in the 2011 Annual Report. This is due
+primarily to greater data coverage for the Indian operations. In 2011, the Indian energy data were limited to Capgemini’s operations in Mumbai, Bangalore and Kolkata. The 2012 figures include
+information from 33 separate facilities in nine Indian cities. The 2012 figures for India also include travel data where limited travel data was previously available. Overall emissions reported for
+Capgemini France have also risen since those reported in 2011. This is due to the a more comprehensive data gathering exercise having been undertaken in 2012 leading to more complete
+view of overall emissions.
+
+21
+
+3. Community
+Engagement
+Capgemini remains as firmly committed to the
+social aspects of sustainability as we are to
+the environmental. As such, we recognize our
+responsibility to the communities in which we
+operate. Our focus on community projects is very
+much aligned to our corporate purpose and values
+and we recognize our responsibility to contribute to
+the talent and skills of the wider population.
+
+22
+
+Our fundamental community
+philosophy is to support skills for the
+future, education and inclusion. We
+acknowledge that diversity is a source
+of richness and competitive advantage
+so our aim is to support diversity and
+nurture future talent in all its forms.
+We operate in communities across the
+world both from our network of offices
+and from our client and Rightshore®
+sites. Our longevity depends in part on
+our support of these communities and
+the interest of our employees at local,
+national and international levels.
+
+regular internal campaigns. We also
+measure progress through our annual
+Group Employee Survey. Work on our
+global community policy continued in
+2013 with a view to rolling out in 2014.
+
+Our intention is to provide as many
+opportunities as we can for our
+employees and to engage in activities
+for which they have passion and
+commitment. Additionally, we align
+and embed our community program
+with our business activities and
+client work to ensure sustainability.
+We share this with our people, our
+community partners and our clients
+through communication vehicles such
+as our externally published Corporate
+Responsibility & Sustainability Review,
+our internet site and our intranet and
+
+Capgemini actively encourages its
+employees at all levels to get involved
+in the communities where they live and
+work. We channel our time, energy and
+creativity into having a positive impact
+through partnerships with various
+foundations, volunteering, pro bono
+work, fundraising and also by awarding
+funding, where appropriate. Joining
+forces to help others strengthens team
+spirit, improves communication skills
+and procures a better understanding of
+the communities around us.
+
+Corporate Responsibility & Sustainability Review 2013
+
+As a major global player, Capgemini
+works with national and international
+organizations on community projects
+ensuring that charitable organizations
+are legitimate and their goals are
+compatible with the Group’s values,
+our Code of Business Ethics and our
+Community policy.
+
+3.1 Our Global Initiatives
+
+Naandi
+We maintain a strong partnership with the Naandi Foundation
+and its Nanhi Kali Initiative, focusing on supporting young girls
+through their school education. By the end of 2013 we will have
+supported over 63,000 school years of education. We remain
+Nanndi’s largest corporate sponsor of Nanhi Kali internationally
+and the second largest for the foundation overall. Nanhi Kali
+has been officially adopted in the Community Engagement
+approach in 13 countries across Capgemini with Italy being the
+latest to launch a Naandi initiative.
+In addition to directly supporting students, Capgemini UK has
+opened 10 Hamari school libraries in schools attended by
+Nanhi Kali girls, providing them with access to a wide choice of
+books, newspapers and educational documents. The libraries
+are managed by a full-time librarian. Summer 2012 also saw
+the launch of a new initiative by Capgemini UK; the Last Lap
+program supports smaller groups of girls in their final two years
+of school and with aspirations that the students will go onto
+further education. Support is given to see them through their
+final school leaving exams by providing extra exam coaching,
+skills building sessions, and an opportunity to get some work
+experience with our Capgemini India business.
+
+Capgemini UK’s ASPIRE business unit, continued the adoption
+of a school in Mumbai thanks to fund-raising efforts which
+to date have generated a little over 23,500 from the sale of
+samosas at the ASPIRE offices. This funding enables Naandi
+to provide basic academic knowledge to children from the
+severely underprivileged area in which the school is located
+and to encourage them to continue their education.
+ apgemini Norway supported a client in opening a further
+C
+10 Hamari school libraries in Mumbai and continues to back
+project Nanhi Kali as its global Community Engagement
+initiative. Capgemini India opened up the Nanhi Kali
+sponsorship scheme to all 44,000 plus employees across India
+and is also supporting Capgemini UK in delivering the Last Lap
+program.
+
+France - 35
+Italy - 24
+Denmark - 208
+Netherlands - 901
+Germany - 411
+
+Norway - 1,799
+
+North America - 102
+
+Holding - 141
+Australia - 280
+Finland - 300
+
+India - 1,499
+
+MicroWorld
+Sogeti has worked with PlaNet Finance since 1999 providing
+support to the organization, helping it grow and focus on
+its core mission by providing technological expertise and IT
+support. MicroWorld is a subsidiary of PlaNet Finance and is
+the first European online platform where employees can learn
+about, browse and select micro entrepreneurs to support
+by making a small loan. By choosing a micro entrepreneur
+an employee can invite other colleagues to support the
+entrepreneur, as well. Throughout the year, the lender receives
+information on how the micro entrepreneur is doing, allowing
+lenders to become truly involved.
+In 2012 we launched the MicroWorld platform in France
+and Ireland, Netherlands, Sweden, Norway, Denmark and
+Germany. Since the beginning of our involvement, a total of
+1,165 projects of micro entrepreneurs have been co-funded
+with 70,000 euro leant by 1,106 members.
+
+UK - 1,983
+
+Sweden - 1,684
+
+BREAKDOWN OF REVENUE BY SECTOR
+Energy, Utilities
+& Chemicals - 11.3%
+
+Financial Services - 19.8%
+
+Consumer Products,
+Retail, Distribution
+& Transportation - 14.1%
+
+Other - 4.7%
+
+Manufacturing - 17.8%
+
+Public
+Sector - 23.2%
+
+Telecom, Media
+& Entertainment - 9.1%
+
+BREAKDOWN OF REVENUE BY BUSINESS
+Local Professional
+Services - 14.9%
+Consulting
+
+23
+
+3.2 Some of our National Initiatives
+Capgemini Poland’s grant program ‘We
+invest in good ideas’ was designed in
+response to numerous grassroots initiatives
+of employees being aware of the acute social
+problems in their local surroundings. Employees engaged
+in volunteering activities aimed at solving these problems.
+Capgemini Poland supported with funding, know-how and
+organizational support to the employees who came forward
+with the best ideas. Ten projects were realized in 2012, another
+15 were started in 2013, involving 180 volunteers of which
+58 were Capgemini employees. Beneficiaries of the program
+included a nursery school, an orphanage, an elderly citizen’s
+club and an animal shelter. With this program the BPO Center
+in Poland received the European Outsourcing Award in the
+Corporate Social Responsibility category.
+
+Through the EduKare initiative, Capgemini India financially
+assists its housekeeping and physical security staff in meeting
+educational expenses of their children. Started in 2010 at
+the Chennai location, the initiative was also taken up in other
+locations of Hyderabad and Pune in 2012. The students in
+this program are from primary level up to students pursuing
+their graduation. They are meritorious but have a financially
+weak background. The funds provided help with fees and the
+purchase of stationery and school uniforms and in some cases
+lodging and boarding expenses. In 2012 with a total of 212,870
+students benefitted from them.
+Capgemini France is the main partner of TADEO, a
+communication platform which allows deaf and hearing
+impaired people to receive and make phone calls, participate
+in meetings and be trained in all autonomy. Tadeo provides
+a wide range of real-time remote services such as: Instant
+Speech-to-Text Transcription (ISTT), Visio-interpretation in
+French Sign Language, Cued Speech Transcription (CST), Lip
+reading associated with Transcription (RepeaWriting – RW).
+Capgemini Belgium is one of the companies sponsoring the
+Belgian Punch Powertrain Solar Team. Seventeen students
+form the basis of this team. They have 15 months to design
+and construct a solar car, in order to participate in the 2013
+World Solar Challenge, the world championship for solar cars.
+The team members come from the electro-mechanics and
+electronics streams of Group T – at the International University
+of Leuven.
+
+24
+
+Corporate Responsibility & Sustainability Review 2013
+
+Capgemini North America conducted their first regional day of
+service, branded “Capgemini Cares”, on September 21, 2012.
+A thousand employee volunteers united and served side by
+side with other colleagues in their local communities at 21 sites
+across the US and Canada. Each community service project
+was identified by a local team and included everything from
+supporting the local food bank, or cleaning up a local park, to
+assisting at a local homeless shelter. In one day we completed
+over 3,000 volunteer hours in communities where we work
+and live.
+
+Capgemini Netherlands and Sport & Business rolled out
+a Company Sports Program in 2013. Challenges were
+organized around running, cycling, tennis and squash with
+the enthusiasm and participation of employees exceeding all
+expectations. In June 2013 Capgemini Young Professionals
+– with a realistic plan that meets the current needs within
+the company and provides interconnection – won the Young
+Professional Vitality Battle 2013, a battle between companies,
+organized by Sport & Business.
+Initiated in 2008, Project Theater has become a major
+Capgemini Poland event involving many employees each
+year. In 2012, after 3 months of non-stop rehearsals, 32
+Outsourcing professionals transformed into actors, producers
+and stage designers, put on a one hour show of singing,
+dancing and laughing for a 1,000 strong audience. With
+this first ever musical in the history of Project Theatres, Little
+Red Riding Cap, Capgemini Poland collected 3,200 euro for
+partner organization Siemacha. Siemacha runs institutions
+for children’s sociotherapy, emergency care, education
+and psychotherapy.
+
+Capgemini Italy has teamed with two of our IT partners, to
+create the digital school ‘School 2.0’ at the Ettore Majorana
+technical institute in Bari. Capgemini Italy provided the platform
+for this innovative model in the educational sector where
+students can access, through a notebook or PC, school
+material on a shared network and attend online, subject
+specific, discussions and forums with teachers and fellow
+students. The project is being expanded to thirteen other
+schools and institutions throughout Italy creating a virtual and
+national academic network where teachers have the ability
+to upload their lessons real time via touch screen electronic
+‘blackboards’. Students then have the opportunity to download
+these same lessons and notes, which is allowing greater
+inclusivity for students who may not be able to attend regular
+school lessons; increasing collaboration and knowledge
+sharing; reducing the need for physical books and raw
+materials; allowing the inclusion of parents; connecting them
+directly with teaching staff; and leveraging the expertise of our
+own employees.
+
+3.3 Community Investment and Donations
+The table below summarizes charitable donations made by Capgemini around the world in 2012.
+Country
+
+Donations
+
+Programs
+
+India
+
+42,472€
+
+We are society
+
+France
+
+292,480€
+
+125k RSE (50 k€ Cercle Passport, 20k€ IMS Entreprendre pour la cité Etude stereotypes, 15k€ Ims Entreprendre/Défis
+Mecenova, 15k€ Partenariat Fondation Yann Arthus Bertrandi) 167k€ mission handicap
+
+NL
+
+194,300€
+
+64k€ CERVO/promotional Articles, 12k€ EMC forum, 12k€ Several Sports, 10k€ Kessler foundation, 10k€ Leerstoel, 10k€ NvZD
+
+UK
+
+127,217€
+
+North America
+
+76,866€
+
+Largest Operations Sub Total
+
+733,335€
+
+Other Europe Sub Total
+
+548,035€
+
+Asia and Australia Sub Total
+
+9,999€
+
+Latin America Sub Total
+
+5,010€
+
+Sogeti
+
+85,234€
+
+GRAND TOTAL
+
+1,381,613€
+
+United Way, Naandi Foundation, Ninos de lagos
+Charles Tilman Foundation, Feed my starving Children, Regina, Dominican High School, Foundation for the Carolinas, CWFW,
+American India Foundation, N Power Charlotte
+
+Landsindsamlingen 2012, Naandi, Red Barnet
+Capgemini Italy - 95k€ Planet Finance, 15k€ SANT ANDREA TERRE VICINE E LONTANE
+Naandi
+Capgemini Spain - Fundacíon Adecco (145k€)
+FCSD (Fundacion Catalana Sindrome de Down) (50k€), Fundacion Roig Alfonso-Mercadona (20k€)
+FUNDAL (Fundacion Para el Deporte de Alboonbendas) (20k€)
+CADIN (Centro de Apoio ao Desenvolvimento Infantil)
+
+25k€ Foundation Make A Wish, 30k€ Foundation St. Opkikker, 11k€ Foundation Kinderen Kankervri.
+
+Notes
+•	 France includes the donations for Sogeti France
+•	 Other Europe includes Denmark, Italy, Norway, Spain, Sweden, Portugal, Germany, Finland, Poland, Czech Republic
+•	 Asia and Australia includes Asia Pacific and Australia
+•	 Latin America includes Chile and Guatemala
+•	 Sogeti include Sogeti Netherlands and Sogeti Germany
+
+25
+
+4. People Culture
+People Culture is about being a responsible
+and inclusive employer, whom people
+choose to work for and which allows them to
+deliver their best. Our focus is on the
+professional development and well-being of
+all our employees by ensuring that both our
+business practices and our facilities
+empower our delivery excellence. We have a
+culture whereby we respect and value the
+diversity of all our people.
+
+It is the quality of
+our people, and their
+capacity to deliver fitting
+solutions, with you and
+for you that drive real
+business results.
+
+26
+
+Corporate Responsibility & Sustainability Review 2013
+
+4.1 People demographics
+In 2013 Capgemini had more than 130,000 employees.
+Headcount growth was largely generated in India. The size
+of this growth has been a significant influence on the Group’s
+transformation. The workforce has more than doubled in the
+last decade with the majority of the growth in our Rightshore®
+operations.
+These locations have included the growth in Central Europe,
+notably due to the development of the Business Process
+Outsourcing business in Poland, and the emergence of Latin
+America following the acquisition of CPM Braxis in Brazil.
+Benelux was the main region to see its headcount fall for the
+third year in a row, due in particular to the difficult economic
+situation in the Netherlands.
+
+4.2 Professional
+Development
+
+The Group’s on-line learning management system, MyLearning,
+open to all employees, is used for informal and just-in-time
+learning but also to register for more formal, structured learning
+events. The catalog of courses includes a range of training
+options to suit different learning styles, including e-learning,
+books, on-line mentoring, test-preps, on-line examinations,
+language courses, live virtual training sessions and meetings,
+and classroom teaching.
+Established in 1987, Capgemini University offers innovative
+learning solutions to our employees worldwide through our
+international Center of Excellence near Paris (Les Fontaines) as
+well as through virtual and local classroom learning programs
+and a wealth of other e-learning programs. Capgemini
+University plays a key role in developing team skills and
+capabilities in line with the company’s strategy, priorities and
+client expectations. It creates and delivers learning journeys
+for sustainable results at the individual, community and group
+level. In recognition of this, in 2013, Capgemini University was
+awarded a series of prestigious Brandon Hall ‘Excellence in
+Learning’ awards:
+•	
+“Best Use of Virtual Worlds for Learning”;
+
+The value of a consulting and IT services company lies in the
+quality of its intellectual capital. In an industry characterized by
+rapid technological change and changing patterns of work, it
+is essential for employees to keep their knowledge and skills
+up-to-date and in line with client and market needs. Likewise,
+new employees joining the Group are keen to leverage and
+build on their knowledge and to gain rewarding professional
+experience. As part of our commitment to the continuing
+development of all employees an annual performance review
+process is in place.
+Employees’ professional development is supported by a
+Career and Competency Framework which forms the basis for
+performance appraisals and personal career advancement.
+This has been designed to help employees to develop in
+a wide variety of different roles, with the clarity required to
+support clear career progression, and the flexibility to let them
+take charge of their own career.
+
+•	
+“Best in Compliance Training”; and
+•	
+“Best Use of Blended Learning”.
+
+Capgemini University was accredited by the European
+Foundation for Management Development (EFMD) in 2008
+and in 2012 the University delivered more than 2 million
+learning hours to over 100,000 employees across the Group.
+In August 2013, Capgemini University introduced the My
+Essentials curriculum which offers new hires information on
+Capgemini’s history, values, ways of working, functional areas
+and organizational structure..
+Overall, around 110,000 employees were trained in 2012, up
+8% compared to 2011 with the total number of training hours
+being 4.25 million.
+
+27
+
+4.3 Diversity & equal opportunity
+With more than 130,000 employees in over 44 countries
+representing 120 nationalities, Capgemini is proud of its
+wide cultural diversity. Diversity has many facets including
+gender, disability, ethnicity, age and lifestyle. At Capgemini,
+our definition of diversity also includes dimensions such as
+experience, personality, communication and working styles all part of diversity of thought. Our differences are a source of
+innovation and inspiration. Inclusion means having a working
+culture where our diversity is valued enabling us to generate
+new ideas, anticipate market trends, and be thought leaders in
+our chosen markets.
+We view diversity and inclusion as both a strategic advantage
+and an ongoing opportunity. In 2011 we produced our Global
+charter for Diversity and Inclusion to formalize our active
+promotion of the principles of diversity in our employment
+practices. Our aim is to encourage individuals from diverse
+backgrounds who are innovative, enthusiastic, culturally aware
+and committed to delivering a truly collaborative experience to
+our clients.
+Women@Capgemini was launched in 2012 as a global
+business program to set the overarching guidelines around
+gender diversity across the Group. It is based on the principle
+of “equal opportunities, equal chances” and articulated around
+Attracting / Recruiting, Promotion / Development, Retention,
+and Corporate Awareness. Various activities were launched
+in 2013 including engagement with both internal and external
+recruiters and the initiation of a global mentoring program to
+allow high potential employees of both genders to be mentored
+by experienced Vice Presidents of the opposite gender.
+For Capgemini India breaking barriers for hearing impaired
+people has been firmly on the agenda in the past year, leading
+to the hiring and successful integration of 10 employees with
+a hearing impairment. A number of factors were instrumental
+in achieving successful integration such as the raising of
+awareness, sensitization and team integration workshops,
+defining suitable roles, organizing a ‘walk-in’ for people with
+disabilities, the review of online and classroom training and a
+review of transport arrangements. Capgemini France launched
+the project “Nos Talents au Féminin” in 2013 to celebrate
+women throughout the month of March promoting job diversity
+and career women engineers. Employees enjoyed and joined
+the many initiatives: women candidates increased during
+this period; 7,000 people visited the web site for more than 5
+minutes; 5,000 people were evaluated on their stereotypes
+through a questionnaire; the stereotypes study has been
+downloaded 900 times, the profiles of 20 women were
+communicated. This project will be continued in 2014.
+
+28
+
+Corporate Responsibility & Sustainability Review 2013
+
+In recent years many of the Capgemini countries have initiated
+women’s networks. FeN, Capgemini Netherlands’ Female
+Network, started in 2012 for a specific group of female
+professionals, and opened up in 2013 to a wider audience of
+women. Based on a three year ambition, they organize their
+events and initiatives around the topics of networking, diversity
+and career development.
+
+Oda Network, the largest network for women in the IT
+industry in Norway, gave away awards to highlight visible role
+models and businesses in the IT industry in June 2013. The
+award called “Organization 2013” was given to the bestin-test company Sogeti Norway for promoting women in
+business through its activities and attitudes. Sogeti Norway
+has 44% women on the Board and half the members of the
+management team are women.
+In North America and the UK we also have employee resource
+groups / business networks for other diversity dimensions
+such as OUTfront for Lesbian, Gay, Bisexual, Transgender
+and Allies; and the Millennial Innovation Council for
+cross-generational collaboration.
+
+Capgemini India have been recognized
+by the 15th Shell Helen Keller Awards,
+run by the National Centre for Promotion
+of Employment for Disabled People, as a
+role model company where, through our
+policies and practices we have demonstrated our belief
+in equal rights and the gainful employment of persons
+with disabilities.
+
+4.4 Work organization, health & well-being
+Even though the Group’s businesses do not involve highrisk activities, health and well-being of our employees are
+nevertheless taken very seriously. More important is the fact
+that playing and winning in the Champions League of our
+industry requires a vital workforce.
+
+wellbeing at work. Therefore Capgemini takes over the costs
+for a full health check-up in high standard exclusively selected
+doctors’ offices. The health check up initiative is spreading over
+Capgemini’s business units with Sogeti joining in 2013. Within
+the last 5 years, over 600 employees have attended the healthcheck up initiative.
+
+At a minimum across the Group, we abide by all local Health
+and Safety legal requirements. Our Health and Safety policies
+are focused on information, instruction and training covering
+topics of all work related health issues, emergency procedures
+and guidelines on Capgemini employees working on client
+sites. Our social guidelines and local vitality programs
+contribute to the well-being of our employees: work-life
+balance, stress management, improvement of employeemanager relations, and better working conditions. Additionally,
+Group initiatives such as Smarter Travel Week raise awareness
+of health, safety, security and environmental considerations for
+business, commuting and domestic travel.
+Within Capgemini France, Health and Safety Committees
+(HSC) are set by locations or business units. Their main
+objective is to analyze situations that might have an impact
+on the work force: moving projects, working at clients’
+sites, safety regarding offices or working conditions stress.
+Actions and decisions are reviewed and taken in quarterly
+meetings and whenever needed, extraordinary meetings
+might be called. HSC may decide to drive surveys or studies if
+deemed necessary, to help the management improve working
+conditions and security matters.
+
+Capgemini Germany offers a complete health-check for
+employees aged 35 years or older. Capgemini wants to
+improve awareness, about health care themes and peoples
+
+Based on several events in the social context regarding
+women safety, Capgemini India felt the need to educate female
+employees some basic skills of self defense. A 60 minute
+workshop on self defense was organized during the celebration
+of International Women's Week. This was followed up by the
+roll out of a 90 minute workshop on self defense for all female
+employees PAN India. This workshop is still running and
+feedback from employees has been very positive.
+Early in 2013 Capgemini Netherlands, together with their
+partner Sport & Business, performed a sport and activity
+scan under all employees. The result was rather gloomy. 85%
+of the employees did not meet the national norm of being
+moderately active for 30 minutes five days a week. A company
+sports program was designed and rolled out, with challenges
+around running, cycling, tennis and squash. The participation
+grade for all sports exceeded expectations. In June a Young
+Professional team won the National Vitality Battle. According
+to the judges Capgemini won the Vitality Battle, because
+"their realistic plan connects with the current needs within
+the company and it aims to interconnect." To increase sport
+participation the Capgemini team came up with the plan to
+launch a social sport platform, where each employee will be
+able to track his or her own performance and colleagues can
+find each other to sport together and motivate one another to
+stay focused.
+In Capgemini North America the workforce is actively involved
+in the development of a positive health and safety culture
+through ongoing training as part of the Employee Assistance
+Program including training on wellness, stress management,
+and managing conflict.
+
+29
+
+4.5 Social Dialogue/Employee engagement
+Capgemini believes effective communication is a precondition
+for an open and honest culture, and for the involvement and
+engagement of employees. It is also essential for effective
+knowledge dissemination, sharing success and creating
+a sense of belonging within teams, at both the Group and
+local level.
+
+The emphasis on transparent dialog with employee
+representatives is particularly important in difficult economical
+times. In 2012, Capgemini conducted two restructuring
+plans, one in Spain and one in the Netherlands. Both plans
+were discussed in-depth and negotiated with our employee’s
+representatives.
+
+At the heart of Capgemini’s communications philosophy is
+a commitment to two-way dialog. While informal dialog is
+always encouraged, understanding the engagement and
+satisfaction levels of employees is also formally sought through
+the annual Group Employee Survey process. The company
+furthermore upholds the laws of representation and recognizes
+the importance of constructive dialog between employees and
+management in shaping key decisions affecting the running
+of the Group. The International Works Council (IWC) enables
+employee representatives to bring employee interests directly
+to the attention of Group management and, in return, to be
+directly informed by management of plans for the Company
+and the impact of such plans on employees. In countries
+where the social dialog is not governed by local regulations, the
+management of labor relations is done in a proactive manner
+by engaging with employees to understand and alleviate their
+issues (the Group Employee Survey being a key tool in this
+matter).
+
+At Capgemini, we are committed to deliver first-class results for
+our clients. We can only achieve this through the mobilization of
+our cross-unit capabilities, and the strengths and expertise of
+our people. Following the success of our La Niaque campaign
+in 2012-13, we launched the People & Results campaign in
+September 2013 to support our Champions League ambition,
+to play with only the best of our industry. This new internal
+multimedia campaign focuses on four key drivers - Growth,
+Innovation, Talent and Competitiveness. It recognizes the team
+members behind our results and the value our employees bring
+to our clients.
+
+30
+
+Corporate Responsibility & Sustainability Review 2013
+
+4.6 Leadership
+While the Group CEO sets the strategic vision of our company,
+it is our leaders around the Group who deliver the vision and,
+at the same time, create the culture for attracting and retaining
+talent. Our leaders are of vital importance to the success of
+our Group at all levels: winning opportunities, delivering our
+commitments to clients, inspiring colleagues and living the
+Collaborative Business Experience.
+In 2012 Capgemini was recognized for the Expert Connect
+program at the Marketing Excellence Awards organized by
+the Chartered Institute for Marketing. Our approach with
+Expert Connect has been to build up a social community
+where the content and conversations are led by the experts
+themselves. Today, the platform features a more than 350
+experts from around the world, discussing topics that impact
+multiple sectors and most of our clients’ key challenges. Our
+experts have gained over 68,000 followers, with over 250,000
+conversations, 1,300 publications and 270 videos so far.
+Capgemini is dedicated to developing the insights, capabilities,
+and practical skills to elevate the level of leading and increase
+the overall impact of our senior leaders’ to the business. With
+an eye to that, and following the success of this program in
+North America last year, Capgemini’s University designed a
+unique and global Leadership Advantage Facilitated Virtual
+Learning Journey Program. These programs are made
+attractive with high flexibility and self-paced options to fit our
+busy leaders’ schedules; they have a high level of interactivity
+to ensure maximum engagement; they offer a load of group
+activities for sustaining interest; and also gives the opportunity
+for self-paced certifications. It is a blended learning journey of
+online sessions and face-to-face interactions.
+
+31
+
+5. Client Services
+We are dedicated to developing profitable and
+sustainable business by working together with
+our clients to deliver value through our skills and
+expertise.
+
+5.1 Enabling Client Transformation
+Clients are increasingly expecting their
+suppliers to help them address their
+own sustainability challenges such
+as decreasing their environmental
+impacts. As a provider of business
+transformation services, we believe that
+we are well positioned to help clients
+with these challenges, challenges
+which we expect to be amplified by
+increasing sustainability constraints and
+regulatory pressures around the world.
+As a service provider, we have an
+opportunity to help clients with their
+own carbon challenges in terms of
+the advice that we offer and solutions
+that we design and deliver. We also
+recognize that operational efficiency is
+a key factor in ensuring longevity for our
+clients and that this often goes hand in
+hand with reduced carbon emissions.
+Therefore, considering sustainability
+principles through our service offerings
+ensures clients can meet the rising
+demands of regulation, competition,
+rising operational costs and mounting
+scrutiny upon the consumption
+of resources.
+
+32
+
+Corporate Responsibility & Sustainability Review 2013
+
+As an outsourcing provider, we ensure
+that when clients outsource their
+operations to us, we can proactively
+mitigate the risk of increasing emissions
+through our sustainable data centers
+and improving the energy efficiency of
+our clients’ IT estate.
+We are very proud of having “the most
+sustainable data center in the world,”
+as part of our portfolio of data centers.
+Based on state-of-the-art technology,
+Merlin was opened in Swindon, UK,
+in October 2010 to ensure client’s
+systems are run as efficiently as
+technologically possible with reduced
+emissions (based on their own in-house
+systems). It has won the Data Centre
+Dynamics Leaders’ Green Data Centre
+Award, and the Uptime Institute’s Green
+IT Award for data center design. It was
+also a runner up in The Guardian’s 2011
+Sustainable Business Awards, and a
+Finalist in the 2011 Business Green
+Leader’s awards.
+Throughout 2012 and 2013 we have
+continued to increase our portfolio
+of service offerings based on our
+evaluation of the current market drivers.
+
+5.2 Sustainability Reporting and Carbon Accounting
+To help companies effectively manage their sustainability
+agenda, Capgemini has developed a sustainability data
+management capability that is both unique and compelling.
+The solution is highly cost effective, as well as delivering the
+highest quality data management and reporting. Capgemini
+provides sustainability and business process expertise,
+underpinned by a comprehensive technology platform, in
+a single integrated service. Thanks to efficient and reliable
+outsourced data management combined with a CDP (Carbon
+Disclosure Project) accredited technology platform, our clients
+are able to move beyond cost reduction, and use sustainability
+to deliver business value and competitive advantage in
+the market.
+Smart Energy Management Solutions Capgemini's
+Intelligent Energy Management is a multi-component energy
+management offering that reduces carbon emissions while
+giving our customers greater choice, control and convenience.
+
+Intelligent Energy Management comes from our Smart
+Energy Services unit which provides the full spectrum of
+smart metering, smart grid, smart home solutions and smart
+analytics to utilities across the globe. Capgemini's commitment
+is strong with more than 7,000 professionals dedicated to the
+utility sector and benefit from an ecosystem of expertise from
+long standing global technology partners. We also offer a
+usage-based pricing model called Managed Business Services
+to make costs more controllable for the utility. The offering
+leverages a range of proven services and best practices
+successfully developed by Capgemini since 2004 working with
+more than 20 utilities spanning the globe; including in North
+America: Duke Energy, Hydro One, National Grid, Oncor, San
+Diego Gas & Electric, SunPower, Toronto Hydro and in Europe:
+Commission de Regulation de l'Energie, EDF, ERDF, GrDF,
+Enel, Enercity, Energiedienst, Rhein Ruhr Partner as well as
+Yunnan Grid in China.
+
+SUSTAINABLE DATA CENTER SERVICES
+Sustainability has been at the heart of our Merlin Data Center project from the selection of its location, through its design
+and construction, to the day-to-day operations of the site. Among Merlin’s key sustainability achievements are:-	A PUE (Power Usage
+Effectiveness) ratio
+of 1.10 which means
+power savings of
+91% compared to an
+‘industry average’ data
+center;
+
+-	A fresh air cooling
+system that delivers
+80% savings in run
+costs and produces
+up to 50% less carbon
+emissions than
+traditional data center
+cooling solutions; and
+
+-	The elimination
+of batteries in the
+Uninterruptible Power
+Supply (UPS) thanks
+to the application
+of innovative
+flywheel technology.
+
+All of this has been
+achieved while fulfilling
+some of the industry’s
+most rigorous security and
+resiliency demands, leading
+to Merlin winning the EU
+Code of Conduct for Data
+Center efficiency award at
+the 2013 awards.
+
+33
+
+5.3 Client Satisfaction Approach
+Our client relationship management process, known as
+OTACE (On Time and At or Above Client Expectations) is a
+key factor underpinning our strong client relationships. Clients
+are requested to specify their expectations from our services
+based on a set of indicators relating to the following:
+•	 type of service required;
+•	 nature of the working relationship; and
+•	 knowledge sharing.
+We document and set these indicators with clients to produce
+ratings that are reviewed regularly according to an agreed
+schedule.
+By allowing us to better assess the client satisfaction level
+with respect to their deliverables of their project(s), OTACE
+allows us to identify not only our strengths but also areas for
+improvement.
+Our client focus and the Collaborative Business Experience of
+Capgemini is the essence of the way we work with our clients.
+Client satisfaction and their appreciation of the value we bring
+in contributing to making their businesses successful and
+sustainable is essential to our business.
+
+HIGHLIGHT 2012 OTACE SCORES
+In 2012, nearly 4,000 client engagements were
+monitored using OTACE. The results showed that
+95% of projects were delivered on time (4% up on
+2011 results) and 92% met or exceeded customer
+expectations, with an average client satisfaction of
+4.3 out of 5.
+
+34
+
+Corporate Responsibility & Sustainability Review 2013
+
+Our Group operations serve many clients, distributed in
+several business sectors and countries. The Group’s largest
+client, a major British public body, contributes around 9%
+of Group revenues (9% in 2011 and 10% in 2010), while the
+second-largest client accounts for just 2%. The top 10 clients
+collectively account for 22% of Group revenues. The solvency
+of these major clients and the sheer diversity of the other
+smaller clients help limit credit risk. The economic environment
+could impact the business activities of the Group’s clients, as
+well as the amounts receivable from these clients. However,
+the Group does not consider that any of its clients, business
+sectors or geographic areas present a significant risk of noncollection that could materially impact the financial position of
+the Group as a whole.
+
+Awards and Recognition
+
+Capgemini UK awarded Business in
+the Community ‘Community Mark’ and
+Platinum status in the CR Index 2013
+
+Merlin wins the 2013 EU Code of
+Condcut for Data Center Award
+
+Capgemini Poland’s grant program
+‘We invest in good ideas’ received
+the European Outsourcing Award in
+the Corporate Social Responsibility
+category.
+
+UK Sustainability report EMAS
+Registered for 3rd year
+
+Capgemini rated ‘Prime’
+by Oekom research
+
+Capgemini Belgium is one of 54
+companies certificated as the Top
+Employers België- Belgique 2013.
+
+Once again Capgemini was
+recognized by the Times
+newspaper as one of the Top 50
+places for women to work in 2013
+
+Capgemini University was awarded
+a series of prestigious Brandon Hall
+‘Excellence in Learning’ awards in 2013
+
+Sogeti Norway awarded ‘Organization
+of the Year’ 2013 by ODA Network for
+the promotion of women in business
+through our activities and attitudes
+
+35
+
+Denmark - 208
+Netherlands - 901
+Germany - 411
+
+Norway - 1,799
+
+Appendix A –
+Organizational Structure
+North America - 102
+
+Holding - 141
+Australia - 280
+Finland - 300
+
+India - 1,499
+
+UK - 1,983
+
+Sweden - 1,684
+
+BREAKDOWN OF REVENUE BY SECTOR
+Energy, Utilities
+& Chemicals - 11.3%
+
+Financial Services - 19.8%
+
+Consumer Products,
+Retail, Distribution
+& Transportation - 14.1%
+
+Other - 4.7%
+
+Manufacturing - 17.8%
+
+Public
+Sector - 23.2%
+
+Telecom, Media
+& Entertainment - 9.1%
+
+BREAKDOWN OF REVENUE BY BUSINESS
+Local Professional
+Services - 14.9%
+Technology
+Services - 39.8%
+
+Consulting
+Services
+14.9%
+
+Outstanding
+Services - 40.4%
+
+BREAKDOWN OF REVENUE BY COUNTRY OR REGION
+Benelux - 10.9%
+
+France - 21.3%
+
+United
+Kingdom - 20.5%
+
+North
+America - 20.5%
+
+Rest of Europe, Asia
+and Latin America - 26.8%
+
+Appendix B –
+Additional People Data
+CSS
+
+DSP
+
+BREAKDOWN OF WORKFORCE
+BY CATEGORY: 2011-2012
+
+DSS
+
+6.4%
+2.4%
+
+6. 2%
+2.2%
+
+91.3%
+
+The Company’s workforce breaks down into to three broad
+categories:
+
+6.1%
+2.4%
+
+91.6%
+
+•	Client Serving Staff (CSS) who ensure our services with
+clients are managed correctly and make up the majority of
+the Group’s workforce.
+
+91.8%
+
+•	Dedicated Sales People (DSP) who make up the sales
+team and are responsible for sales and customer relations
+management across the full product portfolio.
+
+2010
+
+2011
+
+•	Dedicated Support Staff (DSS) who carry out administrative
+support functions.
+
+2012
+
+BREAKDOWN OF WORKFORCE
+BY PART TIME HOURS
+18%
+
+6.2%
+
+5.2%
+
+4.7%
+
+4.9%
+
+3.6%
+
+2.8%
+1.5%
+
+December 2010
+
+December 2011
+
+December 2012
+
+To
+t
+
+al
+
+c
+
+a
+di
+In
+
+cifi
+Pa
+iaAs
+
+S
+an out
+d he
+La rn
+tin E
+Am uro
+er pe
+ica
+
+Fr
+a
+M nce
+or a
+oc n
+co d
+
+G
+Ce erm
+nt an
+ra y
+lE a
+ur nd
+op
+e
+
+ne
+
+lux
+
+es
+tri
+
+Be
+
+un
+Co
+rd
+No
+
+ite
+& dK
+Ire ing
+lan d
+d om
+
+er
+Am
+rth
+No
+
+0%
+
+Un
+
+ica
+
+0.4%
+
+The coverage interval for the above data is 97% of year-end
+headcount. The number of part-time employees in the Group
+decreased by 0.6 points compared with 2011, to 3.6% of the
+headcount in 2012. The figures show significant variation
+between regions: part-time working is most widespread in the
+Benelux countries with 18.9%, an increase of 3.4 pts due to a
+change in the scope (without Sogeti Belux in 2012), followed by
+the United Kingdom & Ireland with 6.2% which decreased by
+2.9% due to economic pressure Conversely, in India and Latin
+America part-time working is not widespread which, given the
+importance of these regions in terms of recruitment, explains
+the overall drop in this indicator as most of the headcount
+growth comes from
+these regions. In France (and Morocco), 5.3% or approximately
+1,100 people work on a part-time basis. This figure has
+remained relatively stable over the last three years.
+
+BREAKDOWN OF WORKFORCE BY
+FIXED WORKING HOURS
+71%
+
+17%
+8%
+
+35h
+
+35h>39h
+
+40h
+
+2%
+
+1%
+
+41h>47h
+
+48h
+
+A study of fixed working hours in the Group showed a
+wide variation between the regions. This study covered
+97% of the workforce at year end. France was singled
+out, with a 35-hour working week, and represented
+17% of the total workforce. More than two thirds of our
+employees have a 40-hour working week. This is mainly
+the case in Europe (excluding the United Kingdom,
+Finland and Denmark, where it is generally around 37
+hours), North America and India, where the Group offers
+a more attractive 40-hour week, although the legal
+maximum working week is 48 hours. South American
+countries vary from a base of 44 hours per week in
+Guatemala, Brazil and Chile to 48 hours in Argentina.
+
+37
+
+BREAKDOWN OF WORKFORCE BY
+LENGTH OF SERVICE: 2010-2012
+
+33.4%
+
+27%
+
+26.9%
+24.1%
+22.3%
+
+23.4%
+19.3%
+
+*the data shows 98% of year-end headcount
+
+19.09%
+
+17.6%
+
+14.6% 15.6%
+
+16.2% 15.7%
+13.4%
+
+11.9%
+
+<1 year
+
+3-4 years
+
+1-2 years
+
+December 2010
+
+5-9 years
+
+December 2011
+
+119,707
+
+10 years and +
+
+Average length of service in the Company stands at 4.4
+years in 2012, a decrease of 0.1 years versus 2011, due to
+the high number of recruitments in the last three years. This
+varies according to the geographical area, ranging from just
+over 1.9 years for India to 9.7 years in the Benelux countries.
+
+December 2012
+
+125,110
+
+108,698
+
+Learning and Development
+PERCENTAGE OF INDIVIDUAL
+EMPLOYEES TRAINED 2012
+
+90,156
+
+71%
+
+78%
+
+85%
+
+88%
+
+2009
+
+2019
+
+2011
+
+2012
+
+Overall, close to 110,000 employees were trained in 2012,
+up 8% compared with the previous year taking the total
+volume of training hours to 4.26 million. Employees use
+MyLearning for informal and just-in-time learning but also
+register for more formal, structured learning events.
+
+% of Unique Employee Trained
+Headcount Total
+
+4.25 mh
+3.87 mh
+
+% OF VIRTUAL TRAINING (IN MILLION) IN 2012
+
+3.52 mh
+
+The Group continued to develop its on-line training
+courses increasing by more than 93% over the
+year, or 1.41 million training hours. This channel
+now represents 33% of total training hours.
+
+2.88 mh
+
+11%
+
+15%
+
+19%
+
+33%
+
+2009
+
+2019
+
+2011
+
+2012
+
+Virtual Learning
+Classroom Learning
+
+38
+
+Corporate Responsibility & Sustainability Review 2013
+
+Performance reviews
+and Workforce Profile
+
+2011
+2012
+100%
+
+98%
+
+100%
+
+96%
+
+95%
+
+98%
+91%
+
+PERCENTAGE OF EMPLOYEES HAVING HAD A
+PERFORMANCE AND CAREER REVIEW IN 2012
+
+91%
+84%
+
+74%
+
+By establishing a clear framework based on a set of clearly
+defined and explained criteria to guide the appraisal process,
+we can ensure the professional development and promotion
+of all employees and respect for equal opportunities. The
+Performance and Development process is driven by regular
+meetings between the employee and the evaluator, conducted
+in relation to assignments. In both 2011 and 2012, 91% of the
+workforce concerned had undergone an annual performance
+review.
+
+As
+ia
+
+In
+
+To
+t
+
+al
+
+dia
+
+-P
+ac
+
+ific
+
+S
+an out
+d he
+La rn
+tin E
+Am uro
+er pe
+ica
+
+elu
+Be
+n
+
+Fr
+a
+M nce
+or a
+oc n
+co d
+
+x
+
+G
+Ce erm
+nt an
+ra y
+lE a
+ur nd
+op
+e
+
+s
+trie
+un
+Co
+rd
+No
+
+Un
+
+No
+
+ite
+
+rth
+
+Am
+er
+
+ica
+
+& dK
+Ire ing
+lan d
+d om
+
+*the data covers 97% of year-end headcount.
+
+RATE OF ABSENTEEISM 2011-2012
+*The data for this study covers 62.2% of year-end headcount.
+4.3%
+
+2011
+2012
+
+3.4%
+2.7%
+
+2.7%
+2.5%
+
+2.4%
+1.8%
+1.5%
+
+1.3%
+
+In
+
+To
+t
+
+di
+
+al
+
+a
+
+ific
+ac
+-P
+As
+ia
+
+S
+an out
+d he
+La rn
+tin E
+Am uro
+er pe
+ica
+
+Fr
+a
+M nce
+or a
+oc n
+co d
+
+lux
+ne
+Be
+
+G
+Ce erm
+nt an
+ra y
+lE a
+ur nd
+op
+e
+
+es
+tri
+un
+Co
+No
+rd
+
+Un
+ite
+& dK
+Ire ing
+lan d
+d om
+
+No
+
+rth
+
+Am
+
+er
+
+ica
+
+0%
+
+This percentage is relatively low due to the fact that some
+countries such as India (which represents nearly a third of
+our workforce) do not collect data on the number of days of
+sick leave in the strict sense. In 2012, the rate of absenteeism
+for sickness in the sample was 2.5%, a decrease of 0.1%
+compared to 2011. The highest rate was seen in Poland, at
+5.2% as last year, followed by Benelux at 3.4%. France at 2.5%
+was just at the
+Group average. North America is reporting a significant
+increase linked to a different coverage with Sogeti US now
+included. Without Sogeti, the ratio (1.7%) is very similar to last
+year (1.6%).
+
+Well being
+
+0.95%
+
+NUMBER OF WORK-RELATED ACCIDENTS 2011-2012
+
+2011
+2012
+
+0.57%
+0.57%
+
+*The coverage interval for the above data is 77.3%.
+
+0.58%
+0.48%
+0.37%
+
+0.21%
+
+0.57%
+
+TA
+L
+TO
+
+ia
+In
+d
+
+Be
+ne
+lu
+x
+G
+en e
+tra rm
+l E an
+ur y
+op &
+e
+an
+So
+d F
+ut
+r
+M a
+he
+nc
+o
+ro e
+r
+co
+Lan E
+tin uro
+Ampe
+er an
+As ica d
+ia
+-P
+ac
+ifi
+c
+
+0.05%
+
+0.48%
+
+C
+
+te
+d
+& Kin
+N
+Ire go
+or
+la m
+di
+nd
+c
+C
+ou
+nt
+rie
+s
+
+ni
+U
+
+N
+
+or
+
+th
+
+Am
+
+er
+ic
+a
+
+0.11%
+
+Several more regions are now tracking this information
+(58.9% in 2011). In 2012 the Group recorded 461 work related
+accidents a ration of 0.48% accidents per headcount, of which
+44% were in France due to the regulations in force relating to
+the reporting of information. The majority of these work-related
+accidents were accidents during the home/workplace journey.
+No work-related death occurred in the Group in 2012 (GRI LA7)
+
+39
+
+Diversity
+
+73.5% 72.5% 71.9%
+
+BREAKDOWN OF WORKFORCE
+BY GENDER: 2010-2012
+*The coverage interval for the data below is 96.9% of year-end headcount.
+
+26.5% 27.59% 28.1%
+
+Men
+
+Women
+
+December 2011
+
+December 2010
+
+Recruits
+
+December 2012
+
+2012 % of female
+
+2011 % of female
+
+2010 % of female
+
+North America
+
+28.0
+
+28.4
+
+23.3
+
+UK & Ireland
+
+24.9
+
+24.0
+
+28.0
+
+Nordic countries
+
+30.1
+
+32.9
+
+26.9
+
+Benelux
+
+17.0
+
+20.5
+
+20.9
+
+Germany & Central Europe
+
+47.5
+
+45.8
+
+45.2
+
+France & Morocco
+
+23.6
+
+22.3
+
+20.9
+
+Southern Europe and
+Latin America
+
+43.7
+
+41.1
+
+40.6
+
+Asia-Pacific
+TOTAL
+
+29.5
+31.0
+
+27.7
+29.7
+
+26.6
+28.1
+
+Female Attrition
+
+2012
+
+2011
+
+2010
+
+North America
+
+12.0
+
+12.6
+
+15.2
+
+UK & Ireland
+
+12.4
+
+9.6
+
+11.0
+
+Nordic countries
+
+17.5
+
+18.2
+
+15.6
+
+Benelux
+
+11.6
+
+13.9
+
+8.7
+
+Germany & Central Europe
+
+20.0
+
+23.6
+
+17.4
+
+France & Morocco
+
+11.4
+
+13.0
+
+8.2
+
+Southern Europe and
+Latin America
+
+16.8
+
+17.3
+
+14.2
+
+Asia-Pacific
+
+23.0
+
+23.6
+
+24.8
+
+TOTAL
+
+17.6
+
+18.3
+
+15.9
+
+40
+
+Corporate Responsibility & Sustainability Review 2013
+
+The percentage of females continued to rise in 2012,
+increasing by 0.6% over 2011 to reach 28.1% of the headcount
+at year end. This improvement was mainly due to strong
+growth in previous years of BPO (a business sector in which
+the proportion of females can reach 50%), an activity which
+attracts more females, and despite its recent expansion in
+countries (notably India where the ratio of males to females is
+75/25) and business sectors (Services Infrastructure) where
+females are less present in the workforce. Nevertheless,
+in several geographic regions the percentage of females
+is increasing at constant scope. In 60% of countries the
+percentage of females has either improved or stabilized,
+with India US, Argentina, Switzerland and Guatemala
+being particularly noteworthy all progressing by 0.9%
+Monitoring is carried out at the Group level to better assess
+and understand the situation of women within the Group, in
+compliance with applicable legislation, i.e. the percentage of
+females recruited, leaving and promoted. This showed that
+females represented 31% of total recruitments (rate of coverage
+of 92.4% in 2012), a 1.3 points improvement versus 2011 which
+contributed to the rise in the percentage of women in the
+workforce at end-2012 driven by Asia Pacific, Central Europe
+and Southern Europe/Latin America regions, while Benelux
+further declined to a low 17%.
+Nevertheless, the turnover rate for females was marginally
+higher (at equivalent scope to hires) than for the total
+population and increased slightly faster, moving from 15.9% in
+2010 to 17.6% in 2012 (+1.7 points) while the overall turnover
+rate rose by just 0,7 points during the same period.
+
+PROPORTION OF WOMEN IN TOP EXECUTIVE
+POSITIONS PER OPERATING UNIT
+
+21%
+19%
+17.3%
+
+17.8%
+
+17.5%
+
+15.1%
+
+14.2%
+
+13.9%
+
+Following a decline in the proportion of females in the highest
+executive grades in 2010, this indicator has returned to growth
+by 0.3% in 2011 and 0.9% in 2012. Nevertheless, it remains
+lower than the total percentage of females in all grades
+combined within the Company. At the end of 2012, 17% of
+employees who had been promoted to the role of “VicePresident” were female, a percentage slightly lower than the
+2011 figure which was 2% higher when compared with 2010.
+
+14.6%
+
+12.8%
+
+12.7%
+
+10.7%
+
+9
+
+0
+
+l2
+To
+ta
+
+To
+ta
+
+l2
+
+00
+
+01
+
+01
+
+1
+
+2
+
+l2
+
+l2
+
+01
+
+To
+ta
+
+To
+ta
+
+c
+cifi
+
+In
+di
+a
+
+ica
+As
+
+ea
+
+an
+
+nd
+
+ce
+
+iaPa
+
+o
+
+er
+Am
+
+or
+oc
+c
+
+an
+
+d
+
+tin
+
+M
+
+lE
+tra
+
+Ce
+n
+So
+
+ut
+
+he
+
+rn
+
+Ge
+
+rm
+
+Eu
+
+ro
+p
+
+nd
+an
+
+Fr
+
+ya
+
+d
+ite
+Un
+
+La
+
+x
+
+ur
+op
+e
+
+elu
+
+es
+tri
+
+Be
+n
+
+Co
+un
+
+No
+rd
+
+&
+
+Ki
+
+ng
+do
+m
+
+No
+rth
+
+Am
+
+er
+
+Ire
+la
+
+ica
+
+nd
+
+9.7%
+
+49.1% 48.7%
+
+BREAKDOWN OF WORKFORCE BY AGE: 2010-2012
+
+48.7%
+
+*The coverage interval for the data below is 97.9%
+
+The average age of employees is declined again in 2012
+to 34.3 years due to the hiring of young graduates who
+represented 42.3% of recruitment in 2012. Average age is
+lowest and below 30 in Latin America (Brazil/Guatemala/
+Chile),
+China or Poland, whilst United Kingdom, Sweden,
+4.1% India,
+4.0%
+4.0%
+Canada and Netherlands are the only country with an average
+age just above 40 years.
+
+24.7% 24% 23.7%
+
+9.7% 10.9 %
+
+12.5% 12.3% 11.7%
+
+11.9%
+
+< 20-24 years
+
+25-34 years
+
+December 2010
+
+35-44 years
+
+December 2011
+
+45-54 years
+
+55 years and +
+
+December 2012
+
+524
+
+NUMBER OF PEOPLE IN THE GROUP
+WITH A DISABILITY 2010-2012
+308
+
+*the data above is 91% of year-end headcount.
+242
+
+2010
+
+2011
+
+In
+
+di
+
+a
+
+ific
+Pa
+c
+ia-
+
+S
+an out
+d he
+La rn
+tin E
+Am uro
+er pe
+ica
+
+Fr
+a
+M nce
+or a
+oc n
+co d
+
+G
+Ce erm
+nt an
+ra y
+lE a
+ur nd
+op
+e
+
+Be
+
+ne
+
+lux
+
+s
+rie
+nt
+Co
+u
+rd
+No
+
+ite
+& dK
+Ire ing
+lan d
+d om
+
+Un
+
+ica
+er
+Am
+th
+No
+r
+
+6
+
+As
+
+55
+
+50
+2
+
+Coverage has improved due to the launching of new programs
+in India in 2012. Data collected indicates that Group employed
+66
+1,257 disabled people
+of which 42% are in the UK and 25% in
+France.4This is 333 people more than in 2010.
+
+2012
+
+41
+
+Appendix C –
+Additional Environmental Data
+Capgemini Group Environmental
+Policy Statement
+Capgemini is one of the world’s
+foremost providers of consulting,
+technology and outsourcing services.
+Our business activities are delivered
+from both our own network of offices
+and data centers as well as at our
+clients’ sites.
+This policy statement applies to all
+offices and data centers managed
+by Capgemini, all employees, and
+suppliers retained by Capgemini.
+Although we do not manufacture
+products, we recognize that our
+business activities do have impacts
+on the environment and we are
+committed to continually improving our
+environmental performance.
+We are committed to identifying and
+complying with all legal and other
+relevant requirements relating to
+the environmental impacts of our
+operations, and to the prevention
+of pollution through the adoption of
+appropriate controls.
+Specifically, we expect the companies
+in the countries we operate to:
+1 have a full understanding of how to
+quantify and track our environmental
+impacts (at a minimum, our
+Greenhouse Gas (GHG) Emissions)
+in line with our statutory reporting
+requirements;
+
+Group’s energy consumption and
+associated carbon footprint;
+3 promote energy efficiency
+improvement initiatives in our data
+processing centers;
+4 implement initiatives to minimize
+travel (and in particular air travel),
+without disrupting our ability to meet
+the demands of our clients;
+5 implement initiatives to reduce the
+amount of waste we generate, and
+to maximize the percentage of our
+waste which is recycled; and
+6 have procurement processes which
+ensure that our suppliers provide
+products and services which help us
+to achieve our Group environmental
+policy, particularly in relation to
+carbon emissions, reducing energy
+consumption, and minimizing waste
+Performance against our objectives and
+targets, and this Environmental Policy,
+will be reviewed at least annually.
+Signed: Paul Hermelin
+Position: Chief Executive Officer
+Date: 1st January 2013
+
+2 identify energy saving sources within
+our portfolio of offices to reduce the
+
+42
+
+Corporate Responsibility & Sustainability Review 2013
+
+The following table shows the total emissions figure of 338,330 tons of CO2 distributed according to the Scopes 1 (Gas and
+Diesel), 2 (Electricity) and 3 (Business Travel1) definitions as set out by the Global Reporting Initiative (GRI), which is a global
+reporting standard seeking to standardize sustainability reporting across organizations.
+Emissions in tons (CO2e)
+Scope
+
+Gas
+
+Diesel
+
+Data centre
+electricity
+
+Office electricity
+
+Business Travel
+
+Scope 1
+
+2,122
+
+7,442
+
+-
+
+-
+
+-
+
+Scope 2
+
+-
+
+-
+
+68,118
+
+109,819
+
+-
+
+Scope 3
+
+-
+
+-
+
+-
+
+-
+
+150,829
+
+1Note: emissions associated with our general office waste have been omitted until a suitable global emission factor can be applied
+
+Note: emissions associated with our general office waste have been omitted until a suitable global emission factor can be applied
+
+1
+
+The last table below shows Capgemini’s consumption of energy together with paper consumption, waste and recycling rates.
+Energy figures as measured in kilowatt hours, includes the use of electricity across our operations. Currently the use of paper and
+recycling is measured using different metrics in different countries. Consequently data is provided in terms of the weight of paper
+purchased,
+paper
+consumed
+and paper recycled.
+Finally,
+the table
+provides
+details
+the weight of waste and
+generated
+andrates.
+the
+The
+last table
+below
+shows Capgemini’s
+consumption
+of energy
+together
+with
+paperofconsumption,
+recycling
+percentage
+of waste
+recycled.
+Energy
+figures
+as measured
+in kilowatt hours, includes the use of electricity across our operations. Currently the use of paper and
+recycling is measured using different metrics in different countries. Consequently data is provided in terms of the weight of paper
+purchased,
+paper
+consumed
+andconsumption
+paper recycled.
+table provides
+details
+ofCapgemini
+the weight and
+of waste
+generated
+andinthe
+The last table
+shows
+the energy
+and Finally,
+carbonthe
+emissions
+associated
+with
+Sogeti
+operations
+percentage
+of waste
+recycled.
+Australia, Austria,
+Belgium,
+Brazil, Chile, China (including Hong Kong), Czech Republic, Denmark, Finland, Germany, Guatemala,
+Energy
+MvH
+
+Travel
+
+Waste
+
+Emissions in Tons CO2e
+
+Tons
+
+Country/Region
+
+Energy (All
+sources)
+
+Gas
+
+Diesel
+
+Data
+Centre
+Electricity
+
+Office
+Electricity
+
+Electricity
+Urban
+Heating
+
+Business
+Travel
+
+Total
+Emissions
+inc. Hotels
+(Tons
+CO2e)
+
+Waste (Nonhazardous)
+
+Other Europe
+
+32,760
+
+691
+
+95
+
+2,663
+
+7,735
+
+0
+
+22,843
+
+34,026
+
+172
+
+Asia & Australia
+
+2,657
+
+0
+
+0
+
+474
+
+1,554
+
+0
+
+6,579
+
+8,607
+
+0
+
+Latin America
+
+32,580
+
+2
+
+2
+
+223
+
+9,517
+
+0
+
+4,478
+
+14,223
+
+78
+
+Other Sogeti
+
+1,761
+
+0
+
+0
+
+0
+
+297
+
+0
+
+840
+
+1,138
+
+8
+
+Total - Other Operations
+
+69,758
+
+693
+
+37
+
+3,361
+
+19,103
+
+0
+
+34,740
+
+57,993
+
+259
+
+Total - Largest Operations
+
+337,132
+
+1,429
+
+7,345
+
+64,757
+
+90,529
+
+187
+
+116,089
+
+280,337
+
+1,474
+
+Grand Total
+
+406,889
+
+2,122
+
+7,442
+
+68,118
+
+109,632
+
+187
+
+150,829
+
+338,330
+
+1,724
+
+Notes:
+Hungary,
+Italy,
+Mexico,
+Philippines,
+Poland,
+Portugal,
+Romania,
+Slovakia,
+Sweden,
+Vietnam as well as Sogeti
+1. Other Europe
+includes
+Belgium,Norway,
+Czech Republic,
+Denmark, Finland,
+Germany,
+Hungary, Italy,
+Norway, Poland,
+Romania, Spain,
+Portugal, Spain,
+Swedenand
+and Slovakia;
+2. Australia and Asia includes Australia; China & Hong Kong; Philippines and Vietnam;
+operations
+in Belgium,
+Finland,
+Luxemburg,
+Spain,
+and
+3. Latin America includes
+Argentina,
+Brazil, Brazil
+CPM Braxis, Chile,
+Guatemala
+andSweden.
+Mexico;
+4. Other Sogeti includes Sogeti operations in Finland, Belux (Belgium and Luxemburg), Spain and Sweden
+5. Emission factors as produced by the Carbon Neutral Company have been used to calculate the emissions associated with hotel nights in all countries. It was identified during the external
+Grenelle II audit, that these factors, when applied outside the UK, may be too high with the result that the figures presented above are likely to be higher than reality. As more appropriate
+emission
+factors
+could
+not be
+obtained,
+theDenmark,
+figures Finland,
+have been
+reported
+hereItaly,
+as included
+in the Romania,
+total figure
+for Business
+travel (unlike
+the main body of the report where hotel stays were separated
+1. Other
+Europe
+includes
+Belgium,
+Czech
+Republic,
+Germany,
+Hungary,
+Norway, Poland,
+Portugal,
+Spain, Sweden
+and Slovakia;
+out for audit). It is acknowledged that the figures represent a likely worse case and the methodology employed will be reviewed for future reports.
+2. Australia and Asia includes Australia; China & Hong Kong; Philippines and Vietnam;
+3. Latin America includes Argentina, Brazil, Brazil CPM Braxis, Chile, Guatemala and Mexico;
+4. Other Sogeti includes Sogeti operations in Finland, Belux (Belgium and Luxemburg), Spain and Sweden
+5. E
+ mission factors as produced by the Carbon Neutral Company have been used to calculate the emissions associated with hotel nights in all countries. It was identified during the external Grenelle II audit, that these factors, when
+applied outside the UK, may be too high with the result that the figures presented above are likely to be higher than reality. As more appropriate emission factors could not be obtained, the figures have been reported here as
+included in the total figure for Business travel (unlike the main body of the report where hotel stays were separated out for audit). It is acknowledged that the figures represent a likely worse case and the methodology employed
+will be reviewed for future reports.
+
+43
+
+More information about our services,
+offices and research is available at www.capgemini.com
+Contact Details:
+James Robey, Group Corporate Responsibility & Sustainability Director
+Capgemini Group, Place de l’Étoile, 11 rue de Tilsitt, 75017, Paris, France
+
+About Capgemini
+With more than 130,000 people in 44 countries, Capgemini is
+one of the world’s foremost providers of consulting, technology
+and outsourcing services. The Group reported 2012 global
+revenues of EUR 10.3 billion. Together with its clients, Capgemini
+creates and delivers business and technology solutions
+that fit their needs and drive the results they want. A deeply
+multicultural organization, Capgemini has developed its own
+way of working, the Collaborative Business ExperienceTM, and
+draws on Rightshore®, its worldwide delivery model.
+Learn more about us at www.capgemini.com.
+	
+Rightshore® is a trademark belonging to Capgemini
+The information contained in this document is proprietary. ©2012 Capgemini. All rights reserved.
+Rightshore ® is a trademark belonging to Capgemini.
+
+

@@ -1,0 +1,4135 @@
+Corporate Responsibility
+and Sustainability
+Update 2015/2016
+
+1
+
+EXECUTIVE SUMMARY
+
+Christine Hodgson
+Chairman of Capgemini UK
+Co-Chair Group CR&S Board
+
+During 2015, the UN launched the new Sustainable Development
+Goals (SDGs), which provide a framework for action to address
+global social, environmental and economic challenges. These
+goals were created under greater consultation with business, (in
+contrast to the outgoing Millennium Development Goals) and as
+such place a greater emphasis on business to contribute to
+achieving the goals.
+Likewise, the agreement made between the world’s leaders at
+the 21st Conference of the Parties (COP21) in Paris, to take
+mitigating action preventing global temperature rises above 2
+degrees Celsius (beyond pre-industrial temperatures), requires
+significant collaboration between business, government, policy
+makers and society.
+There are important implications for business in terms of
+operational practices and potential organizational changes
+required to support these global aims and expectations. The
+importance of corporate responsibility, of risk management and
+of mitigation against the impacts of climate change, is expected
+to continue to rise with a greater awareness amongst
+stakeholders (clients, employees, investors and shareholders).
+In addition to our own duty to be an efficient and responsible
+company, as an innovative and transformative organization,
+Capgemini is well placed to offer new technology solutions for
+a low carbon economy.
+Within Capgemini, 2015 saw continued progression of the
+Corporate Responsibility and Sustainability agenda. We
+established a Group CR&S Board under the co-chair of Hubert
+Giraud (Group Management Board Member) and myself
+strengthening governance across the Group. The Board
+members were selected to reflect the diversity of the
+organization and include a range of senior executives providing
+wide representation across the Group. The CR&S Board is
+responsible for reviewing, debating and ultimately approving
+CR&S strategy, policies and practices for the Group.
+
+2
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+Throughout 2015, we continued to enhance our capability
+concerning environmental management including the
+establishment of a Center of Excellence in India.
+This capability enables us to provide consistent and efficient
+environmental support across the Group including a streamlined
+approach to ISO 14001 certification. This approach assisted in
+the achievement of the latest certifications across Capgemini
+North America and Capgemini Sweden, increasing the number
+of countries with certification to 11.
+During the summer of 2015, an internal group, comprising key
+CR&S leaders and members of the Executive CR&S Board
+developed a new global community strategy for the Group.
+Encompassing a range of initiatives, the program aims to impact
+positively the lives of one million people by 2020 through our global
+Education and Skills programs and led to the largest engagement
+of our people in any one Community initiative to date.
+During 2015 Capgemini acquired IGATE, who, with their
+established ICare community programme closely align with and
+strengthen our CR&S focus particularly pertaining to education
+and skills.
+Capgemini continue to place great emphasis on our people.
+Our values define how we behave both internally and in all
+aspects of our business transactions. Our standards are high
+with expectations to match. We have been named as one of the
+World’s Most Ethical Companies by the Ethisphere Institute for
+the fourth consecutive year.
+This report provides an overview of our key achievements in our
+Values & Ethics, Environmental Sustainability, Community
+Engagement and People Culture programs. It also presents our
+2015 carbon data which shows an overall decrease in emissions
+associated with our global operations of 4% as compared to
+2014. This data is presented in our Group Annual Financial report
+in accordance with Grenelle II legislation (legislation: article
+R.225-105-1 of the French Commercial Code).
+Further information about our approach to Corporate
+Responsibility and Sustainability can be found on our
+website www.cagemini.com
+
+Content
+EXECUTIVE SUMMARY						2
+1.	INTRODUCTION							4
+
+	
+1.1	
+Our approach to CR&S						5
+	
+1.2	
+Governance							6
+	
+1.3	
+Materiality and Scope						6
+
+2.	VALUES AND ETHICS						7
+
+	
+	
+	
+	
+
+2.1	
+2.2	
+2.3	
+2.4	
+
+Ethics and Compliance Networks				
+The Code of Business Ethics					
+Specific Policies and Training	 	
+	
+	
+	
+Raising Concern Procedure 	 	
+	
+	
+	
+
+8
+9
+9
+10
+
+3.	ENVIRONMENTAL SUSTAINABILITY			11
+	
+3.1	
+Group environmental policy					12
+	 3.2	 Group environmental management approach	 	
+	
+12
+	
+3.3	
+Environmental performance					14
+	 3.4	 Key performance indicators and methodology	 	
+	
+16
+4.	COMMUNITY ENGAGEMENT				20
+	
+	
+	
+
+4.1	 Our global initiatives	 	
+	
+	
+	
+	
+4.2	 Global Community Engagement Awards (GCEA)	
+	
+4.3	 Other national initiatives 					
+
+22
+24
+26
+
+5.	PEOPLE CULTURE 	
+
+	
+	
+	
+
+					28
+5.1	 Diversity and inclusion (D&I)	
+	
+	
+	
+	
+29
+5.2	 Disability 	
+	
+	
+	
+	
+	
+	
+32
+5.3	 Learning & Development	
+	
+	
+	
+	
+34
+
+6.	SUSTAINABLE PROCUREMENT				36
+
+	
+	
+
+6.1	 Purchasing Principles	 	
+	
+	
+	
+6.2	 Our Ethics & Sustainable procurement principles	
+
+	
+	
+
+36
+37
+
+7.	 CLIENT SERVICES	
+	
+	
+	
+	
+
+7.1	
+7.2	
+7.3	
+7.4	
+
+					38
+Enabling client transformation	 	
+	
+	
+	
+39
+U2ES Transformation	 	
+	
+	
+	
+	
+39
+Smart Energy Services	 	
+	
+	
+	
+	
+40
+Merlin data center	
+	
+	
+	
+	
+	
+40
+
+Appendix A:	Environmental Performance Data	
+
+	
+
+	
+
+41
+
+Appendix B:	Community Investment and Donations	 	
+
+	
+
+44
+
+Appendix C: Global Diversity & Inclusion Charter	
+
+	
+
+45
+
+	
+
+46
+
+	
+
+Appendix D: Commitments, Awards and Recognitions 	
+
+3
+
+1.	INTRODUCTION
+As we have grown to become Europe’s largest IT services company, our commitment to
+Corporate Responsibility and Sustainability (CR&S) has continued to mature and remains
+underpinned by our Values and Ethics. Capgemini was founded in 1967 by Serge Kampf. His
+vision and mission for the organization placed people at our heart, with a strong set of values
+central to the way we do business. Capgemini prefers to work collaboratively, building working
+partnerships with our clients in order to ensure class-leading services in over 40 countries. With
+a head count of over 180,000 people, Capgemini recognizes the rich diversity of our people and
+the resulting innovation and diversity of thought, through the provision of an inclusive working
+environment.
+As a provider of consultancy, technology and outsourcing services, together with professional
+services through our Sogeti business, Capgemini Group’s CR&S program covers the reduction
+of our environmental impacts, the contribution we make to the communities in which we
+operate, as well as the creation of a diverse and inclusive work environment, to enable our
+people to both develop and serve our clients. Our overall management approach also supports
+all national laws and regulations, in particular the fundamental conventions on labor standards
+of the International Labor Organization (ILO), the principles of the 1948 Universal Declaration of
+Human Rights (where we refuse the use of forced and child labor), and the OECD guidelines for
+Multinational Enterprises.
+This report provides updates regarding our Corporate Responsibility and Sustainability (CR&S)
+program through 2015, with the inclusion of our 2015 Group carbon data (covering 100% of our
+headcount)(1) as audited externally in compliance with Grenelle II legislation. The use of the word
+‘Group’ throughout this document denotes the organization in its entirety. Where narrative may
+be specific to a country or number of countries, they are named.
+
+(1)	 Made up of those countries who are formally reporting through a monthly or quarterly process and those
+		 (around 2-3%) where operations are too small to warrant adherence to a formal process.
+
+4
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+1.1	 Our approach to CR&S
+The Capgemini Group CR&S program continues to focus on the three key areas of Environmental Sustainability,
+Community Engagement and People Culture which are underpinned by our focus on Values & Ethics and our
+commitment to work with our clients to deliver sustainable business services. The Group CR&S Board comprised of
+senior executives from around the Group, continues to provide leadership and governance across these key areas.
+
+VALUES & ETHICS:
+
+“It is about who we are and the way we do business”.
+Built on a foundation of our seven core values (Honesty, Boldness, Trust, Freedom, Team
+Spirit/Solidarity, Modesty and Fun), our Code of Ethics supports our corporate culture and
+permeates all our business practices, procurement behaviors and employee welfare
+policies.
+
+PEOPLE CULTURE:
+
+“We are committed to being an employer of choice for people who wish to
+develop in a creative and diverse environment”.
+Our priority is to promote the professional development and well-being of our people by
+ensuring that both our business practices and our facilities empower excellence. We have
+a culture whereby we respect and value the diversity and creativity of all our people.
+
+COMMUNITY COMMITMENT:
+
+“We strive to have a positive impact on the communities in which we live
+and work”.
+As a major global employer, we work locally, nationally and internationally with local
+authorities, non-governmental organizations (NGOs) and charities on two priorities:
+education and development. The Group encourages the active involvement of each of our
+team members in our communities.
+
+ENVIRONMENTAL SUSTAINABILITY:
+
+“We are committed to understanding, measuring and reducing our
+environmental impacts”.
+We recognize that, the business services we provide have an impact on the environment.
+We work hard to reduce this impact by saving energy and reducing waste, as well as by
+reducing business travel. We also work to raise employee awareness of the critical issues
+related to the environment.
+
+CLIENT SERVICES:
+
+“Our clients benefit from our understanding of the environment and our worldrenowned business transformation capabilities”.
+We deliver long-lasting added-value with tangible results. We take time to talk to our clients
+and ensure that their views are taken into account, and we look to embed CR&S
+considerations into our service offerings.
+
+5
+
+1.2	Governance
+With an enhanced focus on strategic planning and governance, 2015 was a pivotal year for our program across the key areas
+identified within this report. January 2015 saw the inaugural meeting of the Group’s CR&S Board co-chaired by Hubert Giraud
+(Group Management Board Member and Head of People Management & Transformation) and Christine Hodgson (Chairman,
+Capgemini UK Plc). Throughout the year, the Group CR&S Board worked to advance Capgemini’s strategic approach, further
+embedding CR&S principles into our business operations and practices.
+The CR&S Board continues to maintain consistency and ensure the uniform implementation of our CR&S policies and initiatives
+across our Group, led locally by our global network of CR&S professionals.
+Leveraging the significant expertise of our CR&S professionals around the Group, multinational working groups continue to assist
+in driving the program forward. These international networks include:
+•	
+•	
+•	
+•	
+
+the
+the
+the
+the
+
+Ethics & Compliance Officers’ network, reporting to the Group Chief Ethics & Compliance Officer;
+Corporate Responsibility & Sustainability Leadership network, comprising CR&S professionals from within the Group;
+global Corporate Responsibility & Sustainability network, open to all our people; and
+global client-facing Sustainability network, focusing on embedding sustainability into client service offerings.
+
+In addition, we have separate country level CR&S Boards in a number of our key geographies, such as Germany, India, the
+Netherlands, and the UK; in others, such as France and North America, CR&S Issues are discussed at local Executive
+Committee meetings.
+
+Extract from the CR&S Board Charter
+The Corporate Responsibility and Sustainability (CR&S) Board will provide the executive level governance for
+CR&S within Capgemini. The CR&S Board will review, debate and ultimately approve CR&S policies and
+practices for the Group.
+For Capgemini, CR&S means taking a long term view – it is our approach to business that reduces our impact on
+the environment, contributes to the communities in which we operate and ensures that we remain a diverse and
+inclusive company. The Chair of the CR&S Board provides the linkage to Capgemini’s Group Management Board
+(chaired by Capgemini’s Group CEO) ensuring the input of the CEO and the alignment of Capgemini’s approach to
+CR&S with the Group overall business strategy.
+The overall program continues to focus on the three key areas of Environmental Sustainability, Community
+Engagement and People Culture. A number of interactive multi-national working groups continue to drive the
+program forward under the direction of the Group Corporate Responsibility & Sustainability Director.
+
+1.3	 Materiality and Scope
+In order to ensure our Corporate Responsibility and Sustainability program remains aligned with stakeholder expectations, an
+analysis of the relative importance of sustainability aspects and issues was undertaken during 2014. This analysis, or materiality
+assessment, is the result of a range of internal and external stakeholder interviews together with desk research.
+During 2015 this view was not found to have altered with the potential exception of child labor, whereby it was queried by
+a number of stakeholders what place this had on our materiality matrix. The matrix itself and further information regarding the
+assessment can be found on our website at www.capgemini.com/about
+This report focuses primarily on the CR&S activities of Capgemini Group (excluding IGATE) for the calendar year 2015.
+This report includes environmental data for Capgemini and Sogeti, however, IGATE is not yet included.
+
+6
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+2.	 VALUES AND ETHICS
+Since the formation of Capgemini in 1967, our culture and business practices have been
+inspired and guided by our seven core values: Honesty, Boldness, Trust, Freedom, Team
+Spirit, Modesty and Fun. These values sit at the heart of our approach as an ethical and
+responsible company and are the guiding principles by which we conduct our business
+both individually and collectively. The rapid acceleration of technology and social media
+enrich our business but also increase our exposure to reputational risk, making it
+even more important that all our people understand their responsibility for maintaining
+Capgemini’s ethics and values.
+
+2015 Highlights:
+We appointed a New Group Chief Ethics & Compliance
+Officer to drive forward our strong commitment to
+Values & Ethics;
+
+We were named as one of the World’s Most
+Ethical Companies by the Ethisphere Institute,
+for the third consecutive year; and
+
+We hosted six business ethics workshops
+across the world for more than 100 managers
+and top executives, on practical ways to deal
+with ethics and compliance issues.
+
+7
+
+Our ability to build trust with clients, shareholders, team members and suppliers is critical to our ongoing success. Our current
+Ethics & Compliance Program was launched in 2009 by the Group Board of Directors based on the ethics culture which has
+been a core part of the Group since its creation. As part of this program, a network of Ethics and Compliance Officers was set
+up, and a Code of Business Ethics, an Anti-Corruption Policy and a Competition Laws Policy were launched to reassert our
+values in every country in which we operate. All of our people are expected to comply with the principles of these “three
+fundamental documents”, and follow an e-learning training course on each one.
+The Ethics & Compliance program demonstrates our Group’s deep-rooted values and strong ethical culture. It also contributes to
+attracting, developing and retaining our talented people. Achieving commitment and creating an ethical environment strengthens
+our reputation, helps us to win new business and allows us to take our place amongst the leaders in our industry.
+
+HONESTY
+
+BOLDNESS
+
+TRUST
+
+FREEDOM
+
+TEAM SPIRIT
+
+MODESTY
+
+FUN
+
+2.1	 Ethics and Compliance Networks
+The managers of the Group and its operating units (SBUs/BUs) are accountable for driving the Ethics and Compliance program
+in their respective units, in compliance with local laws, regulations and procedures.
+The Chief Ethics & Compliance Officer (CECO) is responsible for the Ethics & Compliance program across the entire Group. The
+Ethics & Compliance program and its achievements are reviewed annually by the Ethics Governance and Nomination Committee
+of the Board of Directors.
+Local General Counsels have also been appointed as Ethics & Compliance Officers (GC-ECO). They ensure implementation of
+the Ethics & Compliance program within their geographic region and liaise with the CECO.
+
+8
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+2.2	 The Code of
+Business Ethics
+
+2.3	 Specific Policies
+and Training
+
+In order to integrate our ethical culture across the entire
+Group, the Code of Business Ethics, is now available in
+14 languages. It receives the collective and individual support
+of the members of the Board of Directors, the Group Executive
+Committee and the Vice-Presidents community.
+
+ANTI-CORRUPTION POLICY
+
+Capgemini expects all Group employees to adhere to the
+seven core values and to the principles expressed in this
+Code and in particular, that they commit to:
+•	 respecting applicable laws and regulations;
+•	 applying health and safety rules and contributing to the
+creation of a safe and inclusive work environment;
+•	 acting responsibly in the marketplace, complying with
+applicable competition laws and regulations and anticorruption provisions, avoiding conflicts of interest and
+insider trading, and providing accurate commercial and
+financial information;
+•	 building honest and clear relationships with clients,
+business partners, and our suppliers;
+•	 maintaining the security and integrity of the assets of the
+Group and of any third parties with whom we work;
+•	 supporting the communities and respecting the
+environment in which we operate; and
+•	 refusing the use of forced labor and child labor.
+All new hires are expected to undertake to comply with the
+principles set out in the Code of Business Ethics and to
+complete an e-learning module on the Code.
+
+At the end of 2015
+
+126,000+
+employees
+
+82%
+Global headcount
+
+Completed our
+Code of Business Ethics e-learning module
+
+In 2011, the Group distributed a document concerning the
+prevention of corruption, in eleven languages. At the end of
+2015, more than 132,000 employees had followed the related
+e-learning module, available in six languages. This represented
+more than 87% of the Group’s employees.
+In addition, new employees are expected to undertake to
+comply with the principles set out in the Group Anti-Corruption
+Policy and to complete the related e-learning module.
+
+GROUP COMPETITION LAW POLICY
+
+In 2012, the Group distributed a document concerning
+competition laws, in eight languages. At the end of 2015, more
+than 121,000 employees had followed the related e-learning
+module, available in six languages. This represented more
+than 79% of the Group’s employees at this date.
+In addition, new employees are expected to undertake to
+comply with the principles set out in the Competition Law
+Policy and to complete the related e-learning module.
+
+HUMAN RIGHTS
+
+As identified by our assessment of materiality, our stakeholders
+have raised the issue of human rights specifically as being of
+importance to Capgemini and our business. Work on a specific
+stand alone human rights statement commenced in 2015, to
+provide clarity and guidance regarding our allegiance to the
+principles of the United Nations Declaration of Human Rights.
+Due to the decentralized nature of the Group, it is important that
+this statement be applicable to and understood by all and as
+such, work continues into 2016.
+
+BUSINESS ETHICS TRAINING FOR
+MANAGEMENT
+
+In 2015, six three-hour business ethics workshops were held
+around the world, covering more than 100 managers and
+top executives (mainly Grade F, i.e. the top of the managerial
+pyramid). These sessions, based on case studies, aimed
+to give practical advice on how to deal with ethics and
+compliance issues and to highlight management’s role in
+setting an example. They also helped develop local action
+plans to cascade these messages to lower management
+levels, with the help of the Ethics & Compliance Officers.
+Additionally in 2015, a new initiative was developed for more
+than 4,300 Grade E managers (i.e. the grade just below top
+management) based on a “Train the Trainers” methodology.
+More than 65 top managers have been trained to deliver more
+than 200 sessions of a three-hour business ethics workshop.
+At the end of 2015, more than 1,500 Grade E managers had
+followed one of the sessions. This represented more than 35%
+of the target population at this date.
+
+9
+
+2.4	 Raising Concern Procedure
+The Code of Business Ethics provides that any of our people faced with a question or issue involving ethics or compliance
+should discuss it first with his/her local manager. If the issue is not resolved by the manager, or if the employee is not
+comfortable discussing the matter with his/her manager or if other procedures for dealing with individual grievances are not
+applicable, they may use the dedicated Raising Concern Procedure (RCP). This is a dedicated procedure for requesting advice
+and raising concerns.
+Our people may in this way seek advice and guidance on appropriate action from the local General Counsel - Ethics and
+Compliance Officer or even directly from the CECO in Paris. In operation since late 2013, the RCP is applied on a case-by-case
+basis in 39 countries where the Group operates, in accordance with applicable legislation.
+
+Ethisphere’s World’s Most Ethical Companies
+In March 2016, Capgemini was named one of the World’s Most Ethical Companies by the Ethisphere Institute for the fourth
+consecutive year and for the first time has been included in the Standard Ethics index. These awards recognize our longstanding
+commitment to company-wide ethical leadership, compliance practices and corporate responsibility. It also highlights our
+commitment to leading ethical business standards and practices, ensuring long-term value to key stakeholders around the world
+including clients, our people, suppliers and business partners.
+
+“We are delighted to be recognized, for the
+fourth year running, as one of the Word’s Most
+Ethical companies by the Ethisphere Institute.
+The intelligence explosion to come requires
+organizations in the IT and consulting industry
+to put ethics at the top of their business
+agenda. While future technological capabilities
+are hard to predict, organizations will certainly
+require robust ethics to navigate new waters
+wisely. Capgemini’s seven core values are
+a valuable competitive asset and play a vital
+role in how we contribute today to the world
+of tomorrow – in this respect, a solid CR&S
+program contributes to sound ethics.”
+Philippe Christelle,
+Chief Ethics and Compliance Officer
+
+10
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+3.	
+ENVIRONMENTAL 					
+	SUSTAINABILITY
+We are committed to understanding, measuring and reducing our
+environmental impacts.
+We recognize that the business services we provide have an impact on
+the environment. We work hard to reduce this impact by saving energy
+and reducing waste, as well as by reducing business travel. We also
+work to raise employee awareness of the critical issues related to the
+environment.
+
+2015 Highlights:
+Capgemini achieved ISO 14001 certification covering
+Capgemini North America, Sweden and Capgemini
+France, (extending coverage to include operations in
+eleven countries) bringing the total coverage to 76%
+of our Group headcount;
+
+We were named as a winner in the Golden Peacock
+Awards for Sustainability, for managing natural
+resources and conserving electricity and water in
+Capgemini India; and
+
+Total emissions across the Group have
+decreased by nearly 4%.
+
+11
+
+The identification of Capgemini’s material environmental impacts has resulted from the materiality assessment (as described
+earlier) and local initial environmental reviews (IERs) as part of country ISO 14001 certifications. Identification of other
+material issues have emerged through local assessments, such as an independent Climate Change Risk Assessment in
+the UK and through the CO2 performance ladder program and Multi Year Program (MYP) in the case of the Netherlands.
+Whereas the materiality assessment highlighted the importance of climate change to our stakeholders and the need to
+reduce our carbon footprint, the IERs provided greater granularity relating to these impacts, including:
+
+Energy
+Consumption
+
+Business
+Travel
+
+Office
+Waste
+
+Supply
+Chain
+
+Business
+Operations
+
+As a Group, Capgemini remains cognizant of the importance of climate change including the responsibility of the business
+to do our part in limiting global temperatures to below a two degree Celsius rise and potential implications to our business
+including energy security. Our efforts to reduce and minimize impacts through our energy use, waste management and
+business travel continue across our Group through our maturing Environmental Sustainability program. During 2015, business
+travel was identified as our largest source of carbon (accounting for 52% of our emissions).
+We are also committed to identifying and complying with all local and international legislation and other relevant requirements
+relating to this impact in the various geographies in which we operate. Our belief that environmental responsibility drives
+shareholder value provides the impetus to go beyond simple environmental compliance. It allows us to provide clients with new
+services and help them with their own challenges, while enabling us to improve our own efficiency and reduce operational costs.
+The implications of climate change present risk and also opportunity throughout our business. For example, we are aware and
+mitigate against the risk posed by extreme weather events at our data centers ensuring our clients have continuous service no
+matter the weather conditions. We also recognize the opportunities, both current and potential, to use technology to assist our
+clients with their own climate change challenges.
+
+3.1	 Group environmental policy
+The Group Environmental Policy, endorsed by Chairman and CEO Paul Hermelin, sets out the measures that all countries are
+expected to take in terms of the environment. It reinforces our commitment to respecting the environment and the continual
+improvement of environmental performance across our global operations, specifically in the areas of energy, business travel and
+waste management. Water is an increasing expectation and as such related data is gathered and logged wherever possible.
+The Policy can be found at: https://www.capgemini.com/resources/group-environmental-policy
+
+3.2	 Group environmental management approach
+Throughout 2015, Capgemini continued to extend the scope of its environmental management systems with Capgemini France,
+Sweden and North America added to the list of countries with certification under ISO 14001. This certification increases the
+percentage of operations covered by the standard to nearly 76% measured by headcount.
+Germany, Finland, Poland and Sweden Sogeti will start their certification journey in 2016.
+Capgemini’s most material environmental impacts result from our use of energy (in both offices and data centers), as a result of
+business related travel and from the disposal of office waste. These impacts, together with smaller impacts such as from water
+consumption and fugitive air-conditioning emissions, are measured and reported as part of our sustainability accounting and
+reporting processes. Other environmental impacts, such as those on bio-diversity and noise pollution, while regularly reviewed,
+are not currently considered significantly material to our operations and consequently are not discussed further in this report.
+
+12
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+Our Environmental Impacts:
+While certain local variations may exist, the Group’s main environmental impacts are shown below:
+
+52%
+
+- Business Travel
+
+The international and domestic business travel we undertake, by road, rail, air, and from staying
+in hotels, all consume fossil fuels which contribute to greenhouse gas (GHG) emissions.
+Tackling this remains a major challenge for our industry, which is reliant on the mobility of its
+people in order to best utilize their skills and experience in serving customers worldwide.
+We continue to take advantage of opportunities created by remote technology solutions such
+as video conferencing. We have also improved remote collaboration tools to facilitate remote
+working and allow greater flexibility. We are progressing the global roll out of our ‘TravelWell’
+program which takes holistic view on travel, focusing on safety and wellbeing, as well as
+supporting our people to make smart and sustainable travel choices.
+
+47%
+
+- Energy Consumption
+
+Our most direct environmental impact comes from the consumption of electricity, gas and oil to
+light, heat and power our offices and data centers.
+Data centers are particularly energy intensive due to the high level of IT equipment to be
+housed, powered and cooled.
+
+>1%
+
+- F-Gas, Waste and Water
+
+The man made gases from our use of air conditioning units are known as F-gases and carry
+a significant global warming potential. The associated emissions from a number of these
+gases are included in our overall emissions (as per the Kyoto Protocol), with the remaining
+identified gases (outside the Protocol) also identified and reported separately within the data
+tables at the end of this section. The material impact of our usage is low in comparison
+with emissions from travel and energy.
+Much of the waste that the Group produces is generated by office consumables and packaging.
+Capgemini aims to minimize the amount of waste that is sent to landfill by promoting the
+development of recycling facilities. We also work with our people and key suppliers to reduce the
+overall amount of waste generated on our premises by our daily operations.
+We ensure that all electronic equipment is recycled in accordance with local legislation.
+Water use is not considered a material issue across the Group - however, within certain key
+countries such as India and Brazil issues around potential water scarcity make this a more
+material impact.
+
+13
+
+3.3	 Environmental performance
+During 2015 our global carbon accounting and management service continued to cover 28 of our countries and over 98% of our
+global headcount. In addition, an estimate has been included to cover the remaining headcount based on a calculation of
+emissions per head.
+Our robust approach to environmental data collection and reporting is essential for meeting corporate reporting obligations, such
+as the French Grenelle II legislation, at Group level, and the Carbon Reduction Commitment legislation for Capgemini UK.
+Capgemini’s Carbon Accounting and Sustainability Reporting service is also available to clients.
+
+GROUP TARGETS
+Following the standardization of data collection and carbon management, our stable baseline of data has been set as 2014.
+Throughout 2015, the Group CR&S team formulated a series of global environmental targets in order to drive performance
+across the Group. These targets will be set to assist countries in adhering to Group Environment Policy and to also provide
+a framework within which to drive their own agendas at the local level. In 2016 these targets will be presented to the Group
+CR&S Board for final approval before publication.
+Locally set targets are in place in a number of our countries including (but not limited to):
+
+Capgemini UK
+•	 In the UK a number of targets were refreshed in
+2015 including an overall ambition to deliver
+annualized emissions reductions in our ecosystem
+of three times our own emissions by 2017, through
+the engagement of our services and programs
+with clients, suppliers and our people.
+
+Capgemini North America
+•	 Capgemini USA has committed to a reduction of 20% in
+the number of non chargeable flights in 2016; and
+•	 Capgemini Canada has set a target of a 20% reduction in
+the number taxi journeys undertaken in 2016.
+
+14
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+ISO 14001 program case study
+Since 2009 a growing number of countries have implemented an Environmental Management System (EMS) according to
+ISO 14001. We have seen how this structured approach towards continuous environmental improvement helps countries in
+driving results. By streamlining our internal capabilities concerning environmental management, we are able to move more of our
+operations in an increasing number of countries towards certification. We designed a Group EMS platform with all the necessary
+corporate and local processes and tools that make it possible to implement ISO 14001 in a very efficient and effective way,
+from the perspective of both time and budget. We are regularly complimented externally for the robustness of our EMS platform
+through the audit process.
+In 2014 Capgemini India, as a whole entity, was added to the group of ISO 14001 certified countries, in 2015 Capgemini
+Sweden followed that example with North America completing during December 2015, bringing the total number of country
+operations to 11. Other countries, like France, extended the scope of their existing certificate to further Strategic Business
+Units which, in total, brought the Capgemini coverage by headcount to approximately 76% across the Group (without IGATE).
+Work on an implementation in Germany also commenced in 2015. By 2017, we strive to have all of our ten major countries (by
+headcount) ISO 14001 certified. We recognize that there will be new challenges along the way, such as organizational changes
+as demonstrated by the recent IGATE acquisition. However, we remain confident in our approach.
+
+Capgemini Netherlands
+•	 30% reduction in emissions by 2016
+compared to 2011; and
+•	 to be CO2 neutral by 2020.
+
+Capgemini France
+•	 in support of the COP21, Capgemini
+France announced a target of a 20%
+reduction in overall carbon from our
+French operations by 2020.
+Capgemini India
+•	 30% reduction in emissions per
+employee by 2020;
+•	 20% reduction in water consumption
+per employee by 2017; and
+•	 zero waste to landfill by 2017.
+
+15
+
+3.4 Key performance
+indicators and methodology
+The environmental data presented in this our 2015 CR&S
+Update have been taken from the Carbon Accounting and
+Sustainability Reporting system and covers 28 countries
+(Australia, Belgium, Brazil, Canada, China, Czech Republic,
+Denmark, Finland, France, Germany, Guatemala, India,
+Ireland, Italy, Luxembourg, Mexico, Morocco, the Netherlands,
+Norway, Philippines, Poland, Romania, Spain, Sweden,
+Switzerland, the UK, the USA and Vietnam) covering 98% of
+Group headcount (excluding IGATE). We have estimated the
+data for the remaining operations by headcount, by applying
+a relevant uplift to each emission source to account for
+operations where we do not have data collection processes in
+place. This estimated data is provided within the environmental
+data tables labeled as ‘Non Reporting Countries’ and further
+explanations are given in the table footnotes within the
+Appendices.  
+
+The 2014 data, against which the latest 2015 data is
+compared, has been restated since our 2014 Registration
+Document, Annual Financial Report.
+These change are due to a number of significant
+improvements to the 2014 data, such as the inclusion of
+Scope 3 electricity transmission and distribution losses, the
+replacement of estimated Q4 2014 data with the now available
+actual data and the inclusion of an estimate for those non
+reporting countries where our operations are too small to be
+included in our formal reporting processes.
+
+Even where data is available for a particular country,
+it has sometimes been necessary to make a number
+of assumptions: where only partial data are available,
+extrapolation has been employed to estimate total annual
+impact. In general, fourth quarter data for 2015 was not
+available at the time of reporting and therefore has been
+extrapolated based on available data for 2015. Other
+extrapolations have included:
+
+OVERALL EMISSIONS
+
+•	 estimating 2015 data based upon available 2014 data,
+(according to documented methodologies related to
+differing circumstances and covering all aspects of energy,
+travel, water and waste management);
+•	 estimating emissions data based on available cost data
+(employing metrics such as the cost per kWh for electricity
+and gas; and cost per liter of diesel or per kilometer of
+travel); and
+•	 estimating emissions data for a facility based on data
+available for other facilities (estimating electricity usage
+based on area of the facility, estimating waste disposal
+& water consumption based on headcount of the facility).
+Further disclosure about the scope of data available and
+extrapolations employed is presented in footnotes under
+the data tables.
+
+16
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+This non reporting country estimate accounts for just over 28%
+of the difference between the 2014 figures presented in this
+report and those published in our 2015 Report. Travel makes up
+18% of the difference and the majority with around 53% of the
+difference is energy which now includes transmission losses.
+
+In 2015, Capgemini’s carbon emissions from operations
+representing 100% of the Group’s headcount (excluding
+IGATE) were 346,254tCO2e as calculated using the emission
+factors and methodology recommended by the UK
+Government’s Department of Environment Farming
+and Rural Affairs (DEFRA).
+Comparison with the 2014 data shows that total emissions
+across the group have decreased by nearly 4%. Within the
+same period, the emissions of our largest operations (India,
+Netherlands, UK, France and North America) have decreased
+by nearly 3% (from 285,085 tCO2e to 276,945 tCO2e) despite
+an average headcount raise of nearly 6%.
+Within this report, the 2014 emission figures have been restated
+from a reported 328,500 tCO2e to 360,191 tCO2e (a difference
+of 31,691 tCO2e). This is due to a number of significant
+improvements to the 2014 data, as described previously.
+For the purposes of carbon accounting per head, an average
+headcount over the year has been calculated for both 2014
+and 2015, which represents a more accurate per headcount
+calculation than using the December 2014 head count as
+compared to the December 2015 headcount. As a consequence,
+the headcount figures within this section may vary slightly from
+the absolute figures quoted in other sections of this report.
+
+2014
+
+2.51 tCO2e
+
+2015
+6.5%
+
+Decrease
+
+2.35 tCO2e
+
+In CO2 emissions per head
+
+Following the restatement of 2014 data, emissions per head
+were calculated as 2.51 tCO2e (against an average headcount
+of 143,471). In 2015, a reduction of 6.5% to 2.35 tCO2e per
+head (against an average headcount of 147,524) has resulted
+from our continued efforts to reduce our carbon footprint
+around the Group. As these calculations include those
+emissions associated with our data center operations, it is
+not truly representative of the emissions emitted according
+to headcount (including data centers).
+
+ENERGY CONSUMPTION
+
+Across the Group, total reported energy use has reduced a little under 2% from 370,425 MWh in 2014 to 363,658 MWh in 2015
+which, when you consider our headcount average rose just under 3% within the period, is an achievement attributed to the
+increasing focus on environmental management in an expanding number of our operations.
+Emissions associated with our use of energy have fallen a little over 6% in the same period due to a decrease in the use of diesel
+(31% reduction in associated emissions) and electricity (3% reduction in associated emissions) across the Group and a change
+in the emission factor for electricity as compared to 2014 across France, India, Netherlands, North America and the UK. This
+is reflected in the decrease of just over 6% (from 143,567 tCO2e to 134,537 tCO2e) in emissions related to energy use for our
+largest operating countries.
+Emissions associated with Energy
+Consumption have fallen by
+
+6%
+
+•	 in India, energy related emissions have reduced by around
+5% which is largely attributable to the reduction in 2015
+emission factors and also a  reduction in the use of diesel
+(gas oil) leading to a 30% reduction in associated emissions;
+•	 in France, the total energy consumption increased by 10%
+between 2014 and 2015 as a result of the addition of 29
+facilities (23 following the acquisition of Euriware in 2014).
+Accordingly, the associated emissions from energy have
+risen by 11% (due also to additional data available from
+Euriware facilities in 2015); during 2015, our operations in
+France procured 47% of electricity from renewable sources.
+As we are not yet able to report according to the latest
+However, increased purchase of renewable energy is not
+yet reflected in our reported emissions for France as we are
+not yet able to report Scope 2 market-based emissions.
+This will be a priority for 2016.
+•	 within the UK, total reported energy use in MWh
+has reduced by a little over 4%, primarily due to the
+rationalization of our facilities, with three offices and
+a section of one data centre closing during 2015.
+
+Whilst energy usage across the
+group has fallen by almost
+
+2%
+
+	 We also completed the final phase of a sustainability flagship
+project at our Aston office, installing solar photovoltaic panels
+on the roof, which complement the small solar thermal
+system already in place. During 2015, the panels saved over
+£5,700 in electricity costs and generated over 58,000kWh
+electricity. In addition, at our Merlin data centre in Swindon
+we improved the way the Building Management System
+controls air flow and cooling.  Emissions from energy use
+are showing a significant 11% decrease compared to 2014,
+partly due to the 5.2% decrease in the DEFRA grid average
+electricity emission factor for the UK;
+•	 the significant reduction in energy use (15%) and associated
+emissions (around 13%) in the Netherlands is largely as a result
+of the closure of offices in Voorburg and Amersfoort and a the
+move from our large Amsterdam facility to a much smaller
+facility within the city. This has in turn resulted in reductions in
+the emissions associated with district heating (22% reduction),
+natural gas (67%) and office electricity (17%) since 2014;
+•	 in North America, overall energy use decreased by nearly
+3% with an associated reduction in emissions.
+
+17
+
+Several countries including Netherlands, France and the UK purchased a significant portion of their electricity from renewable
+energy sources in 2015. This is not yet reflected in the Scope 2 emission calculations as location-based emission factors have
+been applied to all the data (rather than supplier-specific ones). Work has begun to engage with our energy suppliers across the
+Group to ensure The Greenhouse Gas Protocol revised Scope 2 emission guidelines can be followed from 2016 onwards.
+Our business model of collaborative working alongside our clients necessitates travel within our globalized markets. Business Travel
+has therefore been identified as one of Capgemini’s significant environmental impacts. However, we continue to invest in providing
+our people with alternatives to travel and initiatives to assist our colleagues in making informed decisions when travelling.
+Our award-winning UK TravelWell program began its global deployment in 2015 and is focused on ensuring that the right tools
+are in place to support client delivery, while reducing travel impacts. In the UK, TravelWell won the Sustainable Transport and
+Travel category of the Sustainability Leaders Awards in November 2014.
+As previously highlighted, the restatement of 2014 data showed an increase in travel emissions when converting the estimated
+Q4 travel available in the 2014 report, to actual data, which accounted for 5,850 tCO2e. A comparison of the restated 2014 data
+with the available 2015 data indicates that our business travel emissions of 180,227 tCO2e (which make up over half of our global
+carbon footprint) is just under a 2% decrease over the 2014 figure of 183,347 tCO2e. This is a particular achievement considering
+the overall average head count rise of just under 3% in the same period.
+
+TRAVEL EMISSIONS:
+2014
+
+183,347 tCO2e
+
+-2%
+
+2015
+
+180,227 tCO2e
+
+Decrease
+in travel
+emissions
+
+Despite a 3% average
+headcount rise during
+the same period
+
+At the country level, the main results were:
+•	 in India, emissions from travel increased by nearly 6% with
+a corresponding increase in average headcount of 8%
+within the same period;
+•	 business travel emissions have increased by just under 7%
+in France, which is also proportionate to the 7.5% increase
+in average headcount over the period;
+•	 in the UK, business travel emissions have reduced by 14%
+since 2014, due to a continued focus on reducing business
+travel. A genuine trend toward the use of smaller vehicles
+has been identified with a reduction in the use of medium
+and large petrol and diesel cars, especially within the
+company car fleet, and an increase in use of smaller vehicle
+types. Reductions in flights and hotels throughout the year
+have been observed with a reduction in long haul flights
+of over 20% (which has had the effect of countering an
+increase in short haul and domestic flights);
+
+18
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+•	 a sustained focus on reducing emissions from business
+travel in The Netherlands has contributed to a reduction of
+13% since 2014. This has been achieved by encouraging
+the use of public transport and implementing a new car
+lease arrangement to encourage people to switch to low
+emission company cars; and
+•	 business travel for North America has increased by 10%
+since 2014. During the period there has been a 4% rise in
+average headcount, however, the data collection has also
+been improved with data taken from the expense system
+in 2015, which more accurately captures business travel
+across the US and Canada.
+
+OTHER SOURCES
+
+F-gas emissions, waste tonnage (including general, recycled and e-waste) and water usage (consumption primarily for use in
+sanitary areas, kitchen facilities and some data center cooling) are also provided in the table below. Water data continues to be
+collected as available, with no assessment done to date regarding potential scarcity of supply across our global locations. Across
+several locations, we have invested in technology to reduce water use, including rainwater harvesting equipment at an office in
+the UK and an office in India and improvements to tap fittings and flush controls in several locations.
+Total waste tonnage (including general, recycled and e-waste) for 2015 was 3,281 tons, which represents a 9% decrease
+compared to 2014, due to a significant drive to reduce waste in our largest operations.
+The volume of measured water (used and recycled) is 851,316 m3.
+F-Gas emissions for 2014 have been restated to 754 tCO2e. During 2015 it was identified that a number of F-gases which are
+not covered by the Kyoto Protocol had been included in the totals in error. The data was therefore recalculated. When compared
+against the 2015 figure (1,456 tCO2e) this represents a 93% increase which we believe to be due to improvements in reporting as
+well as increases to the DEFRA emission factors for refrigerant gases.
+Further country-level detail is provided in the tables in appendix A and in the footnotes below them.
+
+Total Waste
+3,281 tons
+
+(Inc. General, recycled
+and e-waste)
+
+Total Water Usage
+851,316 m3
+(Inc. used and recycled)
+
+F-Gas Emissions
+1,456 tCO2e
+
+(this represents a 48%
+increase which we believe
+to be due to improvements
+in reporting as well as
+increases to the DEFRA
+emission factors for
+refrigerant gases.)
+
+19
+
+4.	COMMUNITY
+	ENGAGEMENT
+We seek to align our Community Engagement program with our core business practice.
+Harnessing the talent and skills of our people allows us to add maximum value to our
+communities, whilst giving our people the chance to use and develop their own skills in a new
+and challenging environment.
+Our community program continues to leverage the value of our wider networks, collaborating
+with our charity partners, clients and business partners to tackle important social challenges
+that our business cannot address alone.
+
+2015 Highlights:
+We launched a new Global Community strategy.
+Encompassing a range of initiatives, the program
+aims to positively impact the lives of one million
+people by 2020 through our global education and
+skills programs;
+
+Capgemini acquired IGATE, who, with their
+established ICare community program closely align
+with and strengthen our CR&S focus particularly
+pertaining to education and skills;
+
+In our internally run Global Community Engagement
+Awards, 131 entries were received from 19 countries,
+with over 9,000 of our people voting in the ‘People’s
+Choice’ award; and
+
+We invested a total of € 2,124,000 in local
+communities across the globe.
+
+20
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+“Community Engagement is a strong and long-standing
+commitment for Capgemini. I am always impressed by
+the passion of our volunteers and the energy of our teams
+who are doing incredible work in their communities.”
+Paul Hermelin
+Capgemini Group Chairman & CEO
+
+OUR COMMUNITY
+ENGAGEMENT PROGRAM
+Our Community Engagement program is about leveraging the power of our people and the
+expertise of our business to make a positive impact on the communities in which we live and work.
+
+OUR GLOBAL COMMUNITY
+PRIORIY IS TO IMPROVE:
+EDUCATION
+
+SKILLS
+
+WE AIM TO POSITIVELY IMPACT THE LIVES OF
+1 MILLION PEOPLE BY 2020
+WE WILL ACHIEVE THIS
+THROUGH OUR
+PEOPLE
+
+We support the charitable efforts of our people,
+through our internally run Global Community
+Engagement Awards.
+
+PARTNERS
+
+We work with strategic charity partners to
+deliver our programs:
+
+Our commitment to education and skills not only helps the next generation, but is also a key contributor to economic growth
+and wellbeing around the world. We believe that we are contributing to reducing the potential longer-term skills gaps within our
+sector. Our strategic aim is to provide skills and expertize to the communities in which our people live and operate, in such a way
+that those communities, and the individuals living within them, are assisted to develop and grow. Our Community Engagement
+program delivers value through volunteering, fundraising, donations and pro bono work. we are making a positive impact in on.
+Our intention is to provide as many opportunities as we can for our people to engage in activities for which they have passion
+and commitment. We embed our Community Engagement program within our business lines and client assignments. We
+measure and share this commitment with our people, our partners and our clients through various communication channels
+such as this report, our Capgemini website, our internal intranet (Talent) and the annual Group Employee Survey.
+
+21
+
+4.1	 Our global initiatives
+
+Our professional services business, Sogeti, continues to
+provide practical IT assistance to PlaNet Finance, and has
+done since their creation in 1998. PlaNet Finance is an
+international non-profit organization focused on enabling
+those in poverty to access financial services in order to bring
+about sustained improvements to their living standards.
+Sogeti’s assistance, comprising of technical expertise and
+critical IT systems support, has enabled PlaNet Finance to
+focus on their core business of providing financial inclusion.
+Sogeti manages PlaNet Finance’s computer systems by
+hosting computer applications including intranet, electronic
+messaging, and online training, and provides services related
+to human resources.
+
+Since the beginning of our partnership
+with MicroWorld
+
+1,662
+
+micro entrepreneurs’
+projects have
+been funded
+
+In addition, in late 2011, Capgemini and Sogeti launched
+a dedicated website, in association with PlaNet Finance’s
+microcredit platform, MicroWorld, to promote the growth of
+micro-credit in the most disadvantaged countries. This site
+provides a secure platform that enables our people to finance
+micro-credit projects around the world in the form of online
+loans to socially responsible projects.
+
+Supported by
+
+In 2012, we launched the MicroWorld platform in France,
+Ireland, the Netherlands, Sweden, Norway, Denmark
+and Germany, with North America joining in 2014. Since
+the beginning of our involvement, a total of 1,662 micro
+entrepreneurs’ projects have been co-funded, with loans
+amounting to €133,790 from more than 1,400 members.
+We are currently working with MicroWorld to enlarge
+the scope of support that our people can offer through
+the platform, via skills sharing, tutoring, mentoring and
+volunteering opportunities and as a result, hope to increase
+the number of potential beneficiaries.
+
+With loans
+
+22
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+more than
+
+1,400
+
+members
+
+amounting to
+
+€133,790
+
+Since 2005, Capgemini has been working with the Naandi
+Foundation on the “Nanhi Kali” program, which focuses
+on supporting the education of girls from disadvantaged
+backgrounds in India. The program provides academic,
+material and social support, giving girls access to quality
+education and working with parents and local communities
+to break down cultural barriers to gender equality. In
+2015, Capgemini people from 11 countries contributed
+to the support of 5,502 school girls. Since 2007, 11 of
+Capgemini’s countries of operation have supported 67,992
+school years of education.
+
+Through our partnership with Naandi and our commitment to
+other community programmes aimed at improving education
+and skills across the world, we seek to align ourselves with
+Goal four of the UN Sustainable Development Goals. In the
+UK our focus on working with those currently outside of
+education, employment or training demonstrates our passion
+for lifelong education opportunities and for reaching those who
+have been cut-off from mainstream education services.
+
+SDG Goal 4 – Education –
+“Ensure inclusive equitable quality
+education and promote lifelong
+learning opportunities for all”
+
+23
+
+4.2	 Global Community Engagement Awards (GCEA)
+In 2014 we launched the Global Community Engagement Awards to champion, recognize and celebrate centrally the local
+success of our people, who go above and beyond to make a difference to their communities, adding value to our brand and to
+our business. The awards operate under five categories:
+•	
+•	
+•	
+•	
+•	
+
+Volunteer Initiative of the Year
+Best Fundraising Award
+Community Innovation Award
+Client Collaboration Award
+The People’s Choice Award
+
+In 2015:
+
+131
+
+Entries
+received
+
+The Global Community
+Engagement Award
+entries included:
+
+Brazil: We make children’s dreams come true (Irene Barella)
+Every year, post offices in several cities in Brazil receive letters from
+children with wishes for Christmas gifts. The post offices in turn make
+these letters available to people who want to help and fulfill these
+wishes. Capgemini Brazil participated in the initiative for one month
+during 2015, with volunteers from each business unit, across all our
+Brazil offices, collecting letters from the post office every day. The
+letters contained many different wishes, from childrenasking for a toy or
+a doll to one child asking for a job for their father.
+
+24
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+19
+
+Countries
+represented
+
+9,000
+
+People voted in the
+‘People’s Choice
+Award’
+
+Finland: Clean Baltic Sea: Tanker Safety Program, Enhanced
+Navigation Support System (ENSI) to Oil Tankers (Ilkka Kankare)
+Since 2008, volunteers from Capgemini Finland have given their time
+and expertize to an initiative to save the Baltic Sea: The Tanker Safety
+Program spearheaded by the John Nurminen Foundation. The scope of
+our volunteers’ work includes planning, facilitation and documentation
+of several significant workshops, drawing up the requirement
+specifications for two digital services, and offering help with expert
+reports, service demonstrations, as well as the renewal of the
+Foundation’s customer register. In 2014, the Foundation highlighted in
+their annual report the invaluable partnership with Capgemini and our
+pro bono work which has continued into 2015 with the facilitation of
+strategy workshops for the organization.
+Poland: RoboCap - Computer Science and robotics workshops
+for children (Piotr Smyk)
+A group of IT engineers from Capgemini Software Solutions Center
+Wrocław in Poland arranged Robocap, a series of science and robotics
+workshops for children. The workshops were delivered to children and
+tutors and were held in Capgemini offices, a hospital, a school and an
+orphanage. To help address the gender imbalance in STEM subjects
+(science, technology, engineering and maths), 50% of the places in each
+workshop were reserved for young women.
+
+India: IGATE: Summer camp with ICARE (Sumit Babu)
+ICARE has been running within our IGATE function since
+2013, before the US-listed organization was acquired by
+Capgemini in 2015. The initiative conducts summer camps in
+urban India. These summer camps are for children with
+extreme low income backgrounds, from working class families
+and studying in Government schools where extra-curricular
+activities are not given their due importance. The summer
+camps utilize the children’s vacation time by providing a fun
+and innovative way of learning, instilling values and creating an
+awareness of social issues. In 2015, ICARE volunteers and
+IGATE CR&S teams conducted these camps across seven of
+our locations in India where IGATE operate.
+
+Australia: Sociable Charitable People
+Capgemini colleague, Anthony Woods developed ‘Sociable Charitable People’,  a group for people who enjoy volunteering in
+a social atmosphere. The group endeavors to provide a single channel in which potential volunteers may browse, select and plan
+the time they wish to donate. Anthony came up with the idea of using an existing Meet up platform to help provide a non-invasive
+and public forum in which volunteers, like him, can find and participate in fun volunteer opportunities. The group currently has
+over 190 members and provides volunteers to dozens of charitable events. http://www.meetup.com/SociableCharitablePeople/
+
+25
+
+4.3	 Other national initiatives
+Capgemini India
+
+In December 2015 heavy rains and subsequent flooding devastated Chennai, India, affecting
+many of our colleagues and their families. In order to support and raise funds to assist those
+affected, our Global Business Services Cookbook was organized by country and delivery
+center, containing a collection of 150 wonderful recipes sent in by our Business Services
+colleagues from all over the world. This little book demonstrates the generosity, the spirit of
+sharing and the rich diversity of our people who work together every day across the world in
+a strong spirit of camaraderie and collaboration.
+Capgemini India has developed a comprehensive program of work to touch lives in the
+communities in which we operate. The program covers the areas of education, environment,
+employment and emergency response. The program includes initiatives such as:
+
+Education
+
+Environment
+
+Employment
+
+Emergency
+Response
+
+•	 ‘Enlight’, a Capgemini
+scholarship program
+for girl child education
+focused on disadvantaged
+backgrounds;
+
+•	 Partnering with
+a municipal co-operation
+to start two waste
+recycling units in Mumbai
+and Bangalore; and
+
+•	 Initiating employability
+centers across nine
+locations providing skills
+based training aligned to
+market requirements; and
+
+•	 Capgemini scholarship
+for technical and medical
+education for 90 young
+people pursuing a career
+in engineering and
+medicine;
+
+•	 Partnering with WWF
+to set up a digital
+resource center
+providing a platform
+for environmental
+education awareness and
+knowledge sharing.
+
+•	 Initiating five centers
+for young people with
+disabilities providing
+training towards economic
+empowerment.
+
+•	 Providing immediate
+relief following flooding
+in Jammu Kashmir, the
+earthquake in Nepal and
+flooding in Chennai where
+many of our people were
+affected.
+
+•	 School adoption projects
+across 90 schools in nine
+locations; and
+•	 12 digital literacy
+centers were set up to
+empower and educate
+communities including
+building awareness of
+relevant governmental
+entitlements.
+
+26
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+Capgemini France
+
+In Capgemini France around 300 of our people are engaged in the project Passeport Avenir,
+which provides voluntary mentorship through associations with engineering or management
+schools and universities for individual student coaching. Over 300 young people have been
+supported since the scheme’s launch, to develop their professional skills and employability.
+
+Capgemini UK
+
+Capgemini UK have been patrons of the Prince’s Trust since 2008, helping the UK’s most
+disadvantaged young people into employment. Our people continue to deliver a wide range
+of activities in support of the Trust including holding the annual Capgemini Golf Day, hosting
+a Million Makers Challenge and cycling the Palace to Palace bike ride. In 2015 we announced
+a new Digital Partnership with the Trust with an aim to change the lives of 600 young people over
+four years by teaching the skills that they need to develop a career in today’s digital economy.
+
+Capgemini North America
+
+Annually since 2012, colleagues from over 20 locations across Capgemini North America unite
+and serve in their local communities. Branded ‘Capgemini Cares’, these events and projects
+are identified by local teams and have included everything from supporting local food banks
+and cleaning up parks to assisting local homeless shelters. In North America, Capgemini
+Consulting completed a pro bono assignment for the international cleft palate charity, Smile
+Train, focused on improving the efficiency of their worldwide operations. The impact of the
+assignment, supporting Smile Train’s goal of delivering one million cleft lip and palate surgeries,
+was recognized by Consulting Magazine with the project receiving their Excellence in Social &
+Community Investment Award.
+
+Capgemini Germany
+
+Capgemini Germany is actively involved in several projects to support the refugees within this
+region. Activities include collecting clothes and donations for refugees living in emergency
+accommodation, making Christmas gifts for underage refugees living in a children’s home
+in Berlin and offering internships for students of Kiron University, which is an open university
+for refugees. Capgemini Germany is currently leading an initiative which leverages our digital
+expertise and aims to create a more effective interface between politicians, administration,
+NGOs and IT companies. This project links with other members of Initiative D21 which is
+Germany’s largest partnership between policy-makers and businesses, working to shape and
+develop the digital society. In addition, we are participating in recruitment activities on platforms
+such as www.workeer.de, which offers opportunities for employment to refugees. All projects
+are intended to support the welcome and integration of refugees, by helping them gain access
+to education, internships or employment.
+
+27
+
+5.	PEOPLE CULTURE
+At Capgemini we understand that business value cannot be achieved through technology
+alone. Our success, brand identity and client experience are determined by the talents of our
+people and are underpinned by our “People matter, results count” ethos.
+“People Culture” is the term we use to encapsulate our focus on providing a diverse and
+inclusive workplace culture, which offers people the opportunity to build successful and
+rewarding careers. We place the health, safety and wellbeing of our people among our top
+priorities and actively support their professional development.
+
+2015 Highlights:
+The percentage of women in the workforce continued
+to rise in 2015, increasing by 0.7 point over 2015 to
+reach 29.5% at year end.
+
+We developed an unconscious bias training program
+which was attended by approximately 200 of the
+Group’s senior executives;
+
+Received a number of Diversity & Inclusion
+awards including, The Times Top 50 Employers
+for Women in the UK and Best Diversity
+Employer’s in Canada; and
+
+We now have local women’s networks in Australia,
+Belgium, France, India, Italy, the Netherlands, North
+America, Spain and the UK.
+
+28
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+5.1	 Diversity and Inclusion (D&I)
+
+Over 180,000 people
+
+In more than 40 countries
+
+Representing nearly
+110 nationalities
+
+With over 180,000 people, Capgemini is proud to represent around 110
+nationalities across more than 40 countries. As such, we are committed to
+creating an inclusive workplace culture that provides our people with the
+opportunity for a successful and rewarding career and ensures their wellbeing. We believe that it is the factors which make people different, which
+offer valuable sources of innovation and creativity, enabling us to generate new
+ideas, anticipate market trends and be thought leaders in our chosen markets.
+Diversity and inclusion (D&I) has always been an important part of our
+corporate culture, shaping how we operate and work with our stakeholders,
+suppliers, clients and our colleagues around the world. This diversity and
+inclusion has many facets including gender, disability, ethnicity, age and
+lifestyle. At Capgemini we also include broader dimensions of diversity such as
+experience, personality, communication and working styles – together known
+as “diversity of thought”. We believe that the diversity of our people can offer
+real competitive advantage. The Group seeks to build a workforce embracing
+these wide varieties of profiles, experiences, and cultures, enabling Capgemini
+to better understand the requirements of end users and partner more
+collaboratively with our clients. Our commitment is enshrined within our Group
+Diversity and Inclusion Charter (see Appendix C).
+
+Unconscious Bias
+
+Being an employer of choice for talented men and women is vital if we are to unleash the full potential of our Group and deliver
+the best results for our clients. Ensuring diversity in gender helps ensure equal growth opportunity and the right working
+conditions for all our people, such that they can achieve their career aspirations and personal ambitions regardless of their
+gender. Capgemini believes in awarding opportunities to deserving individuals based on merit with no discrimination, be it
+negative or positive.
+A number of initiatives are in place around the Group to encourage female talent:
+
+Women@Capgemini workshops
+
+During November 2015, Isabelle Roux-Chenu (Group General Counsel) hosted a Women@Capgemini workshop to further the
+initiative, which since 2012 has focused on gender balance across the Capgemini Group. A number of male champions were
+welcomed to the workshop from different parts of the Group. The Women@Capgemini team proceeded to set objectives and
+scope for the four pillars of Recruit, Retain, Develop and Change Corporate Mentality. Short and long-term plans were presented
+with an ability to modify across Capgemini to cater for local implementations.
+
+Mentoring
+
+Capgemini has launched a mentoring program to provide a pathway to help the current and next generation of women
+employees rise to the uppermost levels of organizational leadership. The program focuses on high-potential women, who after
+having proven their potential and taken charge of their career aspirations, are now looking to grow into leadership roles. It aims
+to help mentees set goals, build self-esteem, learn strategies for dealing with work pressures and hone leadership and problem
+solving skills. Capgemini is also partnering with the Cherie Blair Foundation in a global external mentoring program to support
+women entrepreneurs in developing and emerging economies.
+
+29
+
+Capgemini India
+
+In India, our initiative WinspirE, created four years ago is
+aligned to our Women@Capgemini program to foster equal
+opportunities for women and men. This program operates
+under four pillars, each driving a specific agenda: recruit,
+retain, develop and institutional awareness. In 2014 our efforts
+were recognized by the Women in Leadership Forum (WILL),
+with Capgemini India winning the ‘WILL Best employer for
+Women’ award. In 2015 Capgemini India underwent voluntary
+benchmarking by WILL to evaluate its diversity effort, which
+focuses on building gender balance at leadership level.
+
+“Data is a remarkable way of bringing facts to
+the table. The benchmarking exercise showed
+us that we were heading in the right direction,
+but also identified that there was a lot more
+to be done.”
+Gayathri Ramamurthy
+Diversity Lead
+Capgemini India
+Capgemini France
+
+Two mandatory e-learning modules on diversity and
+recruitment have been in place in Capgemini France
+since 2014. In addition, a partnership of mentoring with
+the University “Pierre and Marie Curie” has been in place
+since 2014, with 25 women students benefiting in 2015
+from the support of 25 Capgemini women. This support
+included internships and developing an all year round school
+professional project, to prepare the students for entering the
+professional world.
+Capgemini and Sogeti France have also been a signatory
+to the “Charte de la Diversité dans l’Entreprise” (French
+corporate diversity charter) since 2006, and continue to
+actively participate in “IMS Entreprendre pour la Cité”,
+an organization responsible for promoting the charter
+to increase diversity in France.
+
+30
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+Capgemini Canada
+
+Capgemini Canada has been recognized by Canada’s Best
+Diversity Employers in both 2015 and 2016, acknowledging
+our exceptional workplace diversity and inclusiveness
+program. This competition recognizes successful diversity
+initiatives in a variety of areas, including programs for
+employees from five groups: (a) Women; (b) Members of visible
+minorities; (c) Persons with disabilities; (d) Aboriginal peoples;
+and (e) Lesbian, Gay, Bisexual and Transgendered/Transsexual
+(LGBT) peoples. Of particular note was Capgemini’s
+Unconscious Bias training.
+
+Capgemini UK
+
+In April 2015, Capgemini UK was named in The Times Top 50
+Employers for Women for the fourth year consecutive year,
+demonstrating our ongoing commitment and efforts to achieve
+gender equality in the workplace. The unranked alphabetical
+list published in partnership with Opportunity Now, (the
+Workplace Gender Campaign by Business in the Community
+(BITC) contains organizations who are leading on workplace
+gender equality.
+Capgemini UK also has in place a series of diversity targets:
+
+To increase the proportion
+of women to 30% by 2020.
+(Against 2013 baseline)
+
+To increase the proportion
+of senior women to 20%
+by 2020
+(Against 2013 baseline)
+
+To ensure that 40% of
+graduate and apprentice
+hires are women by 2017
+(Against 2013 baseline)
+
+5.1.2	Inclusion
+In Capgemini, we believe that diversity is the mix of people across every dimension of race, religion, ethnicity, backgrounds,
+ability, personality, language, sexual orientation, gender and so on, and that inclusion is how we make this mix work.
+In all countries of operation, the Group not only complies with local labor legislation and international labor regulations but our
+own charter championing diversity and inclusion. In line with our commitment to the principles of the fundamental conventions
+on the labor standards of the International Labour organization and the Principles of the 1948 Universal Declaration of Human
+Rights including the UN Guiding Principles on Business and Human Rights, we ensure that:
+•	
+•	
+•	
+•	
+•	
+•	
+
+talented individuals from different backgrounds are recruited and retained;
+individuals are shown respect and treated fairly;
+our working environment is free from all forms of harassment or abuse;
+our people are encouraged and helped to keep a good balance between work and private life;
+the health and well being of our employees is supported and encouraged; and
+a sound and fair working environment is provided, where our people can develop and flourish.
+
+Capgemini will not tolerate any form of discrimination in the workplace on any grounds. Discrimination can take two forms, direct
+and indirect. Direct discrimination occurs when someone is treated less favorably, for example on grounds of their gender, race,
+age, disability, religion or sexual orientation. Indirect discrimination occurs when a condition or rule is applied which disqualifies
+a large proportion of one group from an activity and there is no genuine reason for imposing that condition. In all countries where
+the Group is present, if any of our people feel discriminated against in any form, the “grievance escalation process” enables the
+escalation of any complaint. Each claim is investigated fully and disciplinary action can be taken if discrimination is proven.
+
+5.1.3	 Monitoring Diversity & Inclusion
+In 2015
+Total
+
+29.5%
+Of total headcount
+were female
+Recruitment
+
+32.1%
+Of recruits were female
+Promotion
+
+23.2%
+of Vice-President
+promotions were female.
+
+Monitoring is carried out to better assess and understand the position of women within the
+Group, in compliance with applicable legislation, i.e. the percentage of females recruited,
+leaving and promoted.
+Females represented 32.1% of total recruitments (excluding IGATE) in 2015 (rate of
+coverage of 99.5%), an increase ratio versus 2014 by 1.5% mostly due to India (where the
+bulk of recruitment is) with a ratio improving by 1.9pts at 32% and France (+1.4pts at 24%).
+The percentage of women recruited is higher than the female ratio of the Group, which
+contributed to the rise in the percentage of women in the workforce at end-2015. The
+Benelux region has improved its ratio by more than 6pts till 2013 but remains well below
+the Group level.
+Nevertheless, the turnover rate total (voluntary and involuntary leavers included) for females
+was marginally higher (at equivalent scope to hires) than for the total population.
+At the end of 2015, 23.2% of employees who had been promoted to the role of “Vice-President”
+were female, a higher percentage than last year (+4.4pts). We have a clear picture of our
+female talent pool thanks to talent reviews which are undertaken throughout the Group
+and which range from interviews with the Group CEO of the most talented employees
+to reviews which take place at the Business Unit level. All Business Units are asked to
+ensure that they build a female management talent pool. We are also leveraging leadership
+through local management training courses, mentoring by senior executives, and, lastly,
+increased visibility of female talents in order to improve the gender-balanced of the
+Vice-President community.
+
+31
+
+5.2	Disability
+It is important that at Capgemini, those of our people with
+a disability are not hindered or held back in anyway, but
+have the same opportunities for professional and personal
+development as all our people. Being an employer that is
+open to people of all abilities not only works toward making us
+an attractive and inclusive company to work for, but ensures
+a wealth of available talent.
+
+Capgemini France also supports several initiatives and
+partners in facilitating the occupational integration of disabled
+employees andhelping to break disability-related stereotypes,
+including:
+
+In France, an active employment policy for people with
+disabilities has been in place since 1996. In 2005, this
+approach was boosted with the creation of “La Mission
+Handicap”, a specific program dedicated to the inclusion
+of disabled people. On October 31, 2012 a new agreement
+was signed with employee representatives, which aims to
+increase the employability rate of disabled people through
+apprenticeships. This three year agreement has an annual
+budget of €3.5 million, and will focus onfive key areas:
+
+•	 Accede which supports access to the internet for visually
+impaired people;
+
+•	 increasing the employability rate of disabled people from
+2.4% to 2.9% in 2016;
+
+In 2015, Capgemini France also greatly increased our
+procurement from organizations who support people with
+disabilities, increasing our expenditure to about €1.6 million..
+Key areas of progress include subcontracting of computing
+services to organizations such as Talaron Services and
+Arche SI (€200,000 in 2015). A framework agreement with the
+companies Elise and Nodixia also resulted in the recycling of
+paper, tumblers, D3E on all the French sites.
+
+•	 15% of the total budget will be used to develop
+apprenticeships for disabled people, supported by
+voluntary and certified tutors. In addition, within the
+framework of the HEducap project, Capgemini assists
+disabled students at baccalauréat level +2/3 by financing
+their studies to enable them to acquire a master’s degree;
+•	 supporting employees by adapting working conditions and/
+or providing financial assistance for specialist equipment or
+the acquisition or customization of a vehicle;
+•	 facilitating indirect employment for disabled people through
+sub-contractors, for example, a partnership with the GESAT
+network which handles the electronic management of all
+our personnel files; and
+•	 raising awareness through broader communication, to
+reduce stereotypes and improve understanding.
+The new agreement also includes some notable new
+dispositions, such as three more paid days off for employees
+who have a disabled child, or upgrading from four to eight
+days off for disabled people who need medical care.
+
+32
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+•	 Tadeo which provides sign language for deaf or hearing
+impaired people;
+
+•	 Capgemini is a founding member of Hanploi, which
+developed the Hanploi.com website dedicated to disabled
+people;
+•	 Arpejeh, which aims to improve access to training,
+qualifications and employment for young disabled people.
+
+•	 In India, Capgemini’s Disability Inclusion program featured
+in a research report conducted by Community Business
+on “Tapping a Pool of Disabled Talent in India”. The report
+positions Capgemini as an employer of choice for students
+with disabilities. The program continues to gain momentum
+year on year with over 200 people with disabilities finding
+rewarding employment with Capgemini, alongside the
+training and recruitment of 12 new candidates with a hearing
+disability in partnership with iPRIMED (Training organization).
+
+The program has four pillars:
+Accessibility: removing barriers to inclusivity, by ensuring accessible infrastructure and a register of grievances.
+Emergency evacuation processes have also been reviewed to ensure safe evacuation for people with disabilities
+at our Mumbai and Bangalore offices; Capgemini Kolkata offices are now also accessible for people with
+disabilities.
+
+Career: ensuring inclusion through recruitment, engagement, and development policies.
+
+Commitment: encouraging and creating employee awareness about employing people with disabilities, the
+use of assistance devices, challenging myths and the code of behavior in relation to disability, through a number
+of awareness and training programs.
+Communication: Spreading inclusion beyond the company, with clients, partners and other organizations.
+This includes the partnerships with industry bodies, NGOs and Disability Rights groups such as CII and
+NASSCOM and NCPEDP (National Center for Promotion of Employment for Disabled People). The company has
+also sponsored and participated in conferences organized by Choice International, a UK-based NGO and the
+national conference organized by the NCPEDP, India’s largest disability organization.
+In 2015 Capgemini Poland continued to create a working environment adopted for people with disabilities by creating a model
+for recruitment, training and inclusion of those with disabilities. Following a successful pilot in 2014, Capgemini Poland now offers
+the necessary technology adaptations (such as enlarging visual software, adapted keyboards) andextensive assistance on joining
+Capgemini to help ensure equal opportunities within the workplace. Capgemini teams are supported with disability awareness
+training, witharound 100 of our people undertaking this training during 2015. In addition, Capgemini Poland is working with The
+Managers of the Future Foundation to drive forward this agenda within the Polish Business Services Sector.
+Number of people in the group with a disability in 2012-2015
+535
+
+2013
+2014
+2015
+
+428
+
+North
+America
+
+United
+Kingdom &
+Ireland
+
+3
+
+17
+
+Nordic
+countries
+
+Benelux
+
+123
+
+90
+
+Germany
+and Central
+Europe
+
+France and
+Morocco
+
+Southern
+Europe
+
+93
+
+Asia-Pacific
+and Latin
+America
+
+177
+
+India
+
+A disability is defined as anything preventing or limiting someone to participate in corporate, social life due to a long term or definitive
+reduction of his/her mental or physical capabilities. This covers both voluntary and legal declarations depending on the country.
+The coverage rate for the data above is 74.7% of year-end headcount including IGATE. In 2015, figures indicated that the Group
+employed 1,468 people with a disability of whom 36.4% are in the United Kingdom and 29.2% are in France. Following the
+launch of India’s program in 2012, 177 people with a disability are employed there. Group-wide, 422 more of our people are
+working with a disability than in 2011.
+
+33
+
+5.3	 Learning & Development
+Capgemini is a people-centered organization where we
+recognize that the quality of services provided to our clients
+depends on the excellence and motivation of our teams. We
+therefore invest in both personal and professional development
+and recognize the need for frequent updates to knowledge
+and skills in a fast-paced technology sector.
+Professional development is supported by our Career &
+Competency Framework, which is a performance appraisal
+and progression tool tailored according to the account specific
+needs of each of Capgemini Group’s businesses and Group
+functions. Our Learning & Development teams provide our
+people with a broad range of learning sources allowing them
+to further develop their capabilities.
+
+Our Approach
+
+Capgemini University’s vision is to support our people, bringing
+them together to develop their capabilities and achieve the full
+potential of our Group for our clients. It challenges, supports
+development, connects our Group and brings to life our values
+through formalized packages and cutting edge content using
+our Next Generation Learning (NGL) approach and Capgemini
+University’s Global Curriculum. In 2015 the University officially
+received its second, five year re-accreditation from the EFMD
+(European Foundation for Management Development). Capgemini
+University received its initial EFMD accreditation in 2009 and
+is the only Corporate University from the IT industry to have it.
+The accreditation is a mechanism for quality benchmarking,
+mutual learning and sharing of good practices where internal selfassessment is combined with an external review from experienced
+peers against a comprehensive set of rigorous criteria.
+Also in 2015, Capgemini University extended the relationship
+between Capgemini and the MaRS Innovation Network to
+develop digital and social learning interventions with business
+impact, and reinforce our capabilities in digital-age learning.
+Our NGL approach is a very practical focused approach which
+engages our people in business specific challenges
+and actions. The framework is based on developing three key
+attitudes needed to achieve excellence in learning:
+•	 ‘Do-Learn-Do’ – is about learning through action;
+•	 ‘Connect-to-Learn’ – which goes beyond team working
+and looks to the value which can result from collective
+contributions and networks; and
+•	 ‘Techno Fluent’ – to integrate technology in a purposeful
+way as necessary in both learning and in order to solve the
+challenges of our clients.
+Recognizing that our people learn in different ways, the
+learning and development approach is flexible to cater for all.
+
+34
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+Virtual Learning
+
+In order to reach as many people any time and anywhere,
+Capgemini offers our people a wide range of virtual learning
+opportunities:
+•	 E-learning modules offer self paced, web based learning
+through courses devised as part of the Capgemini Global
+Curriculum;
+•	 Virtual Classroom led by an expert instructor via web
+conferencing, allowing our people to come together virtually
+in six-week courses;
+•	 Facilitated virtual learning journeys (FVLJs) combine
+a mixture of asynchronous (self learning at a person’s own
+pace) and synchronous (instructor led) interventions; and
+•	 Virtual Campus (interactive virtual training environment)
+games, online books and assignments.
+Our virtual learning journeys have resulted in a number of
+benefits including:
+•	 The engagement and support of the learner throughout the
+program to ensure maximum certification success;
+•	 An ability to present a global program allowing a broad
+reach, catering for a range of experiences;
+•	 Minimal content development;
+•	 An increase in speed-to-market of skills enabling more
+efficient client support;
+•	 Availability of repeatable programs through the University;
+•	 Reduction in travel expenses and associated emissions;
+and
+•	 Flexibility in accommodating learning within a participant’s
+delivery schedule.
+The Group’s online learning management system,
+MyLearning, is open to all employees for informal, just-intime learning and for structured learning events. MyLearning
+contains all the Group programs and, for many regions, local
+curricula. In 2015, to deliver a modern digital-age learning
+experience for all Capgemini Group employees, we invested
+in a content and user experience enhancement upgrade of
+the MyLearning core platform. In addition, we implemented
+interactive search and filtering across the entire offering
+of the global curriculum. Our learning content can now be
+found and accessed anywhere and anytime, also through
+mobile devices.
+In 2015, Capgemini also introduced the use of MOOCs
+(massive online open courses) and Capgemini University
+released 77 new courses and 124 new virtual classroom
+sessions, in addition to new content coming from the Group’s
+alliance partners as well as Skillsoft.
+
+Les Fontaines and Campus Learning Events
+
+International learning events for talented people, within key communities, are also organized at our Group’s world-class campus,
+in Les Fontaines, Paris, France. This facility is highly sustainable with a focus on energy efficiency and waste reduction. In 2014,
+the campus had its European Ecolabel renewed. International Campus Learning Events are a powerful delivery channel to
+align, develop and deploy content in an accelerated manner. New or existing content is delivered in a consistent manner, which
+is then cascaded back to the regions and countries. Additionally, these events are an effective way to align and reinforce the
+engagement of our talented people within the Group, their Business Units, and their communities. These events align people
+to the Group ambitions, create a Group spirit and accelerate the deployment of key skills and content to our clients.
+All International Campus Learning Events organized by Our University are positioned as a tool for alignment and acceleration
+to achieve the Group’s ambitions.
+
+Local Learning
+
+The remainder of our learning through University learning programs is delivered locally by University Qualified facilitators (UQF).
+Key metrics
+In 2015, 96% of our workforce (excluding IGATE) took part in training schemes as part of the training path defined by the Group,
+using various channels. This represents a 7.6% rise when compared to 2014 and equates to 5.19 million training hours.
+The volume of training provided by the University was 3.3 million hours, representing 64% of total learning hours taken in the Group.
+Close to 38,900 employees (an increase of11% vs. 2014) were trained at our Global Campus, Les Fontaines, in France or locally
+in countries in which the Group is present, representing 1.17 million hours of training.
+The Group continued to develop its virtual training courses, increasing by 19% over the year, or 2.45 million hours (some of these
+hours are included in the 3.3 million University training figures). This channel now represents 47% of total training hours.
+Graph showing how many of our people were trained
+
+Learning & Development
+96%
+of our workforce took part
+in a training scheme.
+An increase of
+7.6% against 2014.
+
+Headcount Total
+
+119,707
+
+% unique Employee Trend
+
+125,110
+
+131,430
+
+143,643
+
+149,315
+
+108,608
+
+96%
+95%
+
+5.19 million
+training hours completed.
+
+38,900
+Employees were trained
+at our University
+– Les Fontaines.
+
+91%
+78%
+
+2010
+
+85%
+
+2011
+
+88%
+
+2012
+
+2013
+
+2014
+
+2015
+
+In H2 2015, more than 25,600 employees from IGATE have been trained
+which represent nearly 1.2 million hours (and a total of 1.6 million training
+hours full year)
+
+35
+
+6.	SUSTAINABLE PROCUREMENT
+Capgemini’s commitment to supplier relationship is reflected in its comprehensive set of
+guidelines on purchasing ethics, on the selection and management of suppliers.
+
+6.1	 Purchasing Principles
+At Capgemini we take seriously our commitment to be a responsible and ethical consumer. We acknowledge the
+ability that we have to instigate positive change by using our buying power. In our purchasing activities, the Group
+takes into account environmental issues, social impacts, human rights, and the fight against corruption. The
+ten key principles of the United Nations Global Compact guide Capgemini’s activities throughout our business.
+In other words, the Group is committed to ensuring that we only work with suppliers with ethical practices and
+which respect human rights.
+Our procurement procedures are based on the following principles:
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+
+treating suppliers fairly;
+selecting suppliers based on value, performance, price and sustainability;
+selecting suppliers in accordance with a justifiable and transparent process;
+preserving the confidentiality of supplier information;
+managing supplier risk;
+ensuring supplier contracts have clauses relating to ethical and sustainable procurement; and
+maintaining relationships with suppliers based wholly on competition.
+
+Supplier diversity and equal opportunity is encouraged: we aim to allow qualified small and very small businesses
+the opportunity to receive a share of the market. Our “eco-system” approach with major clients aims to foster this
+and level the entry barrier where practical.
+Our suppliers are expected to conduct their relationships with us and any of our clients, commercial partners
+and other suppliers in a fair and ethical way and in compliance with our core principles of sustainability. These
+principles apply both to the products and services provided, the suppliers’ activities and, where appropriate,
+to their downstream supply chains.
+Contractors’ and suppliers’ staff are expected to work according to the same Corporate Responsibility
+& Sustainability criteria as our own employees; in tandem, we apply the same health and safety and diversity
+criteria to contractors and suppliers as to our own employees.
+
+36
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+6.2	 Our Ethics & Sustainable Procurement Principles
+In 2015, Capgemini has developed its “Supplier Standards of Conduct & Compliance Management Requirements”. This
+document regroups all of the above principles and also reminds employees and suppliers that Capgemini operates to a
+“Purchase Order Mandatory” policy. All suppliers are requested to agree to the principles that are set out in this document prior
+to working with us. Should a supplier fail to respect these ethical and sustainability guidelines, Capgemini is then entitled to
+terminate the contract with the supplier.
+“Capgemini Supplier Standards of Conduct & Compliance Management Requirements” document is available here:
+•	https://www.capgemini.com/resources/capgemini-supplier-standards-of-conduct-compliance-management-requirements
+Other reference documents and actions can be found at the following addresses:
+•	 for ethics: http://www.capgemini.com/resources/our-ethics-for-you;
+•	 for CR&S and sustainability with SMEs: http://www.uk.capgemini.com/about/corporate-responsibility/business-information-forsmall-medium-enterprises.
+Furthermore, our suppliers have the opportunity to notify us of any known or suspected improper behavior in their
+dealings with Capgemini or by Capgemini employees or agents, by sending a message to the following email address:
+Supplierstandardsofconduct@capgemini.com which is accessed only by our Group Chief Procurement Officer and Chief Ethics
+& Compliance Officer.
+In 2015, Group purchases from its top one hundred and top ten suppliers totalled respectively €1,274 million and €478 million.
+The number one, top five and top ten suppliers represented 3%, 12% and 17% of Group spend, respectively. In 2016,
+Capgemini will further roll out our Supplier Relationship Management (“SRM”) approach with a clear focus on strengthening
+governance and performance management with top partners and suppliers.
+
+€ 478 million
+Top 10 Suppliers
+
+€1,274 million
+Top 100 Suppliers
+
+37
+
+7.	 CLIENT SERVICES
+We are dedicated to developing profitable and sustainable business by working with our
+clients to deliver value and innovation through our skills and expertise.
+Our clients benefit from our understanding of sustainability and our world-renowned business
+transformation capabilities. We deliver long-lasting value with tangible results. We take time
+to talk to our clients and make certain that their views are taken into account, and that where
+possible CR&S considerations are embedded into our service offerings.
+
+2015 Highlights:
+Our Merlin Data center in the UK achieved a PUE
+(Power Usage Effectiveness) ratio of 1.09
+
+38
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+7.1	 Enabling client transformation
+Clients are increasingly expecting their service providers to help them address their own sustainability challenges, for example,
+not only providing the most efficient business solutions but minimizing and avoiding detrimental impacts to the environment,
+communities and society in the process. As a provider of business transformation and consultancy services for our clients, we
+believe that we are well positioned to help with such challenges.
+Specifically, as an IT service provider and consultancy we have the opportunity to help clients reduce their own carbon footprint
+and wider sustainability impacts through the advice that we offer and the solutions that we design and deliver. Capgemini also
+recognizes that operational efficiency is a key driver in ensuring longevity for our clients, a driver that is often complemented by
+reduced carbon emissions.
+
+7.2	 Utilities to Energy Services (U2ES) Transformation
+Climate change is now a major driver of energy policy around the world. Many countries are taking action to mitigate climate
+change and prevent detrimental environmental impacts. As a result, utilities are faced with evaluating the long-term impact of
+reducing dependence on fossil fuels.
+The rise in availability, reliability and efficiency of renewable energy has made it possible for utility customers to significantly
+reduce their reliance on energy from traditional suppliers. Coupled with disruptive technologies such as “The Internet of Things”,
+Big Data and Data Analytics, intelligent battery technologies and mobile applications, the way customers interact with services
+and the way in which they are provided are being transformed.
+New technology is transforming factories, homes and offices around the world. New Wi-Fi enabled smart LED lighting and
+thermostats are enabling businesses and residences to be more energy efficient. Internet connected security cameras are
+making customers more secure and sensors attached to everything — HVAC, furnaces, hot water heaters, presses, mills
+and lathes to name just a few — are increasing equipment performance. Conference rooms are becoming smarter by adding
+intelligent lighting, occupancy sensors and software apps that show when a conference room is in use, whether the lights are on
+or off and what the temperature and humidity is.
+Distributed energy sources are carefully monitored, power generated, consumed and tracked within a facility and energy
+efficiency optimized. New data, data analytics and trends analytics capabilities allow all of these things to be constantly
+monitored and performance improvements made. With these changes come opportunities. Today’s utilities can embrace
+the forces revolutionizing the utility industry to mitigate climate change, defend against greater competition, offer new and
+innovative services to their existing customers, and greatly improve their operations or cost to serve. But to do this requires
+a transformation from utility company to being an energy partner as an energy services company. We call this U2ES
+Transformation – transformation from a utility company into an energy services company.
+At Capgemini we help our clients to shape a future position in markets, define a transformation strategy, prioritize specific
+needs, provide the right technologies and business partners to implement that transformation and develop new operational and
+business models. Our approach is value based, meaning Capgemini is committed to delivering proven benefits across the value
+chain: top line, bottom line and related KPIs.
+With our industry knowledge, a team of experts will work with leaders within our clients’ business to provide:
+•	 An upfront assessment of opportunities and a business case supporting a transformation;
+•	 A more detailed roadmap and business case (four to six weeks engagement) to shape the transformation with a clear
+Capgemini commitment on your results; and
+•	 Delivery of swift and sustainable results.
+
+Further information can be found at https://www.capgemini.com/utilities/u2es-transformation
+
+39
+
+7.3	 Smart Energy Services
+We provide
+Smart metering
+services to
+
+75+
+utility companies.
+Representing
+
+113 million
+customers
+and over
+
+23 million
+smart meters
+worldwide
+
+Capgemini’s Smart Energy Services (SES) provides the full spectrum of smart
+metering and smart grid solutions through leveraging best practices developed
+over the last 12 years working alongside the world’s leading utilities. As a
+result of following this strategy, investing and focusing in SES, Capgemini has
+established itself as one of the leaders among global consulting and technology
+firms in the advanced metering infrastructure (AMI) market.
+We have provided smart energy services to over 75 global utility clients
+representing 113 million metered customers actively engaged in smart energy
+programs and directly manage mass deployment programs for over 23 million
+smart meters worldwide.
+Our Smart Energy Services Platform (SESP) is used to support mass
+deployments and ongoing meter operations for over 7.5 million meters
+globally.
+Capgemini has an established global network of Smart Energy Centres of
+Excellence (COE). These COE’s provide leading innovation, content, process,
+and tools to support our smart energy programs. Our centres also provide
+leading industrialized services for integration, deployment, meter operations,
+network operations and solution architecture across multiple clients.
+http://www.capgemini.com/utilities/smart-energy-services
+
+7.4	 Merlin Data Center
+Forming a part of our portfolio of data centers, our Merlin data center continues to operate as one of the most sustainable data
+centers in the world. Based on state-of-the-art technology, Merlin was opened in the UK in 2010 to ensure clients’ systems are run
+as efficiently as possible with reduced emissions (compared with their own in-house systems). Sustainability has been at the heart
+of the project from the selection of its location, through its design and construction, to the day-to-day operations of the site.
+Committed to maximizing the resource efficiency of our existing facilities, Capgemini has, for some time, been investing heavily in
+improving the power efficiency of our data centers, including:
+•	 sourcing renewable energy;
+•	 converting AC mains power supply to DC;
+•	 installing energy-efficient lighting and moving to lights-out operation; and
+•	 monitoring temperature set points and making adjustments as required to maintain an optimal power-to- processing ratio.
+Among Merlin’s key sustainability achievements are:
+•	 a PUE (Power Usage Effectiveness) ratio of 1.09, which means significant power savings when compared to an “industry
+average” data center;
+•	 a cooling system that delivers 80% savings in running costs and produces up to 50% less carbon emissions than traditional
+data center cooling solutions; and
+•	 the elimination of batteries in the Uninterruptible Power Supply (UPS) thanks to the application of innovative flywheel
+technology.
+Since opening in 2010, Merlin has won the Data Centre Dynamics Leaders’ Green Data Centre Award (2010) and the Uptime
+Institute’s Green IT Award for Data Center Design (2011). It was also a runner up in The Guardian’s 2011 Sustainable Business
+Awards, and a finalist in the 2011 Business Green Leader’s awards. In 2014 it won the EU Institute for Energy and Transport’s
+2013 European Code of Conduct for Data Center Energy Efficiency Award.
+Further information is available from:
+https://www.capgemini.com/resources/a-closer-look-at-merlin
+
+40
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+Appendices
+Appendix A: Environmental Performance Data
+
+Scope and Metric
+
+Energy
+Use (MWh)
+
+Scope 1 Emissions
+
+Scope 2 Emissions
+
+(t CO2e)
+Country
+
+Energy
+
+Gas
+
+(t CO2e)
+
+Diesel/
+Gas Oil
+
+(All
+sources)
+
+Data
+Center
+Electricity
+
+Office
+Electricity
+
+Office
+Cooling
+
+Scope 3
+Emissions
+
+Total
+Energy
+Emissions
+
+(t CO2e)
+
+(t CO2e)
+
+Electricity
+Urban
+Heating
+
+Electricity
+
+Total
+Energy
+Emissions
+
+T&D
+Losses
+
+India – Capgemini & Sogeti
+
+76,993
+
+N/A
+
+2,131
+
+N/A
+
+56,811
+
+N/A
+
+N/A
+
+12,594
+
+71,536
+
+France – Capgemini, Sogeti & Prosodie
+
+87,730
+
+250
+
+40
+
+2,776
+
+2,264
+
+N/A
+
+64
+
+442
+
+5,835
+
+UK – Capgemini, incl FS &Sogeti
+
+67,201
+
+890
+
+7
+
+22,016
+
+6,802
+
+N/A
+
+N/A
+
+2,379
+
+32,094
+
+Netherlands
+
+21,309
+
+124
+
+16
+
+5,999
+
+2,183
+
+N/A
+
+14
+
+345
+
+8,681
+
+North America
+
+35,348
+
+11
+
+88
+
+7,820
+
+7,358
+
+N/A
+
+N/A
+
+1,113
+
+16,390
+
+6,690
+
+N/A
+
+N/A
+
+667
+
+430
+
+N/A
+
+N/A
+
+98
+
+1,195
+
+USA – Capgemini & Sogeti
+
+Canada
+
+28,658
+
+11
+
+88
+
+7,152
+
+6,927
+
+N/A
+
+N/A
+
+1,015
+
+15,195
+
+Total Largest operations
+
+288,581
+
+1,275
+
+2,282
+
+38,611
+
+75,418
+
+N/A
+
+78
+
+16,873
+
+134,537
+
+Belgium – Capgemini & Sogeti
+
+554
+
+40
+
+N/A
+
+N/A
+
+63
+
+N/A
+
+N/A
+
+3
+
+107
+
+Czech Republic
+
+232
+
+N/A
+
+N/A
+
+N/A
+
+21
+
+N/A
+
+44
+
+2
+
+67
+
+Denmark – Capgemini
+
+123
+
+N/A
+
+N/A
+
+N/A
+
+36
+
+N/A
+
+N/A
+
+3
+
+39
+
+Finland – Capgemini
+Germany – Capgemini & Sogeti
+Ireland – Sogeti
+Italy
+
+9,949
+
+N/A
+
+27
+
+1,400
+
+231
+
+N/A
+
+294
+
+59
+
+2,012
+
+13,052
+
+330
+
+N/A
+
+3,091
+
+1,663
+
+N/A
+
+266
+
+222
+
+5,572
+
+78
+
+N/A
+
+N/A
+
+N/A
+
+33
+
+N/A
+
+N/A
+
+3
+
+36
+
+3,543
+
+200
+
+N/A
+
+661
+
+319
+
+N/A
+
+N/A
+
+69
+
+1,250
+
+Luxembourg Sogeti
+
+196
+
+N/A
+
+N/A
+
+N/A
+
+77
+
+N/A
+
+N/A
+
+1
+
+78
+
+Norway Capgemini
+
+1,053
+
+N/A
+
+N/A
+
+N/A
+
+11
+
+N/A
+
+53
+
+1
+
+65
+
+11,946
+
+237
+
+N/A
+
+N/A
+
+6,938
+
+N/A
+
+380
+
+616
+
+8,170
+
+881
+
+32
+
+N/A
+
+N/A
+
+159
+
+17
+
+59
+
+27
+
+294
+
+Spain – Capgemini & Sogeti
+
+5,665
+
+27
+
+N/A
+
+N/A
+
+1,596
+
+N/A
+
+N/A
+
+170
+
+1,793
+
+Sweden – Capgemini & Sogeti
+
+3,520
+
+N/A
+
+N/A
+
+4
+
+36
+
+34
+
+189
+
+3
+
+266
+
+270
+
+Not
+Available
+
+N/A
+
+6
+
+3
+
+N/A
+
+N/A
+
+1
+
+9
+
+Other Europe
+
+51,062
+
+866
+
+27
+
+5,161
+
+11,187
+
+51
+
+1,284
+
+1,180
+
+19,756
+
+Brazil
+
+10,328
+
+1
+
+13
+
+137
+
+575
+
+N/A
+
+N/A
+
+142
+
+868
+
+1,205
+
+N/A
+
+N/A
+
+N/A
+
+222
+
+N/A
+
+N/A
+
+42
+
+264
+
+199
+
+N/A
+
+N/A
+
+6
+
+83
+
+N/A
+
+N/A
+
+17
+
+106
+
+11,733
+
+1
+
+13
+
+143
+
+880
+
+N/A
+
+N/A
+
+201
+
+1,238
+
+4,607
+
+N/A
+
+N/A
+
+505
+
+2,961
+
+N/A
+
+N/A
+
+243
+
+3,710
+
+Philippines
+
+531
+
+N/A
+
+N/A
+
+N/A
+
+264
+
+N/A
+
+N/A
+
+37
+
+302
+
+Vietnam
+
+199
+
+N/A
+
+N/A
+
+N/A
+
+94
+
+N/A
+
+N/A
+
+14
+
+108
+
+Australia Capgemini (including BPO)
+
+551
+
+N/A
+
+N/A
+
+N/A
+
+448
+
+N/A
+
+N/A
+
+27
+
+475
+
+2,072
+
+N/A
+
+N/A
+
+N/A
+
+1,206
+
+N/A
+
+N/A
+
+175
+
+1,380
+
+Poland
+Romania
+
+Switzerland – Capgemini & Sogeti
+
+Guatemala
+Mexico
+Total Latin America
+China Capgemini (including FS and
+BPO)
+
+Morocco
+Total Other Regions
+Total Reported Countries
+Total Non Reported Countries
+Grand total
+
+7,960
+
+N/A
+
+N/A
+
+505
+
+4,973
+
+N/A
+
+N/A
+
+496
+
+5,975
+
+359,335
+
+2,141
+
+2,322
+
+44,421
+
+92,459
+
+51
+
+1,362
+
+18,750
+
+161,506
+
+4,323
+
+26
+
+28
+
+534
+
+1,112
+
+1
+
+16
+
+226
+
+1,943
+
+363,658
+
+2,167
+
+2,350
+
+44,955
+
+93,571
+
+52
+
+1,378
+
+18,976
+
+163,449
+
+41
+
+F-Gas
+Scope and Metric
+
+Country
+
+India – Capgemini & Sogeti
+France – Capgemini, Sogeti & Prosodie
+UK – Capgemini, Aspire, FS, Sogeti
+Netherlands
+
+Travel
+
+Waste Generated
+(non-hazardous)
+
+Scope 1
+Scope 3
+Emissions Emissions
+
+Weight
+
+Water
+
+Total Emissions
+
+Scope 3
+Water Use
+Scope 3
+Emissions
+Emissions
+(t CO2e)
+
+(m3)
+
+Total Emissions
+
+(t CO2e)
+
+(t CO2e)
+
+(in Tons)
+
+Total
+F-Gas
+Emissions
+
+Total
+Business
+Travel
+Emissions
+
+Total
+Waste
+
+(t CO2e)
+
+(t CO2e)
+
+645
+
+38,904
+
+682
+
+55
+
+511,863
+
+539
+
+111,679
+
+113,025
+
+-1.19%
+
+Not
+Available
+
+26,846
+
+290
+
+6
+
+70,682
+
+74
+
+32,762
+
+30,443
+
+7.62%
+
+352
+
+13,309
+
+256
+
+7
+
+65,116
+
+69
+
+45,831
+
+52,315
+
+-12.39%
+
+Not
+Available
+
+26,308
+
+189
+
+7
+
+20,725
+
+22
+
+35,018
+
+40,179
+
+-12.84%
+
+Total
+Water Use
+Total
+2015 Total 2014 Total % Change
+Waste
+Water
+Emissions Emissions from 2014
+Emissions
+Emissions
+
+North America
+
+N/A
+
+35,207
+
+472
+
+43
+
+14,686
+
+15
+
+51,656
+
+49,123
+
+5.15%
+
+Canada
+
+N/A
+
+1,339
+
+90
+
+8
+
+2,027
+
+2
+
+2,545
+
+2,623
+
+-2.97%
+
+USA – Capgemini & Sogeti
+
+N/A
+
+33,868
+
+382
+
+35
+
+12,659
+
+13
+
+49,110
+
+46,500
+
+5.61%
+
+Total Largest operations
+
+996
+
+140,575
+
+1,890
+
+119
+
+683,072
+
+719
+
+276,945
+
+285,085
+
+-2.86%
+
+Not
+Available
+
+5,573
+
+19
+
+1
+
+851
+
+1
+
+5,682
+
+5,704
+
+-0.38%
+
+Belgium – Capgemini & Sogeti
+
+50
+
+82
+
+12
+
+1
+
+6
+
+0
+
+200
+
+215
+
+-6.89%
+
+Denmark – Capgemini
+
+Czech Republic
+
+N/A
+
+219
+
+42
+
+1
+
+Not
+Available
+
+Not
+Available
+
+259
+
+368
+
+-29.70%
+
+Finland – Capgemini
+
+N/A
+
+406
+
+54
+
+3
+
+210
+
+0
+
+2,421
+
+2,576
+
+-6.03%
+
+Not
+Available
+
+9,322
+
+211
+
+20
+
+6,731
+
+7
+
+14,920
+
+14,529
+
+2.69%
+
+N/A
+
+22
+
+0
+
+0
+
+Not
+Available
+
+Not
+Available
+
+58
+
+81
+
+-28.57%
+
+Not
+Available
+
+3,050
+
+75
+
+7
+
+52,838
+
+56
+
+4,363
+
+4,609
+
+-5.35%
+
+Luxembourg Sogeti
+
+N/A
+
+2,748
+
+7
+
+1
+
+Not
+Available
+
+Not
+Available
+
+2,827
+
+2,920
+
+-3.18%
+
+Norway Capgemini
+
+N/A
+
+499
+
+33
+
+2
+
+902
+
+1
+
+568
+
+661
+
+-14.06%
+
+Poland
+
+N/A
+
+2,674
+
+386
+
+30
+
+27,462
+
+29
+
+10,902
+
+10,229
+
+6.59%
+
+Not
+Available
+
+105
+
+0
+
+0
+
+2,190
+
+2
+
+401
+
+317
+
+26.55%
+
+N/A
+
+1,899
+
+226
+
+18
+
+14,707
+
+15
+
+3,725
+
+3,104
+
+20.02%
+
+Sweden – Capgemini & Sogeti
+
+372
+
+2,554
+
+110
+
+8
+
+890
+
+1
+
+3,201
+
+3,884
+
+-17.57%
+
+Switzerland – Capgemini & Sogeti
+
+N/A
+
+243
+
+5
+
+0
+
+3
+
+0
+
+253
+
+173
+
+46.37%
+
+Total Other Europe
+
+422
+
+29,397
+
+1,181
+
+92
+
+106,791
+
+112
+
+49,779
+
+49,368
+
+0.83%
+-10.72%
+
+Germany – Capgemini & Sogeti
+Ireland – Sogeti
+Italy
+
+Romania
+Spain – Capgemini & Sogeti
+
+20
+
+2,762
+
+36
+
+1
+
+21
+
+0
+
+3,651
+
+4,089
+
+Guatemala
+
+Brazil
+
+N/A
+
+380
+
+51
+
+5
+
+10,470
+
+11
+
+660
+
+609
+
+8.35%
+
+Mexico
+
+N/A
+
+393
+
+9
+
+1
+
+612
+
+1
+
+501
+
+328
+
+52.54%
+
+20
+
+3,535
+
+96
+
+6
+
+11,104
+
+12
+
+4,811
+
+5,026
+
+-4.28%
+
+China – Capgemini, FS & BPO
+
+N/A
+
+3,593
+
+52
+
+5
+
+19,552
+
+21
+
+7,328
+
+7,622
+
+-3.85%
+
+Philippines
+
+N/A
+
+57
+
+11
+
+0
+
+1,631
+
+2
+
+361
+
+404
+
+-10.59%
+
+Total Latin America
+
+Vietnam
+
+N/A
+
+83
+
+1
+
+0
+
+63
+
+0
+
+191
+
+195
+
+-2.27%
+
+Australia Capgemini (including BPO)
+
+N/A
+
+736
+
+Not
+Available
+
+Not
+Available
+
+12,048
+
+13
+
+1,224
+
+2,408
+
+-49.16%
+
+Morocco
+
+N/A
+
+108
+
+12
+
+1
+
+6,936
+
+7
+
+1,497
+
+1,156
+
+29.56%
+-10.04%
+
+Total Other Regions
+Reported Countries
+Total Non Reported Countries
+Grand Total
+
+42
+
+N/A
+
+4,578
+
+76
+
+6
+
+40,230
+
+42
+
+10,602
+
+11,785
+
+1,438
+
+178,084
+
+3,242
+
+223
+
+841,196
+
+885
+
+342,138
+
+351,264
+
+-2.60%
+
+17
+
+2,142
+
+39
+
+3
+
+10,120
+
+11
+
+4,116
+
+8,928
+
+-53.89%
+
+1,456
+
+180,227
+
+3,281
+
+226
+
+851,316
+
+896
+
+346,254
+
+360,191
+
+-3.87%
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+Notes
+-	 Data included in the tables is for the reporting period January to December 2015 (unless otherwise indicated)
+-	 Data included in the tables does not include IGATE.
+-	 The non reporting country emissions have been estimated based on the average tons of carbon per person (based on average headcount).
+	 The headcount associated with the non reporting countries has been calculated by deducting the total average headcount of the listed reporting
+	 countries from the Group total average headcount for both 2014 and 2015. The 50% reduction in non reporting country emissions in 2015 when
+	 compared to 2014 is as a direct result of a 51% fall in the average headcount associated with the same.
+-	 Table key: N/A = Not Applicable where data sources are not applicable and Not Available, which denotes areas where data is assumed to exist but
+	 was not available for the purposes of this report.
+-	 “Scope” is a reporting term from Greenhouse Gas Protocol, which is used in carbon accounting to categorize emissions reported according to the
+	 level of control a company has over an emissions source.
+-	 All emission sources: With the exception of hotel nights (mentioned below), emissions have been calculated using the conversion factors and
+	 methodology recommended by the DEFRA: https://www.gov.uk/measuring-and-reporting-environmental-impacts-guidance-for- businesses.
+-	 Energy: For all countries, a location-based emission factor has been applied to Scope 2 emissions from purchased electricity.
+-	 Energy: Given the nature of our business, many of Capgemini’s offices have large server rooms. These are not considered to be data centers but
+	 their presence should be taken into consideration when comparing the energy usage of our offices against those in other sectors.
+-	 Energy: T&D losses refers to electricity transmission and distribution grid losses (the energy loss that occurs in getting the electricity from the power
+	 plant to our facilities). During 2015, the scope of our carbon accounting was improved to include a calculation of emissions from T&D Losses for all
+	countries.
+-	 Energy: For the UK, electricity data for two offices has been estimated, one based on available data for that site from 2014 and the other based on
+	 2013 electricity usage at a similar site in a similar location.
+-	 Energy: For Canada, electricity usage is calculated based on the amount paid at the start of each year.
+-	 Energy: Diesel for India in 2014 was updated following a correction received in 2015.
+-	 F-Gas: F-gas emissions reported for 2014 were overestimated for some entities due to the inclusion of F-gases not covered by the Kyoto Protocol.
+	 2014 F-gas emissions have therefore been restated. Although they are not included in the reported data, the emissions relating to the gases not
+	 covered by the protocol are still captured with a value of just under 607 tCO2e.
+-	 Travel: Emission factors as produced by the Carbon Neutral Company have been used to calculate the emissions associated with hotel nights in all
+	 countries. It was identified during the external Grenelle II audit in 2012, that these factors, when applied outside the UK, may be too high with the
+	 result that the figures presented above are likely to be higher than reality. As more appropriate emission factors could not be obtained at the time,
+	 the figures have been reported as calculated. However, new lower factors have been developed to be applied during 2016.
+-	 Travel: In the Netherlands and Belgium, emissions data associated with travel include personal car use as well as business mileage as it cannot be
+	separated.
+-	 Travel: 2014 Car and Rail data for Canada has been restated using the expense system in place, rather than the travel agent data which was found
+	 to be a more accurate repository of data
+-	 Waste: For the US and Canada, 2015 waste data is estimated based on 2012 invoices (received in 2013), with data adjusted to take into account
+	 “Actual number of people in office” in 2015.
+-	 Water: As recommended by DEFRA we calculate both emissions associated with water supply and emissions associated with water treatment.
+As the volume of water being sent for treatment is unmetered it is assumed that the volume is the same as that being supplied.
+-	 Water: For the US and Canada, 2015 water data for all facilities is estimated based on two invoices from 2015, with data adjusted to take into
+	 account the ”area of office”. The same is done for 2014 data. (Water is charged based on office area irrespective of headcount).
+
+43
+
+Appendix B: Community Investment and Donations
+Summary of donations made
+Countries
+India
+
+Donations
+
+Programs
+
+1,293,819 € Hope foundation (99k€), Sri Sri Ravishankar Vidya Mandir Trust (67k€), Saahas (61k€),
+Foundation for Excellence India Trust (81k€), Naasscom foundation (68k€), Anirban rural
+welfare society (52k€)..., 432k€ from iGate.
+
+France
+
+260,715 € Passeport Avenir (50k€), Emmaus connect (50k€), Programme booster (20k€), Mission
+Handicap (120k€)
+
+UK & Ireland
+
+164,847 € The Prince’s Trust Membership (83.5k), CIAs awarded (35k€), Naandi (18k€)
+
+North America
+
+159,502 € Columbus Citizens Foundation (19k€), American India foundation (19k€), IICF Insurance
+Industry Charitable Foundation (11k€), TM Charity Classic by Vail Place (11k€),
+United Way (21k€)..
+
+Benelux
+Largest operations sub-total
+
+58,048 € St. Opkikker (47.5k€)
+1,936,932 €
+
+Nordic countries
+
+117,891 € Naandi 110k€
+
+Latam
+
+49,293 € Fondo Unido (33k€), Foundation Incluyeme (13k€)
+
+South Europe
+
+126,925 € Foundation Adecco (67k€), Save the Children (20k€), Cadin (24k€)
+
+Germany and Central Europe
+
+11,126 € Managers of the Future Foundation (6k€), Jasiek Mela Foundation „Poza Horozyonty”
+(„Beyond Horizons”) (3k€)
+
+Asia Pacific
+
+8,579 € Smile Foundation: Reindeer Park Fund Raising (3k€), Naandi (2k€)
+
+TOTAL
+
+2,250,746 €
+
+The high increase in donations in 2015 is mostly due to India where the government rules changed and asked to all
+companies to spend 2% of their profit for Corporate Social Responsibility related activities every year.
+
+44
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+Appendix C: Global Diversity & Inclusion Charter
+
+Capgemini’s success, brand identity and client experience are determined by the talented people who work for us. We believe
+that people perform better when they are empowered to be their authentic self at work and feel included in the way we approach
+how we work to deliver services to our clients. Cultivating an inclusive environment and ensuring that every voice of Capgemini is
+heard and considered, maximizes our capability to win and deliver business and makes Capgemini a great place to work.
+Our approach to Diveristy & inclusion is formalized within our Group Diversity and Inclusion Charter which was refreshed in 2014
+and outlines our commitment to:
+•	 engage with our clients, partners and suppliers to ensure there is understanding and alignment to our values, diversity and
+inclusion commitments and clear expectations;
+•	 recruit and retain a talented and diverse workforce to deliver innovative, world-class solutions for our clients;
+•	 foster an inclusive workplace environment that offers every employee the opportunity for a successful career;
+•	 engage employees in the diversity and inclusion agenda through communication, awareness, and education to build cultural
+competencies, and career development opportunities;
+•	 continually review and integrate employee feedback to implement programs that provide employee engagement opportunities
+and drive leadership accountability;
+•	 design, implement and regularly review and update policies to ensure that we, as an organization, are embracing diversity,
+cultivating inclusion, and responding to our employees’ needs;
+•	 support and leverage local and global networks across the Group business operations for employees and led by employees
+building communities to drive inclusion across culture, commerce, career, and community;
+•	 encourage and support our employees to consider diversity and inclusion in our everyday business decisions (e.g.
+procurement, building a team, initiative sponsorship);
+•	 integrate diversity and inclusion principles into Capgemini’s business systems and activities based on five key drivers:
+workplace, workforce, marketplace, community, and executive engagement across the Group;
+•	 comply with all applicable laws concerning diversity and inclusion supported through enabling employees to obtain guidance
+or report concerns on compliance and misconduct;
+•	 report our progress, best practices and results across the Group both internally and externally based on our inclusion and
+diversity success measures;
+•	 enhance Capgemini’s external employer brand through the promotion of our diversity and inclusion achievements.
+Our differences are a source of creativity, innovation and inspiration. Embracing diversity and inclusion equips us to reflect
+today’s global marketplace in the communities where we operate, enables us to generate new ideas or anticipate market trends
+as thought leaders in our chosen markets and supports us in better understanding the challenges of our clients, partners and
+suppliers. We believe this will enhance the working experience of our people around the Group, create greater opportunities for
+sustainable business and affirm Capgemini’s status as a global employer of choice.
+
+45
+
+Appendix D: Commitments, Awards and Recognitions
+
+We have stated our commitment to Corporate Responsibility
+& Sustainability in a number of areas:
+
+A number of actions have also been taken in certain countries,
+including:
+
+•	 Capgemini has been a signatory to the UN Global Compact
+since 2004. The member companies of this program
+support/comply with ten principles in the areas of the
+environment, human rights, labor rights, and the fight
+against corruption;
+
+•	 Capgemini France became a signatory of the “charte de
+la diversité” in 2006 and the “charte de la banlieue 2.0”
+in 2010;
+
+•	 Capgemini supports the principles of the 1948 Universal
+Declaration of Human Rights and the fundamental
+conventions of the International Labour Organization (ILO)
+refusing the use of forced labor or child labor;
+•	 Capgemini supports the OECD guidelines for multinational
+enterprises;
+•	 Capgemini has been a signatory to the UN Global
+Compact’s “Caring for Climate” initiative since its inception
+in 2007;
+•	 Capgemini has been a signatory to the Women’s
+Empowerment Principles since their inception in 2011;
+•	 Capgemini is a signatory of the 2010 Guadalajara ICT
+Declaration on Transformative Low-carbon Solutions. This
+document urged governments at the 2010 Cancun Summit
+to use the power of ICT to make the transition to low
+a carbon economy;
+•	 In partnership with the GoodPlanet foundation, Capgemini
+translated the 2011 Worldwatch Institute Report into French; and
+•	 In 2015, Capgemini Chairman and CEO Paul Hermelin
+signed the Business Proposals for COP 21 in support of
+the 21st session of the Conference of the Parties to the
+UN Framework Convention on Climate Change.
+
+•	 Capgemini France has been signatory to the Charter
+“enterprises et quartiers” in 2013;
+•	 Capgemini France has been signatory to the “Charte de
+la parentalité” in 2011;
+•	 Capgemini France has been signatory to the “Charte de
+l’apprentissage” in 2011;
+•	 Capgemini UK is also a signatory of a series of six and the
+Trillion Ton Communique in 2014 communiqués on Climate
+Change organized by the Prince of Wales’s Corporate
+Leaders’ Group on Climate Change. They are the Climate
+Change (2012), Cancun (2010), Copenhagen (2009), Poznan
+(2008), and Bali (2007) communiqués;
+•	 Capgemini UK has registered its support for the Think Act
+Report initiative, a voluntary framework developed by the
+UK Government with the aim of promoting gender equality
+within the workplace;
+•	 Capgemini Germany signed the “Charta der Vielfalt“
+(the Diversity Charter) in October 2014;
+•	 Capgemini NL is signatory of the Talent to the Top Charter
+(gender diversity) since 2009;
+•	 Capgemini NL committed to the Multiple Year Agreement
+program in 2009. This is public private collaboration
+program is aiming for more effective and efficient
+energy use;
+•	 Capgemini NL committed to the Lean & Green Personal
+Mobility Program in 2013; and
+•	 Capgemini NL achieved the highest level (5) on the Dutch
+CO2 Performance ladder (governed by SKAO) following
+external audit in December 2015.
+
+46
+
+Corporate Responsibility and Sustainability Update 2015/2016
+
+As a result of our on-going commitment to Corporate
+Responsibility & Sustainability, in 2015 Capgemini was:
+•	 once again recognized as one of the World’s Most Ethical
+Companies in 2015 by the Ethisphere Institute, a leading
+international think tank specializing in research on ethical
+business practices;
+•	 included again in the FTSE4Good;
+•	 reconfirmed as a constituent of the Ethibel Sustainability
+Index (ESI) Excellence Europe;
+•	 recognized in the European Economic Congress’ 2015
+Responsible Companies Ranking for its quality
+management of CR&S; given 36th place overall and 2nd
+place in the Telecommunications, technology, media and
+entertainment sector;
+•	 Capgemini UK awarded with the Positive about Disabled
+People Two Ticks Accreditation from Business in the
+Community for the seventh year running;
+•	 named within the annual Corporate 101 list by MBN USA
+Magazine (Minority Business Network), as representing the
+‘Most Admired Companies’ in Supplier Diversity in
+Capgemini North America;
+
+•	 named as a winner in the Golden Peacock Awards for
+Sustainability, for managing natural resources and
+conserving electricity and water in Capgemini India;
+•	 awarded the Eco Corporate of the Year Award (Services
+category) in the Yes Bank Natural capital Awards which
+reward and showcase organizations dedicated to
+environmental stewardship. The award was in recognition
+of Capgemini India’s Smart Energy Management Solution
+which was deployed across major Capgemini India
+locations in 2014;
+•	 named as amongst Canada’s Best Diversity Employers in
+2015 and 2016;
+•	 successful in achieving ISO 14001 certification covering
+Capgemini North America, Sweden and Capgemini France
+(extending coverage to include operations in eleven
+countries) (bringing the total coverage to 76% of our Group
+headcount);
+•	 named as a Rated Supplier on the Chartered Institute of
+Purchasing and Supply (CIPS) Sustainability Index (CSI);
+•	 awarded a Diamond for Gender Diversity Performance in
+Capgemini Netherlands (May 2015) by the Monitor Talent
+to the Top.
+
+47
+
+More information about our services,
+offices and research is available at www.capgemini.com
+
+About Capgemini
+With more than 180,000 people in over 40 countries, Capgemini
+is one of the world’s foremost providers of consulting, technology
+and outsourcing services. The Group reported 2015 global
+revenues of EUR 11.9 billion.
+Together with its clients, Capgemini creates and delivers
+business, technology and digital solutions that fit their needs,
+enabling them to achieve innovation and competitiveness.
+A deeply multicultural organization, Capgemini has developed its
+own way of working, the Collaborative Business ExperienceTM,
+and draws on Rightshore®, its worldwide delivery model.
+Learn more about us at www.capgemini.com.
+ 
+Rightshore® is a trademark belonging to Capgemini
+The information contained in this document is proprietary.
+©2016 Capgemini. All rights reserved. Rightshore ® is a trademark belonging to Capgemini.
+
+
